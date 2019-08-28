@@ -1,12 +1,13 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: Read Write Tech.©️
+title: Read Write Tech.©️ | Kick-ass Tech News.
+description: Read Write Tech.©️ is a Personal Tech Blog / News Website that Gets You Updated with Latest Techno News.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
+  - Technology
+  - Tech news
+  - Gadget News
+  - Tech Blog
+  - Gadget Reviews
+  - Creators News
+email: tksudharshan@gmail.com
 disqus_username: disqus_username
 show_hero: true
