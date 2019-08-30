@@ -1,5 +1,5 @@
 ---
-date: {}
+date: 2019-08-08T00:00:00.000Z
 layout: post
 title: 'Birds can fly, but this you knew already'
 subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
@@ -14,7 +14,7 @@ category: life
 tags:
   - life
   - tips
-author: thiagorossener
+author: shan
 published: true
 ---
 
