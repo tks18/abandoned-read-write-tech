@@ -11,5 +11,5 @@ twitter_username: thiagorossener
 instagram_username: thiagorossener
 linkedin_username: thiagorossener
 medium_username: thiagorossener
+published: true
 ---
-
