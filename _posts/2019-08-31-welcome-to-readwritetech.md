@@ -6,7 +6,7 @@ subtitle: We are Amazingly Tech Maniac.
 description: >-
   Welcome to Read Write Tech From Sudharshan.
 image: >-
-  https://res.cloudinary.com/read-write-tech/image/upload/v1567238061/blog-image_gek7ag.png
+  https://res.cloudinary.com/read-write-tech/image/upload/v1567238061/blog-image_gek7ag.webp
 optimized_image: >-
   https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_200,w_380/blog-image_gek7ag.webp
 category: blog
