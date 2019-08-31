@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: https://media.giphy.com/media/QAmLOHwhNz2Wg3pztG/giphy.gif
 name: shan
 display_name: Sudharshan TK
 position: Author
