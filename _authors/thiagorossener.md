@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: thiagorossener
+name: shan
 display_name: Sudharshan TK
 position: Chief Editor
 bio: Just a developer.
