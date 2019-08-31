@@ -1,5 +1,5 @@
 ---
-date: 2019-08-31 12:48:05
+date: 2019-08-30 12:48:05
 layout: post
 title: Welcome to the Read Write Tech.©️
 subtitle: We are Amazingly Tech Maniac.
@@ -13,6 +13,8 @@ category: blog
 tags:
   - welcome
   - blog
-author: thiagorossener
+author: shan
 paginate: true
 ---
+
+This is Sudharshan from Read write Tech
