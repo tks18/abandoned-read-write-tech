@@ -14,7 +14,7 @@ category: life
 tags:
   - life
   - tips
-author: thiagorossener
+author: shan
 published: true
 ---
 
