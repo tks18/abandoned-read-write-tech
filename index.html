@@ -1,5 +1,6 @@
 ---
 layout: main
+published: true
 ---
 
 {% if site.paginate %}
@@ -163,7 +164,7 @@ layout: main
                 "genre": "{{ post.category | capitalize }}",
 		        "articleSection": "{{ post.category | capitalize }}",
                 "keywords": [{{ post.tags | join: '","' | append: '"' | prepend: '"' }}]
-            }{% if forloop.index < limit %},{% endif %}
+            }{% if forloop.index < limit %}{% endif %}
         {% endfor %}
         ]
     }
