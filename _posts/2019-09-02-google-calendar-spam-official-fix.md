@@ -1,20 +1,17 @@
 ---
 title: Official fix for Google Calendar spam is (eventually) coming
-date: 2019-09-02T17:45:00.000Z
-published: true
+date: 2019-09-02 17:45:00 Z
 categories:
-  - Android
+- Android
 tags:
-  - calendar
-  - google
-  - spam fix
+- calendar
+- google
+- spam fix
 layout: post
 subtitle: Google has officially acknowledged the spam problem with Calendar.
 description: Google has officially acknowledged the spam problem with Calendar.
-image: >-
-  https://res.cloudinary.com/read-write-tech/image/upload/v1567524896/google_calendar_1_eakjn1.webp
-optimized_image: >-
-  https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_200,w_380/google_calendar_1_eakjn1.webp
+image: https://res.cloudinary.com/read-write-tech/image/upload/v1567524896/google_calendar_1_eakjn1.webp
+optimized_image: https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_200,w_380/google_calendar_1_eakjn1.webp
 author: shan
 paginate: true
 ---
