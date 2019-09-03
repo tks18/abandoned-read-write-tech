@@ -1,6 +1,6 @@
 ---
 title: Official fix for Google Calendar spam is (eventually) coming
-date: {}
+date: 2019-09-02T17:45:00.000Z
 published: true
 categories:
   - Android
