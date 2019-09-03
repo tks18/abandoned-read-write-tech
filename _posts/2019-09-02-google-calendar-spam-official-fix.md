@@ -1,23 +1,22 @@
 ---
-published: false
-date: 2019-09-02T17:48:05.000Z
-categories:
-  - Android
-tags:
-  - calendar
-  - google
-  - spam fix
-layout: post
 title: Official fix for Google Calendar spam is (eventually) coming
+date: 2019-09-02 17:48:05 Z
+published: false
+categories:
+- Android
+tags:
+- calendar
+- google
+- spam fix
+layout: post
 subtitle: Google has officially acknowledged the spam problem with Calendar.
 description: Google has officially acknowledged the spam problem with Calendar.
-image: >-
-  https://res.cloudinary.com/read-write-tech/image/upload/v1567524896/google_calendar_1_eakjn1.webp
-optimized_image: >-
-  https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_200,w_380/google_calendar_1_eakjn1.webp
+image: https://res.cloudinary.com/read-write-tech/image/upload/v1567524896/google_calendar_1_eakjn1.webp
+optimized_image: https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_200,w_380/google_calendar_1_eakjn1.webp
 author: shan
 paginate: true
 ---
+
 For the past few months, a method of spamming Google accounts via Calendar has made the rounds. As of the past couple of weeks, though, things have just gotten much worse. Today, Google has officially acknowledged the spam problem with Calendar and says that a fix will be coming.
 
 A very brief post on Google’s support forums confirms the company is aware of this spam issue that has been affecting users. The company says that it is “working diligently” to resolve the problem, but at the moment, there’s no timeline attached to that.
