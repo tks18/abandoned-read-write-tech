@@ -1,6 +1,6 @@
 ---
+permalink: "/contact/message-sent/"
 layout: default
-permalink: /contact/message-sent/
 ---
 
 <style type="text/css" media="screen">
