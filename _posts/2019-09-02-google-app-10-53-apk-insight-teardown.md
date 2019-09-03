@@ -1,20 +1,18 @@
 ---
 title: Google app 10.53 hints at next-gen Discover more Ambient Mode
-date: 2019-09-02T16:50:00.000Z
+date: 2019-09-02 16:50:00 Z
 published: false
 categories:
-  - App Insight
+- App Insight
 tags:
-  - Google
-  - new gen feed
-  - discover
+- Google
+- new gen feed
+- discover
 layout: post
 subtitle: The latest beta release also reveals more work on the Ambient Mode.
 description: The latest beta release also reveals more work on the Ambient Mode.
-image: >-
-  https://res.cloudinary.com/read-write-tech/image/upload/v1567525447/APK-Insight-Google-App-10-53_vzbt6x.webp
-optimized_image: >-
-  https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_200,w_380/APK-Insight-Google-App-10-53_vzbt6x.webp
+image: https://res.cloudinary.com/read-write-tech/image/upload/v1567525447/APK-Insight-Google-App-10-53_vzbt6x.webp
+optimized_image: https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_200,w_380/APK-Insight-Google-App-10-53_vzbt6x.webp
 author: shan
 paginate: true
 ---
