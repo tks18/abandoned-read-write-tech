@@ -1,6 +1,6 @@
 ---
 title: Google app 10.53 hints at next-gen Discover more Ambient Mode
-date: {}
+date: 2019-09-02T16:50:00.000Z
 published: false
 categories:
   - App Insight
