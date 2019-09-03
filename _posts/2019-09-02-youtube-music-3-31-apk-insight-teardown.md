@@ -1,19 +1,16 @@
 ---
 title: YouTube Music 3.31 hints at retail mode push for Google’s streaming service
-date: 2019-09-02T19:16:00.000Z
-published: true
+date: 2019-09-02 19:16:00 Z
 categories:
-  - App Insights
+- App Insights
 tags:
-  - youtube music
-  - retail mode
+- youtube music
+- retail mode
 layout: post
 subtitle: YouTube Music 3.31 reveals work on a “retail mode” to help increase adoption.
 description: YouTube Music 3.31 reveals work on a “retail mode” to help increase adoption.
-image: >-
-  https://res.cloudinary.com/read-write-tech/image/upload/v1567526715/APK-Insight-YouTube-Music-3-31_wxtblc.webp
-optimized_image: >-
-  https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_200,w_380/APK-Insight-YouTube-Music-3-31_wxtblc.webp
+image: https://res.cloudinary.com/read-write-tech/image/upload/v1567526715/APK-Insight-YouTube-Music-3-31_wxtblc.webp
+optimized_image: https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_200,w_380/APK-Insight-YouTube-Music-3-31_wxtblc.webp
 author: shan
 paginate: true
 ---
