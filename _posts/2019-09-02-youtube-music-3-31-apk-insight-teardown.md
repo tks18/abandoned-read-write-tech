@@ -1,17 +1,19 @@
 ---
 title: YouTube Music 3.31 hints at retail mode push for Google’s streaming service
-date: 2019-09-02 19:16:00 Z
-published: false
+date: 2019-09-02T19:16:00.000Z
+published: true
 categories:
-- App Insights
+  - App Insights
 tags:
-- youtube music
-- retail mode
+  - youtube music
+  - retail mode
 layout: post
 subtitle: YouTube Music 3.31 reveals work on a “retail mode” to help increase adoption.
 description: YouTube Music 3.31 reveals work on a “retail mode” to help increase adoption.
-image: https://res.cloudinary.com/read-write-tech/image/upload/v1567526715/APK-Insight-YouTube-Music-3-31_wxtblc.webp
-optimized_image: https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_200,w_380/APK-Insight-YouTube-Music-3-31_wxtblc.webp
+image: >-
+  https://res.cloudinary.com/read-write-tech/image/upload/v1567526715/APK-Insight-YouTube-Music-3-31_wxtblc.webp
+optimized_image: >-
+  https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_200,w_380/APK-Insight-YouTube-Music-3-31_wxtblc.webp
 author: shan
 paginate: true
 ---
@@ -60,4 +62,3 @@ YouTube Music is getting another feature from Play Music that allows “external
 ***How to update?***
 
 YouTube Music 3.31 is rolling out now via the [Play Store](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music).
-
