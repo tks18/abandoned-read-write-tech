@@ -1,22 +1,21 @@
 ---
+title: YouTube Music 3.31 hints at retail mode push for Google’s streaming service
+date: 2019-09-02 19:16:00 Z
 published: false
-date: 2019-09-02T19:16:00.000Z
 categories:
-  - App Insights
+- App Insights
 tags:
-  - youtube music
-  - retail mode
+- youtube music
+- retail mode
 layout: post
 subtitle: YouTube Music 3.31 reveals work on a “retail mode” to help increase adoption.
 description: YouTube Music 3.31 reveals work on a “retail mode” to help increase adoption.
-image: >-
-  https://res.cloudinary.com/read-write-tech/image/upload/v1567526715/APK-Insight-YouTube-Music-3-31_wxtblc.webp
-optimized_image: >-
-  https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_200,w_380/APK-Insight-YouTube-Music-3-31_wxtblc.webp
+image: https://res.cloudinary.com/read-write-tech/image/upload/v1567526715/APK-Insight-YouTube-Music-3-31_wxtblc.webp
+optimized_image: https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_200,w_380/APK-Insight-YouTube-Music-3-31_wxtblc.webp
 author: shan
 paginate: true
-title: YouTube Music 3.31 hints at retail mode push for Google’s streaming service
 ---
+
 After adding Waze integration, library sorting, and new “Released” playlist in recent weeks, the latest version of Google’s primary streaming service is rolling out. YouTube Music 3.31 reveals work on a “retail mode” to help increase adoption.
 
 ***About APK Insight:*** In this APK Insight” post, we’ve decompiled the latest version of an application that Google uploaded to the Play Store. When we decompile these files (called APKs, in the case of Android apps), we’re able to see various lines of code within that hint at possible future features. Keep in mind that Google may or may not ever ship these features, and our interpretation of what they are may be imperfect. We’ll try to enable those that are closer to being finished, however, to show you how they’ll look in the case that they do ship. With that in mind, read on.
