@@ -1,6 +1,8 @@
 name: Read Write Tech.©️
 title: Read Write Tech.©️ | Kick-ass Tech News.
-description: Read Write Tech.©️ is a Personal Tech Blog / News Website that Gets You Updated with Latest Techno News.
+description: >-
+  Read Write Tech.©️ is a Personal Tech Blog / News Website that Gets You
+  Updated with Latest Techno News.
 tags:
   - Technology
   - Tech news
@@ -8,6 +10,7 @@ tags:
   - Tech Blog
   - Gadget Reviews
   - Creators News
+show_hero: true
 email: tksudharshan@gmail.com
 disqus_username: read-write-tech
-show_hero: true
+paginate: 12
