@@ -1,19 +1,18 @@
 ---
-date: '2019-09-04 11:00:00'
+title: Google Photos preps ‘Canvas prints’ and 4×6 prints from CVS, Walmart
+date: 2019-09-04 11:00:00 Z
+categories:
+- "{{slug}}"
+tags:
+- Google Photos
+- Photo Frames
 layout: post
-title: 'Google Photos preps ‘Canvas prints’ and 4×6 prints from CVS, Walmart'
 subtitle: Google Photos gained the ability to create and buy physical “Photo books.”
 description: Google Photos gained the ability to create and buy physical “Photo books.”
-image: >-
-  https://res.cloudinary.com/read-write-tech/image/upload/v1567609237/APK-Insight-Google-Photos-4-24_oavpdc.jpg
-category: '{{slug}}'
-tags:
-  - Google Photos
-  - Photo Frames
+image: https://res.cloudinary.com/read-write-tech/image/upload/v1567609237/APK-Insight-Google-Photos-4-24_oavpdc.jpg
 author: shan
 paginate: true
 ---
-
 
 At I/O 2017, Google Photos gained the ability to create and buy physical “Photo books.” The latest version of the Android app suggests that Google is expanding its physical offerings to include “Prints” and “Canvas prints.”
 
