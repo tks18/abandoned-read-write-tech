@@ -1,21 +1,20 @@
 ---
-date: '2019-09-04 21:09:00'
-layout: post
-title: >-
-  Report says Apple to release new ‘iPhone SE’ with 4.7-inch display in spring
+title: Report says Apple to release new ‘iPhone SE’ with 4.7-inch display in spring
   2020
-subtitle: ' It is possible that the iPhone 7 will no longer be sold once the iPhone 11 is released.'
-description: >-
-  A report from Nikkei says the company is planning to launch a new 4.7-inch
-  iPhone in the spring, a spiritual iPhone SE successor — at least in terms of
-  price point.
-image: >-
-  https://res.cloudinary.com/read-write-tech/image/upload/v1567613427/iphone-8-1_oflwqm.png
-category: blog
+date: 2019-09-04 21:09:00 Z
+categories:
+- blog
 tags:
-  - Apple SE
-  - Mac
-  - Ipad
+- Apple SE
+- Mac
+- Ipad
+layout: post
+subtitle: " It is possible that the iPhone 7 will no longer be sold once the iPhone
+  11 is released."
+description: A report from Nikkei says the company is planning to launch a new 4.7-inch
+  iPhone in the spring, a spiritual iPhone SE successor — at least in terms of price
+  point.
+image: https://res.cloudinary.com/read-write-tech/image/upload/v1567613427/iphone-8-1_oflwqm.png
 author: shan
 paginate: true
 ---
