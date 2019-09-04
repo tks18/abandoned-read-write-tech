@@ -1,7 +1,7 @@
 ---
 title: Facebook
 layout: category
-slug: "{{slug}}"
+slug: facebook
 description: Posts for News in Facebook
 ---
 

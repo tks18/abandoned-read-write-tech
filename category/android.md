@@ -1,7 +1,7 @@
 ---
 title: Android
 layout: category
-slug: "{{slug}}"
+slug: android
 description: Posts for Updates in Android
 ---
 
