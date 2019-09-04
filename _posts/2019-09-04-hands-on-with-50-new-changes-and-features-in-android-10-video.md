@@ -1,20 +1,18 @@
 ---
-date: '2019-09-04 14:15:00'
-layout: post
 title: Hands-on with 50+ new changes and features in Android 10
-subtitle: >-
-  Now that the full release is here we’re going to dive even deeper and share
-  every new feature
-description: >-
-  Now that the full release is here we’re going to dive even deeper and share
-  every new feature
-image: >-
-  https://res.cloudinary.com/read-write-tech/image/upload/v1567606912/Android-10-light-logo-1_mg2axd.jpg
-category: '{{slug}}'
+date: 2019-09-04 14:15:00 Z
+categories:
+- "{{slug}}"
 tags:
-  - Android 10
-  - Pixel 3xl
-  - Pixel 2
+- Android 10
+- Pixel 3xl
+- Pixel 2
+layout: post
+subtitle: Now that the full release is here we’re going to dive even deeper and share
+  every new feature
+description: Now that the full release is here we’re going to dive even deeper and
+  share every new feature
+image: https://res.cloudinary.com/read-write-tech/image/upload/v1567606912/Android-10-light-logo-1_mg2axd.jpg
 author: shan
 paginate: true
 ---
