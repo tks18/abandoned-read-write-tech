@@ -11,7 +11,7 @@ subtitle: YouTube Music 3.31 reveals work on a “retail mode” to help increas
 description: YouTube Music 3.31 reveals work on a “retail mode” to help increase adoption.
 image: https://res.cloudinary.com/read-write-tech/image/upload/v1567526715/APK-Insight-YouTube-Music-3-31_wxtblc.webp
 optimized_image: https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_200,w_380/APK-Insight-YouTube-Music-3-31_wxtblc.webp
-author: shan
+author: "Sudharshan TK"
 paginate: true
 ---
 
