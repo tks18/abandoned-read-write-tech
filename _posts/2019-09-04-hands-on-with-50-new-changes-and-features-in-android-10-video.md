@@ -1,31 +1,39 @@
 ---
-title: Hands-on with 50+ new changes and features in Android 10 [Video]
-date: 2019-09-04 13:35:00 Z
+title: 'Hands-on with 50+ new changes and features in Android 10 '
+date: {}
 categories:
-- blog
+  - blog
 tags:
-- Android 10
-- Pixel 3xl
-- Pixel 2
+  - Android 10
+  - Pixel 3xl
+  - Pixel 2
 layout: post
-subtitle: Now that the full release is here we’re going to dive even deeper and share
+subtitle: >-
+  Now that the full release is here we’re going to dive even deeper and share
   every new feature
-description: Now that the full release is here we’re going to dive even deeper and
-  share every new feature
-image: https://res.cloudinary.com/read-write-tech/image/upload/v1567606912/Android-10-light-logo-1_mg2axd.jpg
+description: >-
+  Now that the full release is here we’re going to dive even deeper and share
+  every new feature
+image: >-
+  https://res.cloudinary.com/read-write-tech/image/upload/v1567606912/Android-10-light-logo-1_mg2axd.jpg
 author: shan
 paginate: true
+published: true
 ---
 
 We’ve had some time delving deep into the Android Q or Android 10 betas over the past few months. Now that the full release is here we’re going to dive even deeper and share every new feature and change we’ve found in Android 10 — arguably the biggest ever release of the world’s most popular mobile OS.
 
-While more than just cosmetic changes abound in Android 10, we’ll just be focusing on the end-user facing updates. Of course, these include the design, interface, and operation of the biggest Android overhaul in some time.
 
-As mentioned, we’ve covered many of the new features that have been slowly introduced and refined over the Android 10 — formerly Android Q Beta program. If you’ve already been updating your device since the very first beta, then there likely won’t be any surprises right out of the gate but there may be some tweaks and enhancements you simply weren’t aware of.
+While more than just cosmetic changes abound in Android 10, we’ll just be focusing on the end-user facing updates. Of course, these include the design, interface, and operation of the biggest Android overhaul in some time.
 
-Here is every new feature, alteration, design change or tweak in Android 10.
 
-**UI Changes:**
+As mentioned, we’ve covered many of the new features that have been slowly introduced and refined over the Android 10 — formerly Android Q Beta program. If you’ve already been updating your device since the very first beta, then there likely won’t be any surprises right out of the gate but there may be some tweaks and enhancements you simply weren’t aware of.
+
+
+Here is every new feature, alteration, design change or tweak in Android 10.
+
+**UI Changes
+:**
 
 1. System-wide dark theme – Notification toggle enables darker apps and associated menus
 2. Updated Emergency power menu – Includes an updated icon that is much more universal
@@ -40,7 +48,8 @@ We’ve had some time delving deep into the Android Q or Android 10 betas over t
 11. New ‘Permissions Manager’ – Manage and control all individual app permissions and access to your device data and sensors
 12. Adaptive Notifications now has a revamped settings UI
 
-**Usability changes:**
+**Usability changes
+:**
 
 1. Native Screen recorder – No need to install a secondary screen recording app to share your device display
 2. Chat bubbles for app notifications – Can be enabled from within Developer Settings to emulate Facebook chatheads for all notifications
@@ -70,7 +79,8 @@ We’ve had some time delving deep into the Android Q or Android 10 betas over t
 26. Smart Reply now everywhere – Contextual smart replies are now available across all apps
 27. Android Beam removed – We’re still awaiting a replacement for the wireless NFC file sharing
 
-**Cosmetic upgrades:**
+**Cosmetic upgrades
+:**
 
 1. Estimated battery life in quick settings – Up in the top right you get an estimation of the lifespan of your device
 2. Themes – Brought in with Android Q Beta 1, you can now modify your Pixel theme accent, font sizes, styles and icon shape
@@ -94,4 +104,5 @@ We’ve had some time delving deep into the Android Q or Android 10 betas over t
 
 So that is every new feature and change you’ll see in the full release of Android 10 for Pixel phones. If you haven’t already installed it, we have a handy guide showing you just how to get the latest version on your Pixel here.
 
-If you have been enrolled in the previous Android Q beta program, already know the new features inside out and have used them to death, then let us know your favorites down in the comments section below. Also conversely, what do you want to see from Android 11 now that the full-fat Queen Cake has been served. Let us know down there too.
+
+If you have been enrolled in the previous Android Q beta program, already know the new features inside out and have used them to death, then let us know your favorites down in the comments section below. Also conversely, what do you want to see from Android 11 now that the full-fat Queen Cake has been served. Let us know down there too.
