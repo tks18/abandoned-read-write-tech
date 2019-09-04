@@ -1,13 +1,7 @@
 ---
-title: 'Hands-on with 50+ new changes and features in Android 10 '
-date: {}
-categories:
-  - blog
-tags:
-  - Android 10
-  - Pixel 3xl
-  - Pixel 2
+date: '2019-09-04 14:15:00'
 layout: post
+title: Hands-on with 50+ new changes and features in Android 10
 subtitle: >-
   Now that the full release is here we’re going to dive even deeper and share
   every new feature
@@ -16,9 +10,13 @@ description: >-
   every new feature
 image: >-
   https://res.cloudinary.com/read-write-tech/image/upload/v1567606912/Android-10-light-logo-1_mg2axd.jpg
+category: '{{slug}}'
+tags:
+  - Android 10
+  - Pixel 3xl
+  - Pixel 2
 author: shan
 paginate: true
-published: true
 ---
 
 We’ve had some time delving deep into the Android Q or Android 10 betas over the past few months. Now that the full release is here we’re going to dive even deeper and share every new feature and change we’ve found in Android 10 — arguably the biggest ever release of the world’s most popular mobile OS.
