@@ -12,7 +12,7 @@ subtitle: Google has officially acknowledged the spam problem with Calendar.
 description: Google has officially acknowledged the spam problem with Calendar.
 image: https://res.cloudinary.com/read-write-tech/image/upload/v1567524896/google_calendar_1_eakjn1.webp
 optimized_image: https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_200,w_380/google_calendar_1_eakjn1.webp
-author: "Sudharshan TK"
+author: Sudharshan TK
 paginate: true
 ---
 
