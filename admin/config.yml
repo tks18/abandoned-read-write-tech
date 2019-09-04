@@ -7,6 +7,13 @@ media_library:
   config:
     cloud_name: read-write-tech
     api_key: 823346759728641
+    default_transformations:
+              -   - fetch_format: auto
+                    quality: auto
+                  - format: webp  
+                  - width: 1920
+                    crop: fill
+                  - height: 1080  
 collections:
   - label: "Categories"
     name: "categories"
@@ -65,24 +72,12 @@ collections:
         widget: "image"
         allow_multiple: false
         required: false
-        media_library:
-          config:
-            default_transformations:
-              -   - fetch_format: "webp"
-                    width: "1920"
-                    height: "1080"
       - label: "Optimized Image"
         name: "image"
         widget: "image"
         allow_multiple: false
         required: false
         hint: "You can set an optimized image version to show on the home page"
-        media_library:
-          config:
-            default_transformations:
-              -   - fetch_format: "webp"
-                    width: "380"
-                    height: "200"
       - label: "Category"
         name: "category"
         widget: "relation"
