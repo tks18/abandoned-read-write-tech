@@ -1,23 +1,22 @@
 ---
-date: '2019-09-04 13:35:00'
-layout: post
-title: 'Hands-on with 50+ new changes and features in Android 10 [Video]'
-subtitle: >-
-  Now that the full release is here we’re going to dive even deeper and share
-  every new feature
-description: >-
-  Now that the full release is here we’re going to dive even deeper and share
-  every new feature
-image: >-
-  https://res.cloudinary.com/read-write-tech/image/upload/v1567606912/Android-10-light-logo-1_mg2axd.jpg
-category: blog
+title: Hands-on with 50+ new changes and features in Android 10 [Video]
+date: 2019-09-04 13:35:00 Z
+categories:
+- blog
 tags:
-  - Android 10
-  - Pixel 3xl
-  - Pixel 2
+- Android 10
+- Pixel 3xl
+- Pixel 2
+layout: post
+subtitle: Now that the full release is here we’re going to dive even deeper and share
+  every new feature
+description: Now that the full release is here we’re going to dive even deeper and
+  share every new feature
+image: https://res.cloudinary.com/read-write-tech/image/upload/v1567606912/Android-10-light-logo-1_mg2axd.jpg
 author: shan
 paginate: true
 ---
+
 We’ve had some time delving deep into the Android Q or Android 10 betas over the past few months. Now that the full release is here we’re going to dive even deeper and share every new feature and change we’ve found in Android 10 — arguably the biggest ever release of the world’s most popular mobile OS.
 
 While more than just cosmetic changes abound in Android 10, we’ll just be focusing on the end-user facing updates. Of course, these include the design, interface, and operation of the biggest Android overhaul in some time.
