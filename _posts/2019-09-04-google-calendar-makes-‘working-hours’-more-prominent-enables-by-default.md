@@ -1,23 +1,22 @@
 ---
-date: '2019-09-04 19:35:51'
-layout: post
-title: 'Google Calendar makes ‘Working Hours’ more prominent, enables by default'
-subtitle: >-
-  The “Working Hours” feature is now more prominent, proactive, and enabled by
-  default.
-description: >-
-  The Working Hours feature in Google Calendar lets you set what times you’re
-  available every day. 
-image: >-
-  https://res.cloudinary.com/read-write-tech/image/upload/v1567606173/google-calendar-web-material-cover_qk82ei.png
-category: '{{slug}}'
+title: Google Calendar makes ‘Working Hours’ more prominent, enables by default
+date: 2019-09-04 19:35:51 Z
+categories:
+- "{{slug}}"
 tags:
-  - Google calendar
-  - working hours
-  - App Insights
+- Google calendar
+- working hours
+- App Insights
+layout: post
+subtitle: The “Working Hours” feature is now more prominent, proactive, and enabled
+  by default.
+description: 'The Working Hours feature in Google Calendar lets you set what times
+  you’re available every day. '
+image: https://res.cloudinary.com/read-write-tech/image/upload/v1567606173/google-calendar-web-material-cover_qk82ei.png
 author: shan
 paginate: true
 ---
+
 One place Google has been encouraging Digital Wellbeing and work-life balance is in Google Calendar. The “Working Hours” feature is now more prominent, proactive, and enabled by default.
 
 The Working Hours feature in Google Calendar lets you set what times you’re available every day. When scheduling a meeting in the app, Google will now note other invitees hours in the calendar grid.
