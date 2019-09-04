@@ -68,9 +68,9 @@ collections:
         media_library:
           config:
             default_transformations:
-              -   - format: webp
-                    width: 1920
-                    height: 1080
+              -   - fetch_format: "webp"
+                    width: "1920"
+                    height: "1080"
       - label: "Optimized Image"
         name: "image"
         widget: "image"
@@ -80,9 +80,9 @@ collections:
         media_library:
           config:
             default_transformations:
-              -   - format: webp
-                    width: 380
-                    height: 200
+              -   - fetch_format: "webp"
+                    width: "380"
+                    height: "200"
       - label: "Category"
         name: "category"
         widget: "relation"
