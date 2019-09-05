@@ -22,7 +22,7 @@
                 <p class="post-subtitle">{{ page.subtitle }}</p>
 
                 {% if page.image and paginator.activated == nil %}
-                    <img src="https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_1080,w_1920{{ page.image }}.webp" alt="Featured image" class="post-cover">
+                    <img src="https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_1080,w_1920/{{ page.image }}.webp" alt="Featured image" class="post-cover">
                 {% endif %}
 
                 {% include pagination-post.html progressBar=true %}
@@ -106,7 +106,7 @@
             "name": "{{ page.title }}",
             "headline": "{{ page.subtitle }}",
             "description": "{{ page.description }}",
-            "image": "https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_1080,w_1920{{ page.image }}.webp",
+            "image": "https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_1080,w_1920/{{ page.image }}.webp",
             "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
             "articleBody": "{{ content | strip_html | xml_escape | textilize }}",
             "wordcount": "{{ content | number_of_words }}",
