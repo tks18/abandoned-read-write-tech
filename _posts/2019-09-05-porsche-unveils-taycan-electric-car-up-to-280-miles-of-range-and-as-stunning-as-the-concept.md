@@ -1,24 +1,23 @@
 ---
-date: '2019-09-05 07:25:00'
-layout: post
-title: >-
-  Porsche unveils Taycan electric car: up to 280 miles of range and as stunning
-  as the concept
-subtitle: >-
-  A lot of the specs have already leaked over the last year, but now we have all
-  the official information
-description: >-
-  Porsche has unveiled today its highly-anticipated first all-electric car, the
-  Taycan
-image: Porsche-Taycan-e1567603729713_wmfebf
-category: electric-cars
+title: 'Porsche unveils Taycan electric car: up to 280 miles of range and as stunning
+  as the concept'
+date: 2019-09-05 07:25:00 Z
+categories:
+- electric-cars
 tags:
-  - Electric Car
-  - Porche Taycan
-  - Sports
+- Electric Car
+- Porche Taycan
+- Sports
+layout: post
+subtitle: A lot of the specs have already leaked over the last year, but now we have
+  all the official information
+description: Porsche has unveiled today its highly-anticipated first all-electric
+  car, the Taycan
+image: Porsche-Taycan-e1567603729713_wmfebf
 author: Sudharshan TK
 paginate: false
 ---
+
 Porsche has unveiled today its highly-anticipated first all-electric car, the Taycan, and it delivers on most of our expectations, except maybe for the price, with a range of 280 miles (WLTP) and impressive performance.
 
 A lot of the specs have already leaked over the last year, but now we have all the official information from Porsche.
