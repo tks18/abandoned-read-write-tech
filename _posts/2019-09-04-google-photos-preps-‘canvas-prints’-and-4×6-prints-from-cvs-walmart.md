@@ -9,7 +9,7 @@ tags:
 layout: post
 subtitle: Google Photos gained the ability to create and buy physical “Photo books.”
 description: Google Photos gained the ability to create and buy physical “Photo books.”
-image: https://res.cloudinary.com/read-write-tech/image/upload/v1567609237/APK-Insight-Google-Photos-4-24_oavpdc.jpg
+image: APK-Insight-Google-Photos-4-24_oavpdc
 author: Sudharshan TK
 paginate: true
 ---

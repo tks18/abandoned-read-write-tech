@@ -10,8 +10,7 @@ tags:
 layout: post
 subtitle: The latest beta release also reveals more work on the Ambient Mode.
 description: The latest beta release also reveals more work on the Ambient Mode.
-image: https://res.cloudinary.com/read-write-tech/image/upload/v1567525447/APK-Insight-Google-App-10-53_vzbt6x.webp
-optimized_image: https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_200,w_380/APK-Insight-Google-App-10-53_vzbt6x.webp
+image: APK-Insight-Google-App-10-53_vzbt6x
 author: Sudharshan TK
 paginate: true
 ---

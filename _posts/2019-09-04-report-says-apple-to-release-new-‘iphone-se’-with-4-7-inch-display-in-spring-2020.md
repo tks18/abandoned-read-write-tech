@@ -14,7 +14,7 @@ subtitle: " It is possible that the iPhone 7 will no longer be sold once the iPh
 description: A report from Nikkei says the company is planning to launch a new 4.7-inch
   iPhone in the spring, a spiritual iPhone SE successor — at least in terms of price
   point.
-image: https://res.cloudinary.com/read-write-tech/image/upload/v1567613427/iphone-8-1_oflwqm.png
+image: iphone-8-1_oflwqm
 author: Sudharshan TK
 paginate: true
 ---

@@ -12,8 +12,7 @@ layout: post
 subtitle: Two Canadian mobile carriers have leaked dates.
 description: Google is close to releasing Android 10, and as spotted by 9to5Google,
   two Canadian mobile carriers have leaked dates.
-image: https://res.cloudinary.com/read-write-tech/image/upload/v1567524230/acastro_190315_1777_android_Q_0003.0.0_zgfx2t.webp
-optimized_image: https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_200,w_380/acastro_190315_1777_android_Q_0003.0.0_zgfx2t.webp
+image: acastro_190315_1777_android_Q_0003.0.0_zgfx2t
 author: Sudharshan TK
 paginate: true
 ---

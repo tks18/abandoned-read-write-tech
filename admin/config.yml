@@ -2,18 +2,6 @@ backend:
   name: git-gateway
   branch: master
 publish_mode: editorial_workflow
-media_library:
-  name: cloudinary
-  config:
-    cloud_name: read-write-tech
-    api_key: 823346759728641
-    default_transformations:
-              -   - fetch_format: auto
-                    quality: auto
-                  - format: webp  
-                  - width: 1920
-                    crop: fill
-                  - height: 1080  
 collections:
   - label: "Categories"
     name: "categories"
@@ -34,12 +22,12 @@ collections:
         widget: "string"
       - label: "Slug"
         name: "slug"
-        widget: "hidden"
-        default: "{{slug}}"
+        widget: "string"
+        required: true
       - label: "Description"
         name: "description"
         widget: "string"
-        required: false
+        required: true
   - label: "Posts"
     name: "posts"
     folder: "_posts"
@@ -69,15 +57,9 @@ collections:
         widget: "string"
       - label: "Featured Image"
         name: "image"
-        widget: "image"
+        widget: "string"
         allow_multiple: false
         required: false
-      - label: "Optimized Image"
-        name: "image"
-        widget: "image"
-        allow_multiple: false
-        required: false
-        hint: "You can set an optimized image version to show on the home page"
       - label: "Category"
         name: "category"
         widget: "relation"

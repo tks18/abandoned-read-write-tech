@@ -12,8 +12,7 @@ subtitle: Facebook might start testing whether it should begin hiding public-fac
   like counts.
 description: Facebook confirmed to TechCrunch that it’s considering a test that would
   hide like counts, but that the test hasn’t started running yet.
-image: https://res.cloudinary.com/read-write-tech/image/upload/v1567523153/acastro_180522_facebook_0001.0_doz3yr.webp
-optimized_image: https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_200,w_380/acastro_180522_facebook_0001.0_doz3yr.webp
+image: acastro_180522_facebook_0001.0_doz3yr
 author: Sudharshan TK
 paginate: true
 ---

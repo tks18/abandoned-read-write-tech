@@ -12,7 +12,7 @@ subtitle: Now that the full release is here we’re going to dive even deeper an
   every new feature
 description: Now that the full release is here we’re going to dive even deeper and
   share every new feature
-image: https://res.cloudinary.com/read-write-tech/image/upload/v1567606912/Android-10-light-logo-1_mg2axd.jpg
+image: Android-10-light-logo-1_mg2axd
 author: Sudharshan TK
 paginate: true
 ---

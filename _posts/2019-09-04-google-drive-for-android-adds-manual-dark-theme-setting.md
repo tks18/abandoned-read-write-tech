@@ -13,7 +13,7 @@ subtitle: Thanks to a new theme setting, it’s now more widely available for us
   not running Android 10.
 description: Thanks to a new theme setting, it’s now more widely available for users
   not running Android 10.
-image: https://res.cloudinary.com/read-write-tech/image/upload/v1567607406/google_drive_dark_logo_1_bni9my.jpg
+image: google_drive_dark_logo_1_bni9my
 author: Sudharshan TK
 paginate: true
 ---

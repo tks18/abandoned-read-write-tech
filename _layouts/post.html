@@ -22,7 +22,7 @@
                 <p class="post-subtitle">{{ page.subtitle }}</p>
 
                 {% if page.image and paginator.activated == nil %}
-                    <img src="{{ page.image }}" alt="Featured image" class="post-cover">
+                    <img src="https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_1080,w_1920{{ page.image }}.webp" alt="Featured image" class="post-cover">
                 {% endif %}
 
                 {% include pagination-post.html progressBar=true %}
@@ -41,12 +41,10 @@
                         {% for post in shuffled_array limit:3 %}
                             <li>
                                 <a href="{{ post.url | prepend: site.baseurl }}">
-                                    {% if post.optimized_image %}
-                                        <img src="{{ post.optimized_image }}">
-                                    {% elsif post.image %}
-                                        <img src="{{ post.image }}">
+                                    {% if post.image %}
+                                      <img src=" https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_200,w_380/{{ post.image }}.webp">
                                     {% else %}
-                                        <img src="/assets/img/off.png">
+                                      <img src="/assets/img/off.jpg">
                                     {% endif %}
                                     <h3>{{ post.title }}</h3>
                                 </a>
@@ -108,7 +106,7 @@
             "name": "{{ page.title }}",
             "headline": "{{ page.subtitle }}",
             "description": "{{ page.description }}",
-            "image": "{{ page.image }}",
+            "image": "https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_1080,w_1920{{ page.image }}.webp",
             "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
             "articleBody": "{{ content | strip_html | xml_escape | textilize }}",
             "wordcount": "{{ content | number_of_words }}",
