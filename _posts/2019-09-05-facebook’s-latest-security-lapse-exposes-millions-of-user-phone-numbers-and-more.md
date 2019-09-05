@@ -1,21 +1,22 @@
 ---
-date: '2019-09-05 04:59:00'
-layout: post
-title: >-
-  Facebook’s latest security lapse exposes millions of user phone numbers and
+title: Facebook’s latest security lapse exposes millions of user phone numbers and
   more
-subtitle: >-
-  Facebook’s latest privacy lapse has exposed over 400 million user records on a
-  server that wasn’t protected with a password. 
-description: ' TechCrunch reports today that each record contained a user’s Facebook ID and the phone number linked to their account.'
-image: Facebook-dark-mode-coming_xt3il6
-category: facebook
+date: 2019-09-05 04:59:00 Z
+categories:
+- facebook
 tags:
-  - Facebook
-  - Privacy
+- Facebook
+- Privacy
+layout: post
+subtitle: 'Facebook’s latest privacy lapse has exposed over 400 million user records
+  on a server that wasn’t protected with a password. '
+description: " TechCrunch reports today that each record contained a user’s Facebook
+  ID and the phone number linked to their account."
+image: Facebook-dark-mode-coming_xt3il6
 author: Sudharshan TK
 paginate: true
 ---
+
 ****[**Facebook’s**](https://facebook.com) latest privacy lapse has exposed over 400 million user records on a server that wasn’t protected with a password. [**TechCrunch** ](https://techcrunch.com)reports today that each record contained a user’s Facebook ID and the phone number linked to their account.
 
 The server included records across several databases, including 133 million records for US Facebook users, as well as records for 18 million UK users and over 50 million users in Vietnam.
