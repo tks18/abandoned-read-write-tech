@@ -16,11 +16,11 @@ tags:
 author: Sudharshan TK
 paginate: true
 ---
-****[**Facebook’s**](https://facebook.com) latest privacy lapse has exposed over 400 million user records on a server that wasn’t protected with a password. [**TechCrunch**](https://techcrunch.com) reports today that each record contained a user’s Facebook ID and the phone number linked to their account.
+****[**Facebook’s**](https://facebook.com) latest privacy lapse has exposed over 400 million user records on a server that wasn’t protected with a password. [**TechCrunch** ](https://techcrunch.com)reports today that each record contained a user’s Facebook ID and the phone number linked to their account.
 
 The server included records across several databases, including 133 million records for US Facebook users, as well as records for 18 million UK users and over 50 million users in Vietnam.
 
-Each record included a user’s Facebook ID, which [**TechCrunch** ](https://techcrunch.com)describes as a “long, unique, and public number associated” with Facebook accounts. That ID can then be used to figure out an account’s username. Each record also contained a user’s phone number, and in some instances name, gender, and location by country.
+Each record included a user’s Facebook ID, which [**TechCrunch** ](https://techcrunch.com)describes as a “long, unique, and public number associated” with Facebook accounts. That ID can then be used to figure out an account’s username. Each record also contained a user’s phone number, and in some instances name, gender, and location by country.
 
 >
 >
@@ -30,7 +30,7 @@ The server included records across several databases, including 133 million reco
 
 Most notably, phone numbers have not been public on Facebook in more than a year after the company changed its policy. This is what makes it so notable that over 400 million records with phone numbers were left unprotected.
 
-In a statement, a Facebook spokesperson said the dataset is “old” and has information from before the company’s policy change related to phone numbers:
+In a statement, a Facebook spokesperson said the dataset is “old” and has information from before the company’s policy change related to phone numbers:
 
 > “This dataset is old and appears to have information obtained before we made changes last year to remove people’s ability to find others using their phone numbers,” the spokesperson said. “The dataset has been taken down and we have seen no evidence that Facebook accounts were compromised.”
 
