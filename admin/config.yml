@@ -1,6 +1,11 @@
 backend:
   name: git-gateway
   branch: master
+  media_library:
+    name: cloudinary
+    config:
+      cloud_name: read-write-tech
+      api_key: 823346759728641
 publish_mode: editorial_workflow
 collections:
   - label: "Categories"
