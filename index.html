@@ -45,7 +45,6 @@ layout: main
                 </span>
                 <div class="box-body">
                     <div class="cover">
-                        {% include new-post-tag.html date=post.date %}
                         <a href="{{ post.url | prepend: site.baseurl }}" {%if isnewpost %}class="new-post"{% endif %}>
                             {% if post.image %}
                                 <img src="https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_200,w_380/{{ post.image }}.webp" class="preload">
