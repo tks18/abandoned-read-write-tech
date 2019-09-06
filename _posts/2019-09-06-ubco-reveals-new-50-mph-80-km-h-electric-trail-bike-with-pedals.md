@@ -1,22 +1,22 @@
 ---
-date: '2019-09-06 09:56:00'
-layout: post
 title: UBCO reveals new 50 mph (80 km/h) electric trail bike with pedals
-subtitle: >-
-  New Zealand-based UBCO is likely better known for its UBCO 2×2 electric
-  utility two-wheeler.
-description: >-
-  The UBCO FRX1 is an electric two-wheeler with functional pedals and a pedal
-  assist system.
-image: UBCO-FRX1-header_onpnqu
-category: electric-cars
+date: 2019-09-06 09:56:00 Z
+categories:
+- electric-cars
 tags:
-  - Huawei
-  - Kirin 990
-  - 5G Enabled
+- Huawei
+- Kirin 990
+- 5G Enabled
+layout: post
+subtitle: New Zealand-based UBCO is likely better known for its UBCO 2×2 electric
+  utility two-wheeler.
+description: The UBCO FRX1 is an electric two-wheeler with functional pedals and a
+  pedal assist system.
+image: UBCO-FRX1-header_onpnqu
 author: Sudharshan TK
 paginate: true
 ---
+
 Just when you thought it couldn’t get any wilder in the electric bicycle space, this happens. UBCO has just revealed their upcoming UBCO FRX1 Freeride Trail Bike featuring motorcycle level specs, speeds of up to 50 mph (80 km/h) and functional bicycle pedals.
 
 New Zealand-based UBCO is likely better known for its UBCO 2×2 electric utility two-wheeler. It’s not quite a bicycle but not quite a motorcycle either. It’s kind of its own category – something of an electric farm bike.
