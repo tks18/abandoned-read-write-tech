@@ -126,13 +126,13 @@ layout: main
     "mainEntity": {
         "@type": "ItemList",
         "itemListElement": [
-        {% assign limit = 8 %}
+        {% assign limit = 10 %}
         {% for post in posts limit: limit %}
             {% assign author = site.authors | where: "name", post.author | first %}
             {
                 "@type": "BlogPosting",
                 "name": "{{ post.title }}",
-                "headline": "{{ post.subtitle }}",
+                "headline": "{{ post.subtitle | truncatewords:95 }}",
                 "description": "{{ post.description }}",
                 "image": "https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_1080,w_1920/{{ post.image }}.webp",
                 "url": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
