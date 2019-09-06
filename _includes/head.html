@@ -14,7 +14,7 @@
 
     {% assign image = '' %}
     {% if page.image %}
-        {% assign image ="https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_520,w_988/"page.image".webp" %}
+        {% assign image = page.image | prepend: "https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_520,w_988/" | append: ".webp" %}
     {% else %}
         {% assign image = "/assets/img/blog-image.png" | prepend: site.baseurl | prepend: site.url %}
     {% endif %}
