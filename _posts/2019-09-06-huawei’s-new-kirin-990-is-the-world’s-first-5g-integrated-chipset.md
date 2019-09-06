@@ -1,22 +1,22 @@
 ---
-date: '2019-09-06 09:36:00'
-layout: post
 title: Huawei’s new Kirin 990 is the world’s first 5G-integrated chipset
-subtitle: >-
-  Huawei has unveiled the Kirin 990 chipset at IFA 2019 in Berlin. The Kirin 990
-  is the world’s first 5G-integrated mobile chipset.
-description: >-
-  Huawei has unveiled the Kirin 990 chipset at IFA 2019 in Berlin. The Kirin 990
-  is the world’s first 5G-integrated mobile chipset.
-image: Kirin-990-chipset_sogiyh
-category: android
+date: 2019-09-06 09:36:00 Z
+categories:
+- android
 tags:
-  - Huawei
-  - Kirin 990
-  - 5G Chipset
+- Huawei
+- Kirin 990
+- 5G Chipset
+layout: post
+subtitle: Huawei has unveiled the Kirin 990 chipset at IFA 2019 in Berlin. The Kirin
+  990 is the world’s first 5G-integrated mobile chipset.
+description: Huawei has unveiled the Kirin 990 chipset at IFA 2019 in Berlin. The
+  Kirin 990 is the world’s first 5G-integrated mobile chipset.
+image: Kirin-990-chipset_sogiyh
 author: Sudharshan TK
 paginate: true
 ---
+
 Huawei has unveiled the Kirin 990 chipset at IFA 2019 in Berlin. The Kirin 990 is the world’s first 5G-integrated mobile chipset.
 
 It has been developed in-house and is widely expected to be found in the upcoming Mate 30 Pro and Mate X foldable. Huawei utilized the 7nm EUV manufacturing process and features an upgraded GPU and NPU for even greater performance than the previous Kirin 980 chipset.
