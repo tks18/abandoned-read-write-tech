@@ -1,19 +1,20 @@
 ---
-date: '2019-09-06 00:50:00'
-layout: post
 title: iPhone 11 dummy photos in cases give another good sense of what to expect
+date: 2019-09-06 00:50:00 Z
+categories:
+- blog
+tags:
+- Motorola
+- Moto One
+layout: post
 subtitle: The square camera bump has been the subject of a great deal of discussion
-description: >-
-  iPhone case-makers Nood, Totallee and Olixar give us another sneak preview,
+description: iPhone case-makers Nood, Totallee and Olixar give us another sneak preview,
   with a good set of photos
 image: iPhone-11-dummy_wa1jax
-category: blog
-tags:
-  - Motorola
-  - Moto One
 author: Sudharshan TK
 paginate: true
 ---
+
 We got our own hands-on look at some iPhone 11 dummy models back in July, giving us a good sense of what to expect next week. iPhone case-makers Nood, Totallee and Olixar give us another sneak preview, with a good set of photos showing the dummy units in (of course) each company’s own cases.
 
 The square camera bump has been the subject of a great deal of discussion, many expressing distaste for the design, and especially with the asymmetrical triangular camera arrangement within it…
