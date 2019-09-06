@@ -132,7 +132,7 @@ layout: main
             {
                 "@type": "BlogPosting",
                 "name": "{{ post.title }}",
-                "headline": "{{ post.subtitle | truncatewords:95 }}",
+                "headline": "{{ post.subtitle | truncate:95 }}",
                 "description": "{{ post.description }}",
                 "image": "https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_1080,w_1920/{{ post.image }}.webp",
                 "url": "{{ post.url | prepend: site.baseurl | prepend: site.url }}",
