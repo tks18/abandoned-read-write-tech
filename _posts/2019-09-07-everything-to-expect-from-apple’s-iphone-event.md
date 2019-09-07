@@ -1,14 +1,16 @@
 ---
-date: 2019-09-07T06:05:00.000Z
-layout: post
 title: Everything to expect from Apple’s iPhone event
-subtitle: 'iPhone 11, Apple Watch Series 5, software updates, and more'
-description: 'Apple doesn’t just make iPhones, so we also expect news on the Apple Watch'
-image: Untitled.0_dmm40y
-category: apple
+date: 2019-09-07 06:05:00 Z
+categories:
+- apple
 tags:
-  - Apple Iphone
-  - Apple Watch
+- Apple Iphone
+- Apple Watch
+layout: post
+subtitle: iPhone 11, Apple Watch Series 5, software updates, and more
+description: Apple doesn’t just make iPhones, so we also expect news on the Apple
+  Watch
+image: Untitled.0_dmm40y
 author: Sudharshan TK
 paginate: true
 ---
