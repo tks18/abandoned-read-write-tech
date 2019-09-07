@@ -11,9 +11,13 @@
         <section class="content">
             <main class="home" id="post" role="main">
                 <h1 class="title-category">{{page.title}}</h1>
-                <div id="grid" class="row flex-grid">
+                <div id="grid" class="row flex-grid">                    
+                  {% if site.paginate %}
                     {% assign posts = paginator.posts | where_exp:"post","post.is_generated != true" %}
-                    {% for post in posts offset: offset %}
+                  {% else %}
+                    {% assign posts = site.posts | where_exp:"post","post.is_generated != true" %}
+                  {% endif %}
+                    {% for post in posts %}
                         {% if post.category == page.slug %}
                             <article class="box-item">
                                 <div class="box-body">
@@ -54,7 +58,11 @@
                 </div>
             </main>
         </section>
-        {% include footer.html %}
+        <!-- Pagination -->
+        {% if site.paginate %}
+           {% include pagination-home.html %}
+        {% endif %}
+           {% include footer.html %}
     </body>
 </html>
 
