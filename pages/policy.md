@@ -3,7 +3,7 @@ title: Privacy Policy
 permalink: "/policy/"
 layout: page
 description: Privacy Policy of Read Write Tech ©️.
-menu: true
+menu: false
 ---
 
 # Privacy Policy
