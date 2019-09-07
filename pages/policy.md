@@ -81,4 +81,4 @@ _We May Process or share Data Based on the following Legal basis:_
 
 - _**Legal Obligations**: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements)._
 
-- _**Vital Interests**: We may Disclose Your Information where we beleive it is necessary to investigare, prevent, or taje action regarding potential violatins of our policies, suspected fraud, situations involving potetial threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.
+- _**Vital Interests**: We may Disclose Your Information where we beleive it is necessary to investigare, prevent, or taje action regarding potential violatins of our policies, suspected fraud, situations involving potetial threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved._
