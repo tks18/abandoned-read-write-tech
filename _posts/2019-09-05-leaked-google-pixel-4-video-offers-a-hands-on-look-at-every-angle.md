@@ -1,7 +1,8 @@
 ---
 title: Leaked Google Pixel 4 video offers a hands-on look at every angle
-date: 2019-09-05 14:16:00 Z
-category: google
+date: 2019-09-05 19:46:00 +05:30
+categories:
+- google
 tags:
 - Google Pixel 4
 - Pixel 4XL

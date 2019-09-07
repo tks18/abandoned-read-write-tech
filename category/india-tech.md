@@ -1,7 +1,7 @@
 ---
 title: India Tech
 layout: category
-slug: "india-tech"
+slug: india-tech
 description: Updates about tech in India
 ---
 

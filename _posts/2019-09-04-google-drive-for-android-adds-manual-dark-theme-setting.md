@@ -1,20 +1,19 @@
 ---
-date: 2019-09-04T11:48:00.000Z
-layout: post
 title: Google Drive for Android adds manual dark theme setting
-subtitle: >-
-  Thanks to a new theme setting, it’s now more widely available for users not
-  running Android 10.
-description: >-
-  Thanks to a new theme setting, it’s now more widely available for users not
-  running Android 10.
-image: google_drive_dark_logo_1_bni9my
-category: google
+date: 2019-09-04 17:18:00 +05:30
+categories:
+- google
 tags:
-  - Google Drive
-  - Android 10
-  - Pixel 3XL
-  - Pixel
+- Google Drive
+- Android 10
+- Pixel 3XL
+- Pixel
+layout: post
+subtitle: Thanks to a new theme setting, it’s now more widely available for users
+  not running Android 10.
+description: Thanks to a new theme setting, it’s now more widely available for users
+  not running Android 10.
+image: google_drive_dark_logo_1_bni9my
 author: Sudharshan TK
 paginate: true
 ---

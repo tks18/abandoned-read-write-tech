@@ -1,7 +1,8 @@
 ---
 title: Welcome to the Read Write Tech.©️
-date: 2019-08-30 12:48:05 Z
-category: blog
+date: 2019-08-30 18:18:05 +05:30
+categories:
+- blog
 tags:
 - welcome
 - blog

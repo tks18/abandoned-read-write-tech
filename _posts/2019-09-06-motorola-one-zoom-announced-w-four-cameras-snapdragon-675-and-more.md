@@ -1,18 +1,17 @@
 ---
-date: 2019-09-06T00:48:00.000Z
-layout: post
-title: 'Motorola One Zoom announced w/ four cameras, Snapdragon 675, and more'
-subtitle: >-
-  Motorola is joining in on the fun by unveiling their latest mid-range Android
-  phone.
-description: >-
-  The Motorola One Zoom packs four rear-facing cameras, including a 10x zoom
-  telephoto shooter, for just $450
-image: motorola-one-zoom-header_hj4zvg
-category: motorola
+title: Motorola One Zoom announced w/ four cameras, Snapdragon 675, and more
+date: 2019-09-06 06:18:00 +05:30
+categories:
+- motorola
 tags:
-  - Motorola
-  - Moto One
+- Motorola
+- Moto One
+layout: post
+subtitle: Motorola is joining in on the fun by unveiling their latest mid-range Android
+  phone.
+description: The Motorola One Zoom packs four rear-facing cameras, including a 10x
+  zoom telephoto shooter, for just $450
+image: motorola-one-zoom-header_hj4zvg
 author: Sudharshan TK
 paginate: true
 ---

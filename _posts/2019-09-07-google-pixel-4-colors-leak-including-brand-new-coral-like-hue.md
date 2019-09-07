@@ -1,18 +1,20 @@
 ---
-date: '2019-09-07 20:38:00'
+title: Google Pixel 4 colors leak, including brand new coral-like hue
+date: 2019-09-07 20:38:00 +05:30
+categories:
+- google
+tags:
+- Pixel 4
+- Google
+- colors
 layout: post
-title: 'Google Pixel 4 colors leak, including brand new coral-like hue'
 subtitle: we now have a leak of all three color variants.
 description: we now have a leak of all three color variants.
 image: google-pixel-4-colors-cover_bcst0t
-category: google
-tags:
-  - Pixel 4
-  - Google
-  - colors
 author: Sudharshan TK
 paginate: true
 ---
+
 Continuing yesterday’s slew of Pixel 4 and Pixel 4 XL developments, we now have a leak of all three color variants. Google officially teased the black model, while white just dropped this week. We now have “Coral” according to a Chinese leaker this morning.
 
 As spotted by Ben Geskin on Twitter, a Weibo account posted all the Google Pixel 4 colors. We only see the rear continuous glass panel that lacks a distinctive shade, but Google is presumably sticking to black fronts to better mask all the top sensors. Historically, there are three color variants every year, with the Pixel 3a in May being the latest to continue that trend.

@@ -1,7 +1,8 @@
 ---
 title: Hands-on with 50+ new changes and features in Android 10
-date: 2019-09-04 14:15:00 Z
-category: android
+date: 2019-09-04 19:45:00 +05:30
+categories:
+- android
 tags:
 - Android 10
 - Pixel 3xl

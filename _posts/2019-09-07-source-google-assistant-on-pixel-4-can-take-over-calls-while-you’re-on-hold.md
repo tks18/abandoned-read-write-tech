@@ -1,7 +1,8 @@
 ---
 title: 'Source: Google Assistant on Pixel 4 can take over calls while you’re on hold'
-date: 2019-09-07 05:40:00 Z
-category: android
+date: 2019-09-07 11:10:00 +05:30
+categories:
+- android
 tags:
 - App Insights
 - Pixel 4
