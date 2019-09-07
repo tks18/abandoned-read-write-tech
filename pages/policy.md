@@ -44,3 +44,18 @@ This Privacy Policy applies to all information collected through our Website (Su
 #### 12. Do we Make Updates to this Policy?
 
 #### 13. How Can You Contact us About this Policy?
+
+
+### 1. What Information Do we Collect?
+
+
+##### Personal Information you disclose to us.
+
+_**In Short**: We Collect Personal Information that you Provide to us such as name, address, Contact Information._
+
+_We Collect Personal Information that you Voluntarily provide to us when expressing an interest in Obtaining Information about us or our Products and Services, when Participating in activities on the Services or Otherwise Contacting us._
+
+_**Name and Contact Data**. We Collect your First and Last Name and Email Address._
+
+All Personal Information that You Provide to us must be true, complete and accurate, and you must notify us of any changes to such Personal Information.
+
