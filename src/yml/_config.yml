@@ -60,3 +60,5 @@ exclude: [
   'gulpfile.js',
   'README.md'
 ]
+
+timezone: IN
