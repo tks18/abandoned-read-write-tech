@@ -1,5 +1,5 @@
 ---
-date: '2019-09-07 16:38:00'
+date: '2019-09-07 20:38:00'
 layout: post
 title: 'Google Pixel 4 colors leak, including brand new coral-like hue'
 subtitle: we now have a leak of all three color variants.
