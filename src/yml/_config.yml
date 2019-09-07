@@ -21,6 +21,8 @@ permalink: /:title/
 collections:
   authors:
     output: true
+  category:
+    output: true
 paginate_path: "/page/:num/"
 
 # Content paginator
