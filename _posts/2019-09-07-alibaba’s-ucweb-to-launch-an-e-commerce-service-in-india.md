@@ -1,18 +1,21 @@
 ---
-date: '2019-09-07 06:20:00'
-layout: post
 title: Alibaba’s UCWeb to launch an e-commerce service in India
-subtitle: 'Alibaba Group,  plans to launch an e-commerce service in India '
-description: ' UCWeb spokesperson said the firm plans to build an e-commerce service around content platforms in India.'
-image: GettyImages-1170807795_uzutri
-category: blog
+date: 2019-09-07 06:20:00 Z
+categories:
+- blog
 tags:
-  - Alibaba
-  - Ucweb
-  - Ecommerce
+- Alibaba
+- Ucweb
+- Ecommerce
+layout: post
+subtitle: 'Alibaba Group,  plans to launch an e-commerce service in India '
+description: " UCWeb spokesperson said the firm plans to build an e-commerce service
+  around content platforms in India."
+image: GettyImages-1170807795_uzutri
 author: Sudharshan TK
 paginate: true
 ---
+
 UCWeb, a subsidiary of Chinese giant Alibaba Group,  plans to launch an e-commerce service in India in the coming months.
 
 In a statement to TechCrunch, a UCWeb spokesperson said the firm plans to build an e-commerce service around content platforms in India. It has no intention to compete with existing e-commerce businesses in the country, and Alibaba Group is not overseeing the development of the service, the spokesperson added.
