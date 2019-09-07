@@ -18,7 +18,7 @@
                     {% assign posts = site.posts | where_exp:"post","post.is_generated != true" %}
                   {% endif %}
                     {% for post in posts %}
-                        {% if post.category == page.slug %}
+                        
                             <article class="box-item">
                                 <div class="box-body">
                                     {% if post.image %}
@@ -53,7 +53,7 @@
                                     </div>
                                 </div>
                             </article>
-                        {% endif %}
+
                     {% endfor %}
                 </div>
             </main>
