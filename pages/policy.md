@@ -20,31 +20,18 @@ This Privacy Policy applies to all information collected through our Website (Su
 ### TABLE OF CONTENTS
 
 1. What Information Do We Collect?
-
 2. How Do We Use Your Information?
-
 3. Will Your Information Be Shared With Anyone?
-
 4. Do We Use Cookies and Other Tracking Technologies?
-
 5. What is Our Stance on Third-Parrty Websites?
-
 6. How Long Do We Keep Your Information?
-
 7. How do We Keep Your Information Safe?
-
 8. Do We Collect Information From Minors?
-
 9. What are Your Privacy Rights?
-
 10. Controls for DO-NOT-TRACK Features
-
 11. Do California Residents have Specific Privacy Rights?
-
 12. Do we Make Updates to this Policy?
-
 13. How Can You Contact us About this Policy?
-
 
 ### 1. What Information Do we Collect?
 
