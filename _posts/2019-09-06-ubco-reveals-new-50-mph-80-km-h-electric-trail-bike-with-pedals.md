@@ -1,18 +1,19 @@
 ---
-title: UBCO reveals new 50 mph (80 km/h) electric trail bike with pedals
-date: 2019-09-06 09:56:00 Z
-categories:
-- electric-cars
-tags:
-- Huawei
-- Kirin 990
-- 5G Enabled
+date: 2019-09-06T09:56:00.000Z
 layout: post
-subtitle: New Zealand-based UBCO is likely better known for its UBCO 2×2 electric
+title: UBCO reveals new 50 mph (80 km/h) electric trail bike with pedals
+subtitle: >-
+  New Zealand-based UBCO is likely better known for its UBCO 2×2 electric
   utility two-wheeler.
-description: The UBCO FRX1 is an electric two-wheeler with functional pedals and a
-  pedal assist system.
+description: >-
+  The UBCO FRX1 is an electric two-wheeler with functional pedals and a pedal
+  assist system.
 image: UBCO-FRX1-header_onpnqu
+category: electric-bikes
+tags:
+  - Huawei
+  - Kirin 990
+  - 5G Enabled
 author: Sudharshan TK
 paginate: true
 ---
