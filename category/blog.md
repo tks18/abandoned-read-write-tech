@@ -1,7 +1,6 @@
 ---
-title: Blog
 layout: category
-slug: "blog"
-description: A Category for General Posts.
+title: Blog
+slug: blog
+description: A category for general blog posts.
 ---
-
