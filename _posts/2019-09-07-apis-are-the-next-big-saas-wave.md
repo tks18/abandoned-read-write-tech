@@ -6,7 +6,6 @@ category:
 tags:
 - Saas
 - Api
-- ''
 layout: post
 subtitle: Today, SaaS adoption is increasingly ubiquitous.
 description: APIs tend to also offer metered billing upfront. For these and other

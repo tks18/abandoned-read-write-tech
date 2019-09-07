@@ -1,7 +1,7 @@
 ---
 title: App Insights
 layout: category
-slug: app insights
+slug: "app-insights"
 description: Posts for Updates in Apps
 ---
 

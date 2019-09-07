@@ -1,7 +1,7 @@
 ---
 title: Apple
 layout: category
-slug: apple
+slug: "apple"
 description: Apple Updates
 ---
 

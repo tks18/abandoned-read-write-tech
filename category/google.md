@@ -1,7 +1,7 @@
 ---
 title: Google
 layout: category
-slug: google
+slug: "google"
 description: Posts About Google Phones
 ---
 
