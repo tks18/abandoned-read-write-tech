@@ -1,20 +1,22 @@
 ---
-date: '2019-09-07 05:40:00'
-layout: post
 title: 'Source: Google Assistant on Pixel 4 can take over calls while you’re on hold'
-subtitle: >-
-  It’s the latest feature Google is adding to make the day-to-day phone
-  experience better on the Pixel
-description: ' Google Assistant on Pixel 4 will be able to step in for you while you’re on hold during a phone call.'
-image: google_assistant_short_interface_1_q1birn
-category: android
+date: 2019-09-07 05:40:00 Z
+categories:
+- android
 tags:
-  - App Insights
-  - Pixel 4
-  - Google Assistant
+- App Insights
+- Pixel 4
+- Google Assistant
+layout: post
+subtitle: It’s the latest feature Google is adding to make the day-to-day phone experience
+  better on the Pixel
+description: " Google Assistant on Pixel 4 will be able to step in for you while you’re
+  on hold during a phone call."
+image: google_assistant_short_interface_1_q1birn
 author: Sudharshan TK
 paginate: true
 ---
+
 According to a reliable source familiar with the company’s plans, Google Assistant on Pixel 4 will be able to step in for you while you’re on hold during a phone call. It’s the latest feature Google is adding to make the day-to-day phone experience better on the Pixel using supplemental Assistant smarts…
 
 It’s a pretty straightforward feature. Whenever you’re on a call with a business and end up on hold with music playing in the background, our source tells us you’ll be able to tap a button on the display to tell Assistant you’re on hold. You’ll be able to then to take your attention away from the call, and Google Assistant will let you know when there’s an actual human back on the other end of the call.
