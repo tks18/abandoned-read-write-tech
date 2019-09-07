@@ -16,14 +16,9 @@
                     {% for post in posts %}
                         {% if post.category == page.slug %}
                             <article class="box-item">
-                                <span class="category">
-                                   <a href="{{ site.url }}{{ site.baseurl }}/category/{{ post.category }}">
-                                      <span>{{ post.category }}</span>
-                                   </a>
-                                </span>
                                 <div class="box-body">
                                     {% if post.image %}
-                                        <div class="cover">
+                                        <div class="cover"> 
                                             <a href="{{ post.url | prepend: site.baseurl }}" {%if isnewpost %}class="new-post"{% endif %}>
                                                 {% if post.image %}
                                                     <img src="/assets/img/placeholder.png" width="100%" data-url="https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_520,w_988/{{ post.image }}.webp" class="preload">
