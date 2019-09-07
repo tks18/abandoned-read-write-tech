@@ -3,7 +3,7 @@ title: Report says Apple to release new ‘iPhone SE’ with 4.7-inch display in
   2020
 date: 2019-09-04 14:53:00 Z
 categories:
-- blog
+- apple
 tags:
 - Apple SE
 - Mac

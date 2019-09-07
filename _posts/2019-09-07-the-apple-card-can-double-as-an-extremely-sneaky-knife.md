@@ -2,7 +2,7 @@
 title: The Apple Card can double as an extremely sneaky knife
 date: 2019-09-07 06:09:00 Z
 categories:
-- blog
+- apple
 tags:
 - Apple Card
 - Funny

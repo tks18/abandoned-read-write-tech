@@ -2,7 +2,7 @@
 title: UBCO reveals new 50 mph (80 km/h) electric trail bike with pedals
 date: 2019-09-06 09:56:00 Z
 categories:
-- electric-cars
+- electric-bikes
 tags:
 - Huawei
 - Kirin 990
