@@ -1,8 +1,7 @@
 ---
 title: Everything to expect from Apple’s iPhone event
 date: 2019-09-07 06:05:00 Z
-category:
-- apple
+category: apple
 tags:
 - Apple Iphone
 - Apple Watch

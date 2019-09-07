@@ -1,8 +1,7 @@
 ---
 title: YouTube Music 3.31 hints at retail mode push for Google’s streaming service
 date: 2019-09-02 19:16:00 Z
-category:
-- app-insights
+category: app-insights
 tags:
 - youtube music
 - retail mode

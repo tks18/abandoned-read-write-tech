@@ -1,8 +1,7 @@
 ---
 title: Google Photos preps ‘Canvas prints’ and 4×6 prints from CVS, Walmart
 date: 2019-09-04 11:00:00 Z
-category:
-- android
+category: android
 tags:
 - Google Photos
 - Photo Frames

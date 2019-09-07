@@ -1,8 +1,7 @@
 ---
 title: Google Maps tests using your chosen Assistant voice when navigating
 date: 2019-09-05 04:56:00 Z
-category:
-- app-insights
+category: app-insights
 tags:
 - Google Maps
 - Google Assistant

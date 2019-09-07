@@ -2,8 +2,7 @@
 title: 'Exclusive: New Pixel 4 camera features include ‘Motion Mode’ and improved
   Night Sight'
 date: 2019-09-07 05:58:00 Z
-category:
-- google
+category: google
 tags:
 - Pixel 4
 - Motion Mode

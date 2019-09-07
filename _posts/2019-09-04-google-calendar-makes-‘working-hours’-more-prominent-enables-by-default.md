@@ -1,8 +1,7 @@
 ---
 title: Google Calendar makes ‘Working Hours’ more prominent, enables by default
 date: 2019-09-04 01:05:51 Z
-category:
-- android
+category: android
 tags:
 - Google calendar
 - working hours

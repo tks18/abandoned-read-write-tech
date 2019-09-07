@@ -69,9 +69,9 @@ collections:
         name: "category"
         widget: "relation"
         collection: "category"
-        searchFields: ["title"]
+        searchFields: [title]
         valueField: "slug"
-        displayFields: ["title"]
+        displayFields: [title]
       - label: "Tags"
         name: "tags"
         hint: "Separate with commas. These will also be used as keywords for search engines."
