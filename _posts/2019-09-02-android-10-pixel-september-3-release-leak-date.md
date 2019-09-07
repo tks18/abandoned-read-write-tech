@@ -2,7 +2,7 @@
 title: Android 10 Pixel September 3 Release Leak Date
 date: 2019-09-02 13:08:00 Z
 categories:
-- Android
+- android
 tags:
 - android 10
 - google
