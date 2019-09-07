@@ -15,11 +15,7 @@
                     <!-- {% assign posts = site.posts | where_exp:"post","post.is_generated != true" %}
                     {% for posts in posts %} -->
                     {% for post in posts offset: offset %}
-<<<<<<< HEAD
                         {% if post.category == page.slug %}
-=======
-                        {% if post.category == category.slug %}
->>>>>>> master
                             <article class="box-item">
                                 <div class="box-body">
                                     {% if post.image %}
