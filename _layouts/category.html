@@ -2,31 +2,25 @@
 <html lang="{{ site.language }}">
     {% include head.html %}
     <body class="main-page has-push-menu">
-        <!-- Google Tag Manager (noscript) -->
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K5SJ86V"
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-        <!-- End Google Tag Manager (noscript) -->
         {% include svg-icons.html %}
         {% include header.html %}
         <section class="content">
             <main class="home" id="post" role="main">
-                <h1 class="title-category">{{page.title}}</h1>
-                <div id="grid" class="row flex-grid">                    
-                  {% if site.paginate %}
-                    {% assign posts = paginator.posts | where_exp:"post","post.is_generated != true" %}
-                  {% else %}
+                <h1 class="title-category">/{{page.title}}</h1>
+                <div id="grid" class="row flex-grid">
                     {% assign posts = site.posts | where_exp:"post","post.is_generated != true" %}
-                  {% endif %}
                     {% for post in posts %}
-                        
+                        {% if post.category == page.slug %}
                             <article class="box-item">
                                 <div class="box-body">
                                     {% if post.image %}
                                         <div class="cover">
+                                            {% include new-post-tag.html date=post.date %}
+                                            <a href="{{ post.url | prepend: site.baseurl }}" {%if isnewpost %}class="new-post"{% endif %}>
                                                 {% if post.image %}
-                                                  <img src="/assets/img/placeholder.png" width="100%" data-url="https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_520,w_988/{{ post.image }}.webp" class="preload">
+                                                    <img src="/assets/img/placeholder.png" width="100%" data-url="https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_520,w_988/{{ post.image }}.webp" class="preload">
                                                 {% else %}
-                                                  <img src="/assets/img/placeholder.png" width="100%" data-url="/assets/img/off.jpg" class="preload">
+                                                    <img src="/assets/img/placeholder.png" width="100%" data-url="/assets/img/off.jpg" class="preload">
                                                 {% endif %}
                                             </a>
                                         </div>
@@ -53,18 +47,13 @@
                                     </div>
                                 </div>
                             </article>
-
+                        {% endif %}
                     {% endfor %}
                 </div>
             </main>
         </section>
-        <!-- Pagination -->
-        {% if site.paginate %}
-           {% include pagination-home.html %}
-        {% endif %}
-           {% include footer.html %}
+        {% include footer.html %}
     </body>
 </html>
-
 
 
