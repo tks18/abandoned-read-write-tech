@@ -1,21 +1,21 @@
 ---
-date: '2019-09-07 13:36:00'
-layout: post
 title: Tesla is developing new futuristic-looking electromagnetic wipers
-subtitle: >-
-  Tesla is arguably the most high-tech automaker in the world, but it doesn’t
+date: 2019-09-07 13:36:00 Z
+categories:
+- tech-research
+tags:
+- Tesla
+- Futuristic
+layout: post
+subtitle: Tesla is arguably the most high-tech automaker in the world, but it doesn’t
   stop its innovation at electric powertrains and software.
-description: >-
-  Tesla is arguably the most high-tech automaker in the world, but it doesn’t
+description: Tesla is arguably the most high-tech automaker in the world, but it doesn’t
   stop its innovation at electric powertrains and software.
 image: Screen-Shot-2019-09-06-at-11.48.49-AM_sdvdyg
-category: tech-research
-tags:
-  - Tesla
-  - Futuristic
 author: Sudharshan TK
 paginate: true
 ---
+
 Tesla is arguably the most high-tech automaker in the world, but it doesn’t stop its innovation at electric powertrains and software.
 
 The automaker is even bringing its innovation to windshield wipers with a futuristic-looking new electromagnetic wiper design, according to a new patent application.
