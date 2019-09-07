@@ -10,6 +10,11 @@
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-K5SJ86V');</script>
     <!-- End Google Tag Manager -->
+
+    <!-- Include Google Analytics script -->
+    {% include stats.html %}
+    <!-- End Google Analytics -->
+
     {% assign title = '' %}
     {% if page.layout == 'author' %}
         {% assign title = page.display_name %}
