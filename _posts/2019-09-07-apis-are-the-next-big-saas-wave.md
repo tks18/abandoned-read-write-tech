@@ -1,17 +1,17 @@
 ---
-title: APIs are the next big SaaS wave
-date: 2019-09-07 06:16:00 Z
-categories:
-- blog
-tags:
-- Saas
-- Api
-- ''
+date: 2019-09-07T06:16:00.000Z
 layout: post
-subtitle: Today, SaaS adoption is increasingly ubiquitous.
-description: APIs tend to also offer metered billing upfront. For these and other
-  reasons, APIs are a distinct subset of SaaS.
+title: APIs are the next big SaaS wave
+subtitle: 'Today, SaaS adoption is increasingly ubiquitous.'
+description: >-
+  APIs tend to also offer metered billing upfront. For these and other reasons,
+  APIs are a distinct subset of SaaS.
 image: GettyImages-998996630_kdxtz2
+category: tech-knowledge
+tags:
+  - Saas
+  - Api
+  - ''
 author: Sudharshan TK
 paginate: true
 ---
