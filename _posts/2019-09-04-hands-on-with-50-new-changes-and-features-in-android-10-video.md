@@ -1,7 +1,7 @@
 ---
 title: Hands-on with 50+ new changes and features in Android 10
 date: 2019-09-04 14:15:00 Z
-categories:
+category:
 - Android
 tags:
 - Android 10

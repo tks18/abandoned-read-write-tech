@@ -1,7 +1,7 @@
 ---
 title: Leaked Google Pixel 4 video offers a hands-on look at every angle
 date: 2019-09-05 14:16:00 Z
-categories:
+category:
 - google
 tags:
 - Google Pixel 4

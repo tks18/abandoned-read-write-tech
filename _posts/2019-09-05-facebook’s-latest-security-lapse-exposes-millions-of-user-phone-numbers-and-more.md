@@ -2,7 +2,7 @@
 title: Facebook’s latest security lapse exposes millions of user phone numbers and
   more
 date: 2019-09-05 04:59:00 Z
-categories:
+category:
 - facebook
 tags:
 - Facebook
@@ -31,7 +31,7 @@ Each record included a user’s Facebook ID, which [**TechCrunch** ](https://tec
 
 Most notably, phone numbers have not been public on Facebook in more than a year after the company changed its policy. This is what makes it so notable that over 400 million records with phone numbers were left unprotected.
 
-In a statement, a Facebook spokesperson said the dataset is “old” and has information from before the company’s policy change related to phone numbers:
+In a statement, a Facebook spokesperson said the dataset is “old” and has information from before the company’s policy change related to phone numbers:
 
 > “This dataset is old and appears to have information obtained before we made changes last year to remove people’s ability to find others using their phone numbers,” the spokesperson said. “The dataset has been taken down and we have seen no evidence that Facebook accounts were compromised.”
 

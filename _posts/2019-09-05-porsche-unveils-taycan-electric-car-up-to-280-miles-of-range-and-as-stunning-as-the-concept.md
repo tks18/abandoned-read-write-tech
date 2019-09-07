@@ -2,7 +2,7 @@
 title: 'Porsche unveils Taycan electric car: up to 280 miles of range and as stunning
   as the concept'
 date: 2019-09-05 07:25:00 Z
-categories:
+category:
 - electric-cars
 tags:
 - Electric Car
@@ -22,7 +22,8 @@ Porsche has unveiled today its highly-anticipated first all-electric car, the Ta
 
 A lot of the specs have already leaked over the last year, but now we have all the official information from Porsche.
 
-**Here are the main specs:**
+**Here are the main specs:**
+
 
 * up to 450 km (280 miles) (WLTP)
 * 93.4 kWh battery pack

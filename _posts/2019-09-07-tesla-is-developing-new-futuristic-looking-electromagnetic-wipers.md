@@ -1,7 +1,7 @@
 ---
 title: Tesla is developing new futuristic-looking electromagnetic wipers
 date: 2019-09-07 13:36:00 Z
-categories:
+category:
 - tech-research
 tags:
 - Tesla

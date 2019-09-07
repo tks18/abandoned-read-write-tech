@@ -1,7 +1,7 @@
 ---
 title: Everything to expect from Apple’s iPhone event
 date: 2019-09-07 06:05:00 Z
-categories:
+category:
 - apple
 tags:
 - Apple Iphone
@@ -17,9 +17,10 @@ paginate: true
 
 It’s almost iPhone time (or, as other people call it, “the beginning of September”), and Apple is set to take the stage on September 10th to announce the new iPhone 11 lineup.
 
-Of course, Apple doesn’t just make iPhones, so we also expect news on the Apple Watch, Apple TV, all the new software Apple announced earlier this year, and maybe even a MacBook Pro-shaped surprise or two.
+Of course, Apple doesn’t just make iPhones, so we also expect news on the Apple Watch, Apple TV, all the new software Apple announced earlier this year, and maybe even a MacBook Pro-shaped surprise or two.
 
-**NEW IPHONES:**
+**NEW IPHONES
+:**
 
 September is practically synonymous with iPhones in the tech sphere, and this year is no exception. Apple is expected to announce three new iPhone models at its event on Tuesday: the iPhone 11 Pro, the iPhone 11 Pro Max, and the iPhone 11, replacing the iPhone XS, XS Max, and XR, respectively.
 

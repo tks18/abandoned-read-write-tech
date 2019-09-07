@@ -8,8 +8,8 @@ media_library:
     api_key: 823346759728641
 publish_mode: editorial_workflow
 collections:
-  - label: "Categories"
-    name: "categories"
+  - label: "Category"
+    name: "category"
     folder: "category"
     create: true
     editor:
@@ -68,7 +68,7 @@ collections:
       - label: "Category"
         name: "category"
         widget: "relation"
-        collection: "categories"
+        collection: "category"
         searchFields: ["title"]
         valueField: "slug"
         displayFields: ["title"]
