@@ -1,17 +1,20 @@
 ---
-date: '2019-09-07 06:05:00'
-layout: post
 title: Everything to expect from Apple’s iPhone event
-subtitle: 'iPhone 11, Apple Watch Series 5, software updates, and more'
-description: 'Apple doesn’t just make iPhones, so we also expect news on the Apple Watch'
-image: Untitled.0_dmm40y
-category: blog
+date: 2019-09-07 06:05:00 Z
+categories:
+- blog
 tags:
-  - Apple Iphone
-  - Apple Watch
+- Apple Iphone
+- Apple Watch
+layout: post
+subtitle: iPhone 11, Apple Watch Series 5, software updates, and more
+description: Apple doesn’t just make iPhones, so we also expect news on the Apple
+  Watch
+image: Untitled.0_dmm40y
 author: Sudharshan TK
 paginate: true
 ---
+
 It’s almost iPhone time (or, as other people call it, “the beginning of September”), and Apple is set to take the stage on September 10th to announce the new iPhone 11 lineup.
 
 Of course, Apple doesn’t just make iPhones, so we also expect news on the Apple Watch, Apple TV, all the new software Apple announced earlier this year, and maybe even a MacBook Pro-shaped surprise or two.
