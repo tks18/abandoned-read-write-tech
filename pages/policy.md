@@ -114,7 +114,7 @@ _We will only keep your personal information for as long as it is necessary for 
 
 _When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or, if this is possible (for example, because your personal information has been stores in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is Possible._
 
-### Do We Collect Information From Minors?
+### 8. Do We Collect Information From Minors?
 
 _**In Short**: We do not Knowingly Collect data from or market to children under 18 years of age._
 
@@ -129,11 +129,11 @@ _If You are Resident in the European Economic Area and you beleive we are unlawf
 _**Cookies and Similar Technologies**: Most Web Browsers are set to accept cookies by default. if you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If You Choose to remove cookies or reject cookies, this could affect certain features or services of our services. To Opt-out of Interest-Based Advertising by advertisers on our Services Visit [AboutAds](https://www.aboutads.info/choices/).
 For Further Information, Please see our Cookie Policy [Here](https://readwritetech.tk/cookiepolicy/)._
 
-### Controls for DO-NOT-TRACK Features
+### 10. Controls for DO-NOT-TRACK Features
 
 _Most Web Browsers and Some Mobile-Operating Systems and Mobile applications include a Do-Not-Track ("**DNT**") Feature or Setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. No Uniform technology standard for recognizing and implementing DNT Signals has been finalized. As Such, we do not currently respond to DNT Browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a Standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy policy._
 
-### Do California Residents have Specific Privacy Rights?
+### 11. Do California Residents have Specific Privacy Rights?
 
 _**In Short**: Yes, if You are resident of california, you are granted specific rights regarding access to your personal information._
 
@@ -141,13 +141,13 @@ _california Civil Code Section 1798.83, also Know as the "Shine The Light" Law, 
 
 _If you are under 18 years of age, reside in california, and have a registered account with the services, you have the right to request removal of unwanted data that you publicly post on the services. To request Removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in california, we will make sure that the data is not publicly displayed on the services, But please be aware that the data may not be completely or comprehensively removed from our systems._
 
-### Do We Make Updates to this Policy?
+### 12. Do We Make Updates to this Policy?
 
 _**In Short**: Yes, We will update this policy as necessary to stay compliant with relevant laws._
 
 _We may update this Privacy Policy from time to time. The Updated Version will be indicated by an updated "Revised" Date and the Updated Version will be effective as soon as it is accessible. If we make material changes to this privacy policy, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We Encourage you to review this privacy policy frequently to be informed of how we are protecting your information._
 
-### How can You Contact us About this Policy?
+### 13. How can You Contact us About this Policy?
 
 _If You Have Questions or Comments about this policy, You may email us at [tksudharshan@gmail.com](mailto:tksudharshan@gmail.com) or by post to:_
 
