@@ -21,7 +21,7 @@ layout:
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
         <dc:creator>{{ post.author }}</dc:creator>
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        <category>{{ post.categories | xml_escape }}</category>
+        <category>{{ post.category | xml_escape }}</category>
       </item>
     {% endfor %}
   </channel>
