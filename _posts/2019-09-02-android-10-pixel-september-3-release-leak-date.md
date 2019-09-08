@@ -14,6 +14,8 @@ description: Google is close to releasing Android 10, and as spotted by 9to5Goog
 image: acastro_190315_1777_android_Q_0003.0.0_zgfx2t
 author: Sudharshan TK
 paginate: true
+source_name: 9to5Google
+Source_url: https://9to5google.com
 ---
 
 Google is close to releasing Android 10, and as spotted by 9to5Google, two Canadian mobile carriers have leaked dates saying the OS is coming to Pixel phones on September 3rd.
