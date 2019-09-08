@@ -13,6 +13,8 @@ description: The Motorola One Zoom packs four rear-facing cameras, including a 1
 image: motorola-one-zoom-header_hj4zvg
 author: Sudharshan TK
 paginate: true
+source_name: 9to5Google
+source_url: https://9to5google.com
 ---
 
 IFA marches on this week, and Motorola is joining in on the fun by unveiling their latest mid-range Android phone. The Motorola One Zoom packs four rear-facing cameras, including a 10x zoom telephoto shooter, for just $450.

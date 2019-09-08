@@ -16,6 +16,8 @@ description: A report from Nikkei says the company is planning to launch a new 4
 image: iphone-8-1_oflwqm
 author: Sudharshan TK
 paginate: true
+source_name: 9to5Mac
+source_url: https://9to5mac.com
 ---
 
 Apple is about to launch its flagship iPhone 11 lineup next week, but these high-end models only make up about half of Apple’s total phone sales volume. Its cheaper SKUs are also important to its business. Currently, it offers the iPhone 8 and iPhone 7 as cheaper models. It is possible that the iPhone 7 will no longer be sold once the iPhone 11 is released.

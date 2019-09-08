@@ -14,6 +14,8 @@ description: 'The Working Hours feature in Google Calendar lets you set what tim
 image: google-calendar-web-material-cover_qk82ei
 author: Sudharshan TK
 paginate: true
+source_name: 9to5Google
+source_url: https://9to5google.com
 ---
 
 One place Google has been encouraging Digital Wellbeing and work-life balance is in Google Calendar. The “Working Hours” feature is now more prominent, proactive, and enabled by default.

@@ -11,6 +11,8 @@ description: Google Photos gained the ability to create and buy physical “Phot
 image: APK-Insight-Google-Photos-4-24_oavpdc
 author: Sudharshan TK
 paginate: true
+source_name: 9to5Google
+source_url: https://9to5google.com
 ---
 
 At I/O 2017, Google Photos gained the ability to create and buy physical “Photo books.” The latest version of the Android app suggests that Google is expanding its physical offerings to include “Prints” and “Canvas prints.”

@@ -16,6 +16,8 @@ description: Notably, we’re told that Google will be bragging about Pixel 4’
 image: pixel_4_motion_mode_head_1_e5gddx
 author: Sudharshan TK
 paginate: true
+source_name: 9to5Google
+source_url: https://9to5google.com
 ---
 
 According to a reliable source, ‘Motion Mode,’ which allows users to take high quality action shots, will be one of the Google Pixel 4’s headline camera features. The new smartphone from Google will also tout improvements to the renowned Night Sight mode…

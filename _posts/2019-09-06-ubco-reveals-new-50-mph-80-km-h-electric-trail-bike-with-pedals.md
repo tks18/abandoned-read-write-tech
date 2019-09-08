@@ -14,6 +14,8 @@ description: The UBCO FRX1 is an electric two-wheeler with functional pedals and
 image: UBCO-FRX1-header_onpnqu
 author: Sudharshan TK
 paginate: true
+source_name: Electrek
+source_url: https://electrek.co
 ---
 
 Just when you thought it couldn’t get any wilder in the electric bicycle space, this happens. UBCO has just revealed their upcoming UBCO FRX1 Freeride Trail Bike featuring motorcycle level specs, speeds of up to 50 mph (80 km/h) and functional bicycle pedals.

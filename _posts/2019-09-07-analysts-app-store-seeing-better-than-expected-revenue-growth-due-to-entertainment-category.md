@@ -13,6 +13,8 @@ description: 'Morgan Stanley now says the App Store could show better-than-expec
 image: Apple-App-Store-antitrust-case_wksu6r
 author: Sudharshan TK
 paginate: true
+source_name: 9to5Mac
+source_url: https://9to5mac.com
 ---
 
 Apple has shifted its focus to Services as part of its efforts to combat slowing iPhone sales. In a new investor note, Morgan Stanley now says the App Store could show better-than-expected revenue growth for the month of August, citing new data from app analytics platform Sensor Tower.

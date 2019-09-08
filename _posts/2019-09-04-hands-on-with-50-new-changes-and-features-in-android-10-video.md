@@ -14,6 +14,8 @@ description: Now that the full release is here we’re going to dive even deeper
 image: Android-10-light-logo-1_mg2axd
 author: Sudharshan TK
 paginate: true
+source_name: 9to5Google
+source_url: https://9to5google.com
 ---
 
 We’ve had some time delving deep into the Android Q or Android 10 betas over the past few months. Now that the full release is here we’re going to dive even deeper and share every new feature and change we’ve found in Android 10 — arguably the biggest ever release of the world’s most popular mobile OS.

@@ -12,6 +12,8 @@ description: iPhone case-makers Nood, Totallee and Olixar give us another sneak 
 image: iPhone-11-dummy_wa1jax
 author: Sudharshan TK
 paginate: true
+source_name: 9to5Mac
+source_url: https://9to5mac.com
 ---
 
 We got our own hands-on look at some iPhone 11 dummy models back in July, giving us a good sense of what to expect next week. iPhone case-makers Nood, Totallee and Olixar give us another sneak preview, with a good set of photos showing the dummy units in (of course) each company’s own cases.

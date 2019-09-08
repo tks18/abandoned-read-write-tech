@@ -13,6 +13,8 @@ description: Seems like modifying the Apple Cards, with their titanium build and
 image: apple_card_stock_1.0_spuogu
 author: Sudharshan TK
 paginate: true
+source_name: 9to5Mac
+source_url: https://9to5mac.com
 ---
 
 Seems like modifying the Apple Cards, with their titanium build and all-white finish, is becoming a thing. We spoke with one person who etched the design from the back of a Bicycle playing card onto his Apple Card. Another is going a step further and has sharpened the Apple Card into an actual knife.

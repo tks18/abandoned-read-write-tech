@@ -13,6 +13,8 @@ description: This also gives us a very clear look at the bezels surrounding the 
 image: pixel_4_video_leak_1_tp7hxq
 author: Sudharshan TK
 paginate: true
+source_name: 9to5Google
+source_url: https://9to5google.com
 ---
 
 With roughly a month to go until its official reveal, Google’s Pixel 4 hasn’t leaked nearly as much as the Pixel 3 that came before it. Today, another leak of the Pixel 4 provides us with a video of the device showing off every angle.

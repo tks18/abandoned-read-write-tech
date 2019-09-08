@@ -12,6 +12,8 @@ description: The latest beta release also reveals more work on the Ambient Mode.
 image: APK-Insight-Google-App-10-53_vzbt6x
 author: Sudharshan TK
 paginate: true
+source_name: 9to5Google
+source_url: https://9to5google.com
 ---
 
 Google app 10.53 rolled out late Friday evening with hints about a “next-gen Discover.” The latest beta release also reveals more work on the Ambient Mode and what type of information will be displayed.

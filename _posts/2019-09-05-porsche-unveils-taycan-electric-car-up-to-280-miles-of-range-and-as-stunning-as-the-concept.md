@@ -15,6 +15,8 @@ description: Porsche has unveiled today its highly-anticipated first all-electri
 image: Porsche-Taycan-e1567603729713_wmfebf
 author: Sudharshan TK
 paginate: false
+source_name: Electrek
+source_url: https://electrek.co
 ---
 
 Porsche has unveiled today its highly-anticipated first all-electric car, the Taycan, and it delivers on most of our expectations, except maybe for the price, with a range of 280 miles (WLTP) and impressive performance.

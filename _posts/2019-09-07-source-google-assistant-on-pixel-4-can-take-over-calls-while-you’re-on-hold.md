@@ -14,6 +14,8 @@ description: " Google Assistant on Pixel 4 will be able to step in for you while
 image: google_assistant_short_interface_1_q1birn
 author: Sudharshan TK
 paginate: true
+source_name: 9to5Google
+source_url: https://9to5google.com
 ---
 
 According to a reliable source familiar with the company’s plans, Google Assistant on Pixel 4 will be able to step in for you while you’re on hold during a phone call. It’s the latest feature Google is adding to make the day-to-day phone experience better on the Pixel using supplemental Assistant smarts…

@@ -14,6 +14,8 @@ description: Facebook confirmed to TechCrunch that it’s considering a test tha
 image: acastro_180522_facebook_0001.0_doz3yr
 author: Sudharshan TK
 paginate: true
+source_name: 9to5Mac
+source_url: https://9to5mac.com
 ---
 
 Facebook might start testing whether it should begin hiding public-facing like counts.

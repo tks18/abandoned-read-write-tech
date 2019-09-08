@@ -14,6 +14,8 @@ description: Huawei has unveiled the Kirin 990 chipset at IFA 2019 in Berlin. Th
 image: Kirin-990-chipset_sogiyh
 author: Sudharshan TK
 paginate: true
+source_name: 9to5Mac
+source_url: https://9to5mac.com
 ---
 
 Huawei has unveiled the Kirin 990 chipset at IFA 2019 in Berlin. The Kirin 990 is the world’s first 5G-integrated mobile chipset.

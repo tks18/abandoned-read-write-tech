@@ -12,6 +12,8 @@ description: Google has officially acknowledged the spam problem with Calendar.
 image: google_calendar_1_eakjn1
 author: Sudharshan TK
 paginate: true
+source_name: 9to5Google
+source_url: https://9to5google.com
 ---
 
 For the past few months, a method of spamming Google accounts via Calendar has made the rounds. As of the past couple of weeks, though, things have just gotten much worse. Today, Google has officially acknowledged the spam problem with Calendar and says that a fix will be coming.

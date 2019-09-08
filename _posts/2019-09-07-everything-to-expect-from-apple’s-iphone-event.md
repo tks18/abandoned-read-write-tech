@@ -12,6 +12,8 @@ description: Apple doesn’t just make iPhones, so we also expect news on the Ap
 image: Untitled.0_dmm40y
 author: Sudharshan TK
 paginate: true
+source_name: 9to5Mac
+source_url: https://9to5mac.com
 ---
 
 It’s almost iPhone time (or, as other people call it, “the beginning of September”), and Apple is set to take the stage on September 10th to announce the new iPhone 11 lineup.

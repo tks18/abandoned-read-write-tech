@@ -12,6 +12,8 @@ description: we now have a leak of all three color variants.
 image: google-pixel-4-colors-cover_bcst0t
 author: Sudharshan TK
 paginate: true
+source_name: 9to5Google
+source_url: https://9to5google.com
 ---
 
 Continuing yesterday’s slew of Pixel 4 and Pixel 4 XL developments, we now have a leak of all three color variants. Google officially teased the black model, while white just dropped this week. We now have “Coral” according to a Chinese leaker this morning.

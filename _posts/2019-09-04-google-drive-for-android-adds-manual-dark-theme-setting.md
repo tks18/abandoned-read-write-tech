@@ -15,6 +15,8 @@ description: Thanks to a new theme setting, it’s now more widely available for
 image: google_drive_dark_logo_1_bni9my
 author: Sudharshan TK
 paginate: true
+source_name: 9to5Google
+source_url: https://9to5google.com
 ---
 
 Google Drive for Android’s dark theme began appearing for some users with the Material Theme redesign in April. Thanks to a new theme setting, it’s now more widely available for users not running Android 10.

@@ -11,6 +11,8 @@ description: YouTube Music 3.31 reveals work on a “retail mode” to help incr
 image: APK-Insight-YouTube-Music-3-31_wxtblc
 author: Sudharshan TK
 paginate: true
+source_name: 9to5Google
+source_url: https://9to5google.com
 ---
 
 After adding Waze integration, library sorting, and new “Released” playlist in recent weeks, the latest version of Google’s primary streaming service is rolling out. YouTube Music 3.31 reveals work on a “retail mode” to help increase adoption.

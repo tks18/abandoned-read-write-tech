@@ -14,6 +14,8 @@ description: we’ve spotted that Google Maps now respects your Google Assistant
 image: google-assistant-maps-in-car_hwqldt
 author: Sudharshan TK
 paginate: true
+source_name: 9to5Google
+source_url: https://9to5google.com
 ---
 
 For the past year, Google Assistant has had a variety of voices to personalize your experience, and while most Google Assistant related apps have respected this setting, there have been a few holdouts. One of those, Google Maps, is now testing using your chosen Google Assistant voice when navigating, including in Android Auto.
