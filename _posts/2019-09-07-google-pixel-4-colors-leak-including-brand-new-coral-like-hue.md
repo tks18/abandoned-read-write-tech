@@ -1,8 +1,7 @@
 ---
 title: Google Pixel 4 colors leak, including brand new coral-like hue
 date: 2019-09-07 20:38:00 +05:30
-categories:
-- google
+category: google
 tags:
 - Pixel 4
 - Google

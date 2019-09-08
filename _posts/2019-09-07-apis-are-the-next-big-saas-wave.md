@@ -1,8 +1,7 @@
 ---
 title: APIs are the next big SaaS wave
 date: 2019-09-07 11:46:00 +05:30
-categories:
-- tech-knowledge
+category: tech-knowledge
 tags:
 - Saas
 - Api

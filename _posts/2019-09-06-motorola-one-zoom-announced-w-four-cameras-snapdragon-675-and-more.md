@@ -1,8 +1,7 @@
 ---
 title: Motorola One Zoom announced w/ four cameras, Snapdragon 675, and more
 date: 2019-09-06 06:18:00 +05:30
-categories:
-- motorola
+category: motorola
 tags:
 - Motorola
 - Moto One

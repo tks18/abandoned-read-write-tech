@@ -2,8 +2,7 @@
 title: 'Porsche unveils Taycan electric car: up to 280 miles of range and as stunning
   as the concept'
 date: 2019-09-05 12:55:00 +05:30
-categories:
-- electric-cars
+category: electric-cars
 tags:
 - Electric Car
 - Porche Taycan

@@ -2,8 +2,7 @@
 title: Facebook’s latest security lapse exposes millions of user phone numbers and
   more
 date: 2019-09-05 10:29:00 +05:30
-categories:
-- facebook
+category: facebook
 tags:
 - Facebook
 - Privacy

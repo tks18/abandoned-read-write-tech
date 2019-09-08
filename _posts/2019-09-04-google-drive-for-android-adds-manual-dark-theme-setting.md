@@ -1,8 +1,7 @@
 ---
 title: Google Drive for Android adds manual dark theme setting
 date: 2019-09-04 17:18:00 +05:30
-categories:
-- google
+category: google
 tags:
 - Google Drive
 - Android 10

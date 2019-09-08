@@ -1,8 +1,7 @@
 ---
 title: Google app 10.53 hints at next-gen Discover more Ambient Mode
 date: 2019-09-02 22:20:00 +05:30
-categories:
-- app-insights
+category: app-insights
 tags:
 - Google
 - new gen feed

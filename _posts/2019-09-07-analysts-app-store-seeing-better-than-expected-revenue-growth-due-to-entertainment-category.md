@@ -2,8 +2,7 @@
 title: 'Analysts: App Store seeing better-than-expected revenue growth due to entertainment
   category'
 date: 2019-09-07 18:36:00 +05:30
-categories:
-- apple
+category: apple
 tags:
 - Apple
 - App Store

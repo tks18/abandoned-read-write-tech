@@ -1,8 +1,7 @@
 ---
 title: iPhone 11 dummy photos in cases give another good sense of what to expect
 date: 2019-09-06 06:20:00 +05:30
-categories:
-- apple
+category: apple
 tags:
 - Motorola
 - Moto One

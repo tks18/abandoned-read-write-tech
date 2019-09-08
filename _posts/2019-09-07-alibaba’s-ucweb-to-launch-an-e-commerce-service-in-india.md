@@ -1,8 +1,7 @@
 ---
 title: Alibaba’s UCWeb to launch an e-commerce service in India
 date: 2019-09-07 11:50:00 +05:30
-categories:
-- india-tech
+category: india-tech
 tags:
 - Alibaba
 - Ucweb
