@@ -149,10 +149,10 @@ _We may update this Privacy Policy from time to time. The Updated Version will b
 
 _If You Have Questions or Comments about this policy, You may email us at [tksudharshan@gmail.com](mailto:tksudharshan@gmail.com) or by post to:_
 
-#### Read Write Tech.©️
-#### Author: Sudharshan TK
-#### No: 15/27,
-#### Sunkuwar Street, Triplicane,
-#### Chennai, Tamilnadu,
-#### Pin: 600005.
-#### INDIA
+**Read Write Tech.©️\s\s
+Author: Sudharshan TK\s\s
+No: 15/27,\s\s
+Sunkuwar Street, Triplicane,\s\s
+Chennai, Tamilnadu,\s\s
+Pin: 600005.\s\s
+INDIA**
