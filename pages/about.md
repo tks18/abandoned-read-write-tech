@@ -4,6 +4,7 @@ permalink: "/about/"
 layout: page
 description: Some description.
 menu: true
+footer: true
 ---
 
 <img class="img-rounded" src="/assets/img/uploads/profile.gif" alt="TK Sudharshan" width="200">
