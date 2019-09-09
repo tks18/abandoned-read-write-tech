@@ -1,10 +1,14 @@
 ---
-title: License
-permalink: "/license/"
 layout: page
-description: License of Read Write Tech ©️.
 menu: false
-footer: false
+date: '2019-09-07 00:00:00'
+title: License
+permalink: /license/
+description: License of Read Write Tech ©️.
+tags:
+  - License
+  - Readwritetech
+  - GNU
 ---
 
 # GNU GENERAL PUBLIC LICENSE
