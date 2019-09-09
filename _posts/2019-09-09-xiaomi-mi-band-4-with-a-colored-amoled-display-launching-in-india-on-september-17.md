@@ -7,6 +7,8 @@ title: >-
 subtitle: Xiaomi India has begun teasing the launch of the Xiaomi Mi Band 4 in India
 description: Xiaomi India has begun teasing the launch of the Xiaomi Mi Band 4 in India
 image: mi-band-4-feat-810x298_c_vq8kiu
+image_source: Xda - Developers
+image_source_url: 'https://xda-developers.com'
 category: mi
 tags:
   - Mi band 4
