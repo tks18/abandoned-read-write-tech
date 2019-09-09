@@ -115,3 +115,18 @@ connection with our services or online content._
 
 _Third parties may serve cookies on your computer or mobile device to serve advertising through our Websites. These companies may use information about your visits to this and other websites in order to provide relevant advertisements about goods and services that you may be interested in. They may
 also employ technology that is used to measure the effectiveness of advertisements. This can be accomplished by them using cookies or web beacons to collect information about your visits to this and other sites in order to provide relevant advertisements about goods and services of potential interest to you. The information collected through this process does not enable us or them to identify your name, contact details or other details that directly identify you unless you choose to provide these._
+
+### How often will you update this Cookie Policy?
+
+_We may update this Cookie Policy from time to time in order to reflect, for example, changes to the cookies we use or for other operational, legal or regulatory reasons. Please therefore re-visit this Cookie Policy regularly to stay informed about our use of cookies and related technologies. The date at the top of this Cookie Policy indicates when it was last updated._
+
+### Where can I get further information?
+
+_If you have any questions about our use of cookies or other technologies, please email us at tksudharshan@gmail.com or by post to:_
+
+**Read Write Tech.**\
+**No:15/27, Sunkuwar Street,**\
+** Triplicane,**\
+**Chennai, Tamil Nadu 600005**\
+**India**\
+**Phone: [+917358528452](tel:+917358528452)**
