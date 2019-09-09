@@ -112,8 +112,12 @@ collections:
         name: "layout"
         widget: "hidden"
         default: "page"
-      - label: "Show in menu"
+      - label: "Menu Link"
         name: "menu"
+        widget: "boolean"
+        default: true
+      - label: "Footer Link"
+        name: "footer"
         widget: "boolean"
         default: true
       - label: "Publish Date"
