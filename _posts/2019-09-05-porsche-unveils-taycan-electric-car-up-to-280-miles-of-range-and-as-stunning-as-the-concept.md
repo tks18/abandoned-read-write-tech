@@ -13,6 +13,8 @@ subtitle: A lot of the specs have already leaked over the last year, but now we 
 description: Porsche has unveiled today its highly-anticipated first all-electric
   car, the Taycan
 image: Porsche-Taycan-e1567603729713_wmfebf
+image_source: Electrek
+image_source_url: 'https://electrek.co'
 author: Sudharshan TK
 paginate: false
 source_name: Electrek

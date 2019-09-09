@@ -13,6 +13,8 @@ subtitle: Thanks to a new theme setting, it’s now more widely available for us
 description: Thanks to a new theme setting, it’s now more widely available for users
   not running Android 10.
 image: google_drive_dark_logo_1_bni9my
+image_source: 9 to 5 Google
+image_source_url: 'https://9to5google.com'
 author: Sudharshan TK
 paginate: true
 source_name: 9to5Google

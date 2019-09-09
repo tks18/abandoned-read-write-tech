@@ -5,6 +5,8 @@ title: How to edit Facebook’s list of your presumed interests
 subtitle: You can actually adjust Facebook’s ad preferences
 description: You can actually adjust Facebook’s ad preferences
 image: Facebook-messenger-Instagram-hed-796x420_buh7rq
+image_source: The Next Web
+image_source_url: 'https://thenextweb.com'
 category: facebook
 tags:
   - Facebook

@@ -12,6 +12,8 @@ subtitle: Now that the full release is here we’re going to dive even deeper an
 description: Now that the full release is here we’re going to dive even deeper and
   share every new feature
 image: Android-10-light-logo-1_mg2axd
+image_source: 9 to 5 Google
+image_source_url: 'https://9to5google.com'
 author: Sudharshan TK
 paginate: true
 source_name: 9to5Google

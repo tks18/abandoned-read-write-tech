@@ -12,6 +12,8 @@ subtitle: New Zealand-based UBCO is likely better known for its UBCO 2×2 electr
 description: The UBCO FRX1 is an electric two-wheeler with functional pedals and a
   pedal assist system.
 image: UBCO-FRX1-header_onpnqu
+image_source: Electrek
+image_source_url: 'https://electrek.co'
 author: Sudharshan TK
 paginate: true
 source_name: Electrek

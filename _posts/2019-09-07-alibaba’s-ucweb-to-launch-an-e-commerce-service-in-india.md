@@ -11,6 +11,8 @@ subtitle: 'Alibaba Group,  plans to launch an e-commerce service in India '
 description: " UCWeb spokesperson said the firm plans to build an e-commerce service
   around content platforms in India."
 image: GettyImages-1170807795_uzutri
+image_source: TechCrunch
+image_source_url: 'https://techcrunch.com'
 author: Sudharshan TK
 paginate: true
 source_name: TechCrunch

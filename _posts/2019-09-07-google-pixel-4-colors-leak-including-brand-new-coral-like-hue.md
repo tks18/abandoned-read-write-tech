@@ -10,6 +10,8 @@ layout: post
 subtitle: we now have a leak of all three color variants.
 description: we now have a leak of all three color variants.
 image: google-pixel-4-colors-cover_bcst0t
+image_source: 9 to 5 Google
+image_source_url: 'https://9to5google.com'
 author: Sudharshan TK
 paginate: true
 source_name: 9to5Google

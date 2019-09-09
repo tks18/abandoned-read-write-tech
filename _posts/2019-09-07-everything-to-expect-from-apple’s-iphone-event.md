@@ -10,6 +10,8 @@ subtitle: iPhone 11, Apple Watch Series 5, software updates, and more
 description: Apple doesn’t just make iPhones, so we also expect news on the Apple
   Watch
 image: Untitled.0_dmm40y
+image_source: 9 to 5 Mac
+image_source_url: 'https://9to5mac.com'
 author: Sudharshan TK
 paginate: true
 source_name: 9to5Mac

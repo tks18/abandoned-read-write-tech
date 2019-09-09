@@ -9,6 +9,8 @@ description: >-
   Xiaomi is also testing a cleaner layout for the browser and we might see it
   with the future updates
 image: MIUI-10-Logo_2-810x298_c_u5oyfg
+image_source: Xda - Developers
+image_source_url: 'https://xda-developers.com'
 category: mi
 tags:
   - MIUI Ads

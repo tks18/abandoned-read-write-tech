@@ -12,6 +12,8 @@ subtitle: 'Facebook’s latest privacy lapse has exposed over 400 million user r
 description: " TechCrunch reports today that each record contained a user’s Facebook
   ID and the phone number linked to their account."
 image: Facebook-dark-mode-coming_xt3il6
+image_source: 9 to 5 Mac
+image_source_url: 'https://9to5mac.com'
 author: Sudharshan TK
 paginate: true
 source_name: 9to5Mac

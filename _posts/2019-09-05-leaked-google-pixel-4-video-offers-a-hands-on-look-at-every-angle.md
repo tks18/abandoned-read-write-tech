@@ -11,6 +11,8 @@ subtitle: Today, another leak of the Pixel 4 provides us with a video of the dev
   showing off every angle.
 description: This also gives us a very clear look at the bezels surrounding the display
 image: pixel_4_video_leak_1_tp7hxq
+image_source: 9 to 5 Google
+image_source_url: 'https://9to5google.com'
 author: Sudharshan TK
 paginate: true
 source_name: 9to5Google

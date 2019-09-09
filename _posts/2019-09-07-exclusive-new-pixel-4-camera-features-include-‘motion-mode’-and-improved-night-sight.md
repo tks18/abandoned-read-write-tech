@@ -14,6 +14,8 @@ subtitle: The new smartphone from Google will also tout improvements to the reno
 description: Notably, we’re told that Google will be bragging about Pixel 4’s ability
   to take photos of the starry sky, a practice known as astrophotography.
 image: pixel_4_motion_mode_head_1_e5gddx
+image_source: 9 to 5 Google
+image_source_url: 'https://9to5google.com'
 author: Sudharshan TK
 paginate: true
 source_name: 9to5Google

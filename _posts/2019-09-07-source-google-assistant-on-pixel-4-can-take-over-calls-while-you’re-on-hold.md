@@ -12,6 +12,8 @@ subtitle: It’s the latest feature Google is adding to make the day-to-day phon
 description: " Google Assistant on Pixel 4 will be able to step in for you while you’re
   on hold during a phone call."
 image: google_assistant_short_interface_1_q1birn
+image_source: 9 to 5 Google
+image_source_url: 'https://9to5google.com'
 author: Sudharshan TK
 paginate: true
 source_name: 9to5Google

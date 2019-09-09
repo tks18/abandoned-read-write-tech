@@ -11,6 +11,8 @@ subtitle: Don’t try making this at home
 description: Seems like modifying the Apple Cards, with their titanium build and all-white
   finish, is becoming a thing.
 image: apple_card_stock_1.0_spuogu
+image_source: 9 to 5 Mac
+image_source_url: 'https://9to5mac.com'
 author: Sudharshan TK
 paginate: true
 source_name: 9to5Mac

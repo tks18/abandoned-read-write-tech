@@ -10,6 +10,8 @@ layout: post
 subtitle: Google has officially acknowledged the spam problem with Calendar.
 description: Google has officially acknowledged the spam problem with Calendar.
 image: google_calendar_1_eakjn1
+image_source: 9 to 5 Google
+image_source_url: 'https://9to5google.com'
 author: Sudharshan TK
 paginate: true
 source_name: 9to5Google

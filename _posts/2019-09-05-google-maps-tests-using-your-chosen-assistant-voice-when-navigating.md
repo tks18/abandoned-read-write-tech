@@ -12,6 +12,8 @@ subtitle: Google Maps, is now testing using your chosen Google Assistant voice w
 description: we’ve spotted that Google Maps now respects your Google Assistant voice
   setting when navigating.
 image: google-assistant-maps-in-car_hwqldt
+image_source: 9 to 5 Google
+image_source_url: 'https://9to5google.com'
 author: Sudharshan TK
 paginate: true
 source_name: 9to5Google

@@ -10,6 +10,8 @@ subtitle: The square camera bump has been the subject of a great deal of discuss
 description: iPhone case-makers Nood, Totallee and Olixar give us another sneak preview,
   with a good set of photos
 image: iPhone-11-dummy_wa1jax
+image_source: 9 to 5 Mac
+image_source_url: 'https://9to5mac.com'
 author: Sudharshan TK
 paginate: true
 source_name: 9to5Mac

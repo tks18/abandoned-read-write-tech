@@ -5,6 +5,8 @@ title: 'Hands-on with the new and improved Samsung Galaxy Fold '
 subtitle: Samsung is showing off the new and improved Galaxy Fold at IFA
 description: Samsung is showing off the new and improved Galaxy Fold at IFA
 image: 47jFIncOgoEhd-810x298_c_y7mqck
+image_source: Xda - Developers
+image_source_url: 'https://xda-developers.com'
 category: samsung
 tags:
   - Samsung

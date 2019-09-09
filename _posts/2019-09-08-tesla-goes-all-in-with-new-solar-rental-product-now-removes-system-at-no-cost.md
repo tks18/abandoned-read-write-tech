@@ -5,6 +5,8 @@ title: 'Tesla goes all-in with new solar rental product, now removes system at n
 subtitle: Tesla is going all-in with its new solar rental product
 description: Tesla is going all-in with its new solar rental product
 image: Tesla-solar-panels-e1556619544627_rwpkin
+image_source: Electrek
+image_source_url: 'https://electrek.co'
 category: Tesla
 tags:
   - Tesla

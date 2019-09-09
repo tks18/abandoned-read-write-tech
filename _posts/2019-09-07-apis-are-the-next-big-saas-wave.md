@@ -10,6 +10,8 @@ subtitle: Today, SaaS adoption is increasingly ubiquitous.
 description: APIs tend to also offer metered billing upfront. For these and other
   reasons, APIs are a distinct subset of SaaS.
 image: GettyImages-998996630_kdxtz2
+image_source: Techcrunch
+image_source_url: 'https://techcrunch.com'
 author: Sudharshan TK
 paginate: true
 source_name: Techcrunch

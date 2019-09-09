@@ -11,6 +11,8 @@ description: >-
   The Sur Ron electric motorcycle is one of the most exciting off-road electric
   motorcycles
 image: sur-ron-colorado-header_c16rsn
+image_source: Electrek
+image_source_url: 'https://electrek.co'
 category: electric-bikes
 tags:
   - Sur Ron

@@ -7,6 +7,8 @@ title: >-
 subtitle: The latest in a growing list of Pixel 4 leaks
 description: The latest in a growing list of Pixel 4 leaks
 image: Pixel-4-promo-video-leak_pm10en
+image_source: 9 to 5 Google
+image_source_url: 'https://9to5google.com'
 category: google
 tags:
   - Pixel 4

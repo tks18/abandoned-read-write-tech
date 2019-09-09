@@ -12,6 +12,8 @@ subtitle: The “Working Hours” feature is now more prominent, proactive, and 
 description: 'The Working Hours feature in Google Calendar lets you set what times
   you’re available every day. '
 image: google-calendar-web-material-cover_qk82ei
+image_source: 9 to 5 Google
+image_source_url: 'https://9to5google.com'
 author: Sudharshan TK
 paginate: true
 source_name: 9to5Google

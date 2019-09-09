@@ -11,6 +11,8 @@ description: >-
   The online food delivery app has even begun delivering grocery and perishables
   from local stores
 image: swiggygo_172x.910_ytegpw
+image_source: Mashable
+image_source_url: 'https://mashable.com'
 category: blog
 tags:
   - swiggy

@@ -11,6 +11,8 @@ subtitle: Motorola is joining in on the fun by unveiling their latest mid-range 
 description: The Motorola One Zoom packs four rear-facing cameras, including a 10x
   zoom telephoto shooter, for just $450
 image: motorola-one-zoom-header_hj4zvg
+image_source: 9 to 5 Google
+image_source_url: 'https://9to5google.com'
 author: Sudharshan TK
 paginate: true
 source_name: 9to5Google

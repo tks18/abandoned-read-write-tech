@@ -5,6 +5,8 @@ title: Google app 10.57 Insight
 subtitle: 'preps Continued Conversation on phones & more languages, Assistant dark theme'
 description: 'preps Continued Conversation on phones & more languages, Assistant dark theme'
 image: APK-Insight-Google-App-10-57_hjgcyh
+image_source: 9 to 5 Google
+image_source_url: 'https://9to5google.com'
 category: app-insights
 tags:
   - Assistant Dark Theme
@@ -14,7 +16,8 @@ source_name: 9 to 5 Google
 source_url: 'https://9to5google.com'
 paginate: true
 ---
-In addition to a Material Theme redesign of Podcasts, Google app 10.57 preps Continued Conversation on phones and four more languages. Work on a dark theme for Search and Assistant is still underway.
+In addition to a Material Theme redesign of Podcasts, Google app 10.57 preps Continued Conversation on phones and four more languages. Work on a dark theme for Search and Assistant is still underway.
+
 
 **About APK Insight:** In this ‘APK Insight’ post, we’ve decompiled the latest version of an application that Google uploaded to the Play Store. When we decompile these files (called APKs, in the case of Android apps), we’re able to see various lines of code within that hint at possible future features. Keep in mind that Google may or may not ever ship these features, and our interpretation of what they are may be imperfect. We’ll try to enable those that are closer to being finished, however, to show you how they’ll look in the case that they do ship. With that in mind, read on.
 
@@ -44,7 +47,7 @@ Strings also detail the prompt that users will see to enable the functionality. 
 <string name=”assistant_settings_summer_time_mode_availability_clarification_override”>”Continued Conversation is currently available for English. If you use devices not shown here, the person with the primary account on those devices may turn Continued Conversation on or off in their Assistant settings.\nWe are also currently dogfooding the following locales:German, Spanish, French, Italian and Japanese.”</string>
 ```
 
-**Google app dark theme**
+**Google app dark theme**
 
 Following Android 10’s launch on Tuesday, the Google app and Assistant are still lacking dark themes. Google app 10.57 continues development on the look with the setting now called “Theme.” Google Search is also using a shorter header.
 

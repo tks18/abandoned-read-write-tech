@@ -5,6 +5,8 @@ title: Tesla officially launches in Iceland
 subtitle: Iceland is perfect for massive adoption of electric vehicles.
 description: Iceland is perfect for massive adoption of electric vehicles.
 image: Tesla-Iceland-e1568023305163_d7obtr
+image_source: Electrek
+image_source_url: 'https://electrek.co'
 category: Tesla
 tags:
   - Tesla
@@ -15,6 +17,7 @@ source_name: Electrek
 source_url: 'https://electrek.co'
 paginate: true
 ---
+
 Tesla is now officially launching in Iceland with its first (and likely only) location opening in the country and orders for Model S, Model X, and Model 3 can now be placed online.
 
 Iceland is perfect for massive adoption of electric vehicles. The island’s electricity generation is already almost 100% renewable, which makes EVs super clean, and being a remote island, petrol is expensive.

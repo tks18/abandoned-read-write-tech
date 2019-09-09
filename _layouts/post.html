@@ -31,15 +31,16 @@
 
                 {% if page.image and paginator.activated == nil %}
                     <img src="https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_1080,w_1920/{{ page.image }}.webp" alt="Featured image" class="post-cover">
-                    <figcaption>Image Credits: <a href="{{ page.image_source_url }}"> {{ page.image_source }} </a></figcaption>
+                    {% if page.image_source %}
+                       <figcaption>Image Credits: <a href="{{ page.image_source_url }}"> {{ page.image_source }} </a></figcaption>
+                    {% endif %}
                 {% endif %}
 
                 {% include pagination-post.html progressBar=true %}
 
                 {{ content }}
 
-                <br />
-                    <p>Credits: <a href="{{ page.source_url }}" target="_blank">{{ page.source_name }}</a></p>
+                <p>Credits: <a href="{{ page.source_url }}" target="_blank">{{ page.source_name }}</a></p>
 
                 {% include pagination-post.html %}
             </article>

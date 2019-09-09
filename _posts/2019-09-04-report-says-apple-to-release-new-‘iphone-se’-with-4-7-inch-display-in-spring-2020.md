@@ -14,6 +14,8 @@ description: A report from Nikkei says the company is planning to launch a new 4
   iPhone in the spring, a spiritual iPhone SE successor — at least in terms of price
   point.
 image: iphone-8-1_oflwqm
+image_source: 9 to 5 Mac
+image_source_url: 'https://9to5mac.com'
 author: Sudharshan TK
 paginate: true
 source_name: 9to5Mac

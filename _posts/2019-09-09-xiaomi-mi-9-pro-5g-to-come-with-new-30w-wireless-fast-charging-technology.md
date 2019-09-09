@@ -9,6 +9,8 @@ description: >-
   Xiaomi has launched its new Mi Charge Turbo 30W fast wireless charging
   solution
 image: Xiaomi-MI-Charge-Turbo-810x298_c_sivf9y
+image_source: Xda - Developers
+image_source_url: 'https://xda-developers.com'
 category: mi
 tags:
   - MI

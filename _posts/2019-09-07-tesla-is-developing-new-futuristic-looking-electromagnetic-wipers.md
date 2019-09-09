@@ -11,6 +11,8 @@ subtitle: Tesla is arguably the most high-tech automaker in the world, but it do
 description: Tesla is arguably the most high-tech automaker in the world, but it doesn’t
   stop its innovation at electric powertrains and software.
 image: Screen-Shot-2019-09-06-at-11.48.49-AM_sdvdyg
+image_source: Electrek
+image_source_url: 'https://electrek.co'
 author: Sudharshan TK
 paginate: true
 source_name: Electrek
