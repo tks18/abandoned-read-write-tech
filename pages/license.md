@@ -1,6 +1,7 @@
 ---
 layout: page
 menu: false
+footer: false
 date: '2019-09-07 00:00:00'
 title: License
 permalink: /license/
