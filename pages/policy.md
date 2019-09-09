@@ -1,10 +1,11 @@
 ---
-title: Privacy Policy
-permalink: "/privacypolicy/"
 layout: page
-description: Privacy Policy of Read Write Tech ©️.
 menu: false
 footer: false
+date: '2019-09-07 00:00:00'
+title: Privacy Policy
+permalink: /privacypolicy/
+description: Privacy Policy of Read Write Tech ©️.
 ---
 
 # Privacy Policy
