@@ -3,7 +3,7 @@ layout: page
 menu: true
 date: '2019-09-09 13:30:01'
 title: Cookie Policy
-permalink: '/{{slug}}/'
+permalink: '/cookiepolicy/'
 description: Cookie Policy of Read Write Tech.
 tags:
   - cookie policy
@@ -99,30 +99,54 @@ Expires in: session
 
 ### What about other tracking technologies, like web beacons?
 
-_Cookies are not the only way to recognize or track visitors to a website. We may use other, similar technologies from time to time, like web beacons (sometimes called "tracking pixels" or "clear gifs"). These are tiny graphics files that contain a unique identifier that enable us to recognize when someone
-has visited our Websites or opened an e-mail including them. This allows us, for example, to monitor the traffic patterns of users from one page within a website to another, to deliver or communicate with cookies, to understand whether you have come to the website from an online advertisement displayed on a third-party website, to improve site performance, and to measure the
-success of e-mail marketing campaigns. In many instances, these technologies are reliant on cookies to function properly, and so declining cookies will impair their functioning._
+_Cookies are not the only way to recognize or track visitors to a website. We may use other, similar
+ technologies from time to time, like web beacons (sometimes called "tracking pixels" or "clear gifs").
+ These are tiny graphics files that contain a unique identifier that enable us to recognize when someone
+has visited our Websites or opened an e-mail including them. This allows us, for example, to
+ monitor the traffic patterns of users from one page within a website to another, to deliver or
+ communicate with cookies, to understand whether you have come to the website from an online
+ advertisement displayed on a third-party website, to improve site performance, and to measure the
+success of e-mail marketing campaigns. In many instances, these technologies are reliant on cookies
+ to function properly, and so declining cookies will impair their functioning.
+_
 
 ### Do you use Flash cookies or Local Shared Objects?
 
-_Websites may also use so-called "Flash Cookies" (also known as Local Shared Objects or "LSOs") to, among other things, collect and store information about your use of our services, fraud prevention and for other site operations.
-If you do not want Flash Cookies stored on your computer, you can adjust the settings of your Flash player to block Flash Cookies storage using the tools contained in the Website Storage Settings Panel . You can also control Flash Cookies by going to the Global Storage Settings Panel and following the
-instructions (which may include instructions that explain, for example, how to delete existing Flash Cookies (referred to "information" on the Macromedia site), how to prevent Flash LSOs from being placed on your computer without your being asked, and (for Flash Player 8 and later) how to block
-Flash Cookies that are not being delivered by the operator of the page you are on at the time). Please note that setting the Flash Player to restrict or limit acceptance of Flash Cookies may reduce or impede the functionality of some Flash applications, including, potentially, Flash applications used in
+_Websites may also use so-called "Flash Cookies" (also known as Local Shared Objects or "LSOs") to,
+ among other things, collect and store information about your use of our services, fraud prevention and
+ for other site operations.
+If you do not want Flash Cookies stored on your computer, you can adjust the settings of your Flash
+ player to block Flash Cookies storage using the tools contained in the Website Storage Settings Panel .
+ You can also control Flash Cookies by going to the Global Storage Settings Panel and following the
+instructions (which may include instructions that explain, for example, how to delete existing Flash
+ Cookies (referred to "information" on the Macromedia site), how to prevent Flash LSOs from being placed on your computer without your being asked, and (for Flash Player 8 and later) how to block
+Flash Cookies that are not being delivered by the operator of the page you are on at the time).
+ Please note that setting the Flash Player to restrict or limit acceptance of Flash Cookies may reduce or
+ impede the functionality of some Flash applications, including, potentially, Flash applications used in
 connection with our services or online content._
 
 ### Do you serve targeted advertising?
 
-_Third parties may serve cookies on your computer or mobile device to serve advertising through our Websites. These companies may use information about your visits to this and other websites in order to provide relevant advertisements about goods and services that you may be interested in. They may
-also employ technology that is used to measure the effectiveness of advertisements. This can be accomplished by them using cookies or web beacons to collect information about your visits to this and other sites in order to provide relevant advertisements about goods and services of potential interest to you. The information collected through this process does not enable us or them to identify your name, contact details or other details that directly identify you unless you choose to provide these._
+_Third parties may serve cookies on your computer or mobile device to serve advertising through our Websites. These companies may use information about your visits to this and other websites in order to
+ provide relevant advertisements about goods and services that you may be interested in. They may
+also employ technology that is used to measure the effectiveness of advertisements. This can be
+ accomplished by them using cookies or web beacons to collect information about your visits to this and
+ other sites in order to provide relevant advertisements about goods and services of potential interest to
+ you. The information collected through this process does not enable us or them to identify your name,
+ contact details or other details that directly identify you unless you choose to provide these._
 
 ### How often will you update this Cookie Policy?
 
-_We may update this Cookie Policy from time to time in order to reflect, for example, changes to the cookies we use or for other operational, legal or regulatory reasons. Please therefore re-visit this Cookie Policy regularly to stay informed about our use of cookies and related technologies. The date at the top of this Cookie Policy indicates when it was last updated._
+_We may update this Cookie Policy from time to time in order to reflect, for example, changes to the
+ cookies we use or for other operational, legal or regulatory reasons. Please therefore re-visit this
+ Cookie Policy regularly to stay informed about our use of cookies and related technologies.
+ The date at the top of this Cookie Policy indicates when it was last updated._
 
 ### Where can I get further information?
 
-_If you have any questions about our use of cookies or other technologies, please email us at tksudharshan@gmail.com or by post to:_
+_If you have any questions about our use of cookies or other technologies, please email us at
+ tksudharshan@gmail.com or by post to:
+_
 
 **Read Write Tech.**\
 **No:15/27, Sunkuwar Street,**\
