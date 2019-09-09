@@ -2,6 +2,7 @@
 position: 0
 layout: author
 photo: "/assets/img/uploads/profile.gif"
+original_photo: "/assets/img/uploads/original.jpg"
 name: Sudharshan TK
 display_name: Sudharshan TK
 bio: CA Finalist | Web Developer | Android Debugger<br />Working in Ford Rhodes Parks
