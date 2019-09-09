@@ -1,9 +1,10 @@
 ---
 layout: page
-menu: true
+menu: false
+footer: false
 date: '2019-09-09 13:30:01'
 title: Cookie Policy
-permalink: '/cookiepolicy/'
+permalink: /cookiepolicy/
 description: Cookie Policy of Read Write Tech.
 tags:
   - cookie policy
