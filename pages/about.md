@@ -17,6 +17,7 @@ tags:
 
 
 <img src="/assets/img/about.png" alt="About Read Write Tech">
+
 # About - Read Write Tech
 _**Read Write Tech** is a ambitious Project Found For Sharing Tech News and Updates from various Tech Sources and Blogs._
 
