@@ -4,7 +4,9 @@ menu: true
 date: '2019-08-31 00:00:00'
 title: About
 permalink: /about/
-description: Some description.
+description: >-
+  Read Write Tech is a ambitious Project Found For Sharing Tech News and Updates
+  from various Tech Sources and Blogs.
 tags:
   - Read Write Tech
   - About R/W Tech
