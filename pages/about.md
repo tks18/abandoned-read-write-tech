@@ -1,10 +1,15 @@
 ---
-title: About
-permalink: "/about/"
 layout: page
-description: Some description.
 menu: true
-footer: true
+date: '2019-08-31 00:00:00'
+title: About
+permalink: /about/
+description: Some description.
+tags:
+  - Read Write Tech
+  - About R/W Tech
+  - Technology Blog
+  - Blog
 ---
 
 <img class="img-rounded" src="/assets/img/uploads/profile.gif" alt="TK Sudharshan" width="200">
