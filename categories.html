@@ -1,0 +1,16 @@
+---
+title: Category
+permalink: "/category/"
+layout: minimal
+description: Read Write Tech's Category Page.
+---
+
+<div class="tags">
+  {% assign category_list = site.categories %}
+    {% if category_list.first[0] == null %}
+      {% for category in category_list %}
+          <a href="/category/{{ category }}">{{ category }}</a>
+      {% endfor %}
+    {% endif %}
+  {% assign tags_list = nil %}
+</div>
