@@ -1,5 +1,5 @@
 ---
-date: '2019-09-10 23:56:00'
+date: '2019-09-10 11:56:00'
 layout: post
 title: Google Docs gaining always-visible word count box on the web
 subtitle: >-
