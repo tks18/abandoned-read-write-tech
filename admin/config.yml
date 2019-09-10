@@ -65,6 +65,16 @@ collections:
         widget: "string"
         allow_multiple: false
         required: false
+      - label: "Image Credits"
+        name: "image_source_name"
+        hint: "Image Source name"
+        widget: "string"
+        required: false
+      - label: "Image Credits Link"
+        name: "image_source_url"
+        hint: "Image Source Link"
+        widget: "string"
+        required: false
       - label: "Category"
         name: "category"
         widget: "relation"
