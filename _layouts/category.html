@@ -20,8 +20,6 @@ Layout: compress
                 </article>
             </div>
             <main class="home" id="post" role="main">
-                <h1 class="title-category">{{page.title}}</h1>
-                <p class="description">{{ content }}<
                 <div id="grid" class="row flex-grid">
                     {% assign posts = site.posts | where_exp:"post","post.is_generated != true" %}
                     {% for post in posts %}
