@@ -13,9 +13,15 @@ Layout: compress
         {% include svg-icons.html %}
         {% include header.html %}
         <section class="content">
+            <div class="post">
+                <article class="category-content fullwidth">
+                    <h1 class="category-title">{{ page.title }}</h1>
+                    {{ content }}
+                </article>
+            </div>
             <main class="home" id="post" role="main">
                 <h1 class="title-category">{{page.title}}</h1>
-                <p class="description">{{ content }}</p>
+                <p class="description">{{ content }}<
                 <div id="grid" class="row flex-grid">
                     {% assign posts = site.posts | where_exp:"post","post.is_generated != true" %}
                     {% for post in posts %}
