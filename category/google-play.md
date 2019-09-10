@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Google Play
-slug: google-play
-description: Updates About Google Play
+title: Apps and updates
+slug: apps-updates
+description: Updates about Latest Apps
 ---
 
