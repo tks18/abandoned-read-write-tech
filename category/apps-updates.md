@@ -1,6 +1,6 @@
 ---
 layout: category
-title: apps-updates.md
+title: Apps and Updates
 slug: apps-updates
 description: Updates about Latest Apps
 published: true
