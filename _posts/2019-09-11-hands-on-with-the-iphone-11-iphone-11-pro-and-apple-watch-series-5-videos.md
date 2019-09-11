@@ -1,5 +1,5 @@
 ---
-date: '2019-09-11 23:36:00'
+date: '2019-09-11 11:36:00'
 layout: post
 title: 'Hands-on with the iPhone 11, iPhone 11 Pro, and Apple Watch Series 5 [Videos]'
 subtitle: >-
@@ -9,7 +9,6 @@ description: >-
   Head below for a roundup of early hands-on videos with the iPhone 11, iPhone
   11 Pro, iPhone 11 Pro Max, and Apple Watch Series 5.
 image: Apple_Keynote-Event_Guests-Steve-Jobs-Theater_091019_ai9xue
-image_source_name: 9 to 5 Mac
 image_source_url: 'https://9to5mac.com'
 category: apple
 tags:
