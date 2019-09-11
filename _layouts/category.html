@@ -16,13 +16,15 @@ Layout: compress
             <div class="post">
                 <article class="category-content fullwidth">
                     <h1 class="category-title">{{ page.title }}</h1>
-                    <p class="category-subtitle">You can find the latest Updates about {{ page.title }} by Scrolling Down or Click <a href="#grid"> Here </a></p>
+                    <p class="category-subtitle">You can find the latest Updates about {{ page.title }} by Scrolling Down or Click <a href="#latest"> Here </a></p>
+                    <hr>
                     {{ content }}
                     <hr>
                 </article>
             </div>
             <main class="home" id="post" role="main">
                 <div id="grid" class="row flex-grid">
+                    <p class="title-category" id="latest"> Latest Articles From {{ Page.title }} </p>
                     {% assign posts = site.posts | where_exp:"post","post.is_generated != true" %}
                     {% for post in posts %}
                         {% if post.category == page.slug %}
