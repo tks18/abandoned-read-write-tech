@@ -9,6 +9,8 @@ description: >-
   Google today teased the Android offering as “coming soon” and unveiled the
   official icon
 image: google-play-pass-icon_vq2hmk
+image_source: 9 to 5 Google
+image_source_url: https://9to5google.com
 category: apps-updates
 tags:
   - Google Play Pass

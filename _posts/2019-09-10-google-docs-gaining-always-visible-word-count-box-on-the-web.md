@@ -9,7 +9,7 @@ description: >-
   The G Suite editing app is soon gaining an always-visible counter in the
   bottom-left corner
 image: google-docs-word-count-box-cover_ccnzgh
-image_source_name: 9 to 5 Google
+image_source: 9 to 5 Google
 image_source_url: 'https://9to5google.com'
 category: apps-updates
 tags:
@@ -20,7 +20,8 @@ source_name: 9 to 5 Google
 source_url: 'https://9to5google.com'
 paginate: true
 ---
-Google Docs has long featured a pretty straightforward word count tool. The G Suite editing app is soon gaining an always-visible counter in the bottom-left corner of your screen on the web.The G Suite editing app is soon gaining an always-visible counter in the bottom-left corner
+Google Docs has long featured a pretty straightforward word count tool. The G Suite editing app is soon gaining an always-visible counter in the bottom-left corner of your screen on the web.
+The G Suite editing app is soon gaining an always-visible counter in the bottom-left corner
 
 > Instead of going to Tools > Word Count each time you want to view this information, now, you can simply select Tools > Word count > Display word count while typing to continuously display it in the lower left corner of your doc.
 

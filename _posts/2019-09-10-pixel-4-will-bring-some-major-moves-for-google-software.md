@@ -9,7 +9,7 @@ description: >-
   The Pixel — like every other Android phone — will of course bring the annual
   Android advancements. 
 image: google_assistant_redesign_pixel_1_giqwn0
-image_source_name: 9 to 5 Google
+image_source: 9 to 5 Google
 image_source_url: 'https://9to5google.com'
 category: google
 tags:

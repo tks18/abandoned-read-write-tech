@@ -7,7 +7,7 @@ title: >-
 subtitle: A serious flaw in how Instagram handles private accounts
 description: A serious flaw in how Instagram handles private accounts
 image: akrales_180614_1777_0229.0_edwv11
-image_source_name: The Verge
+image_source: The Verge
 image_source_url: 'https://theverge.com'
 category: blog
 tags:
@@ -22,7 +22,7 @@ Instagram has a security flaw in the way it handles posts on accounts that have 
 
 Anyone can use a web browser, like Google Chrome, to inspect the source code on a web page using the “Inspect Elements” tool. By tabbing over to the “Img” section of the Network header, you’re able to find the URL of any Instagram image you’ve clicked on, be it a disappearing story or a photo posted to a user’s feed. That URL can then be shared and the photo viewed by anyone, including people who do not follow the private account in question.
 
-The Verge was able to independently verify that this process does indeed work. The process is somewhat finicky, but usually by reloading the page of a private account (in this case, my own) and loading the “Img” section, I was able to find the right URL and confirm it could be openly shared. Previews of the image even load in chat applications like Slack. We also confirmed another user was able to find the same URLs, to rule out the possibility that Instagram was only making available this type of data to a user looking at their own private account.
+The Verge was able to independently verify that this process does indeed work. The process is somewhat finicky, but usually by reloading the page of a private account (in this case, my own) and loading the “Img” section, I was able to find the right URL and confirm it could be openly shared. Previews of the image even load in chat applications like Slack. We also confirmed another user was able to find the same URLs, to rule out the possibility that Instagram was only making available this type of data to a user looking at their own private account.
 
 In addition to revealing persistent URLs for photos posted to a private account, the same source-code trick also lets you pull URLs for profile photos of other Instagram users who may have interacted with that post and may have their accounts set to private as well. Of course, you must follow the private account in the first place to have access to the user’s feed and stories, but the flaw and the ease of exploiting it represent an oversight for Instagram’s privacy and security teams.
 
