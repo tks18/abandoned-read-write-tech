@@ -23,8 +23,8 @@ Layout: compress
                 </article>
             </div>
             <main class="home" id="post" role="main">
+                <p class="title-category" id="latest"> Latest Articles From {{ page.title }} </p>
                 <div id="grid" class="row flex-grid">
-                    <p class="title-category" id="latest"> Latest Articles From {{ Page.title }} </p>
                     {% assign posts = site.posts | where_exp:"post","post.is_generated != true" %}
                     {% for post in posts %}
                         {% if post.category == page.slug %}
