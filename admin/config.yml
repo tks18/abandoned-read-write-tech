@@ -33,6 +33,14 @@ collections:
         name: "description"
         widget: "string"
         required: true
+      - label: "Keywords"
+        name: "tags"
+        hint: "Separate with commas. These will also be used as keywords for search engines."
+        widget: "list"
+        required: false
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
   - label: "Posts"
     name: "posts"
     folder: "_posts"
@@ -66,7 +74,7 @@ collections:
         allow_multiple: false
         required: false
       - label: "Image Credits"
-        name: "image_source_name"
+        name: "image_source"
         hint: "Image Source name"
         widget: "string"
         required: false
