@@ -12,11 +12,16 @@ Layout: compress
         <!-- End Google Tag Manager (noscript) -->
         {% include svg-icons.html %}
         {% include header.html %}
-        <section class="content">
+        <section class="content"> 
+            {% if site.paginate %}
+               {% assign posts = paginator.posts | where_exp:"post","post.is_generated != true" %}
+            {% else %}
+               {% assign posts = site.posts | where_exp:"post","post.is_generated != true" %}
+            {% endif %}
             <div class="post">
                 <article class="category-content fullwidth">
                     <h1 class="category-title">{{ page.title }}</h1>
-                    <p class="category-subtitle">You can find the latest Updates about {{ page.title }} by Scrolling Down or Click <a href="#latest"> Here </a></p>
+                    <p class="category-subtitle">You can find the latest Updates about {{ page.title }} by Scrolling Down or Click <a href="#post"> Here </a></p>
                     <hr>
                     {{ content }}
                     <hr>
@@ -25,7 +30,6 @@ Layout: compress
             <main class="home" id="post" role="main">
                 <p class="title-category" id="latest"> Latest Articles From {{ page.title }} </p>
                 <div id="grid" class="row flex-grid">
-                    {% assign posts = site.posts | where_exp:"post","post.is_generated != true" %}
                     {% for post in posts %}
                         {% if post.category == page.slug %}
                             <article class="box-item">
@@ -66,6 +70,10 @@ Layout: compress
                         {% endif %}
                     {% endfor %}
                 </div>
+                <!-- Pagination -->
+                {% if site.paginate %}
+                   {% include pagination-home.html %}
+                {% endif %}
             </main>
         </section>
         {% include footer.html %}
