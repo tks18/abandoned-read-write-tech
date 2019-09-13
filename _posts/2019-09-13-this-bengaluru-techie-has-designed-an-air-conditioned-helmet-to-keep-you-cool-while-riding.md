@@ -9,7 +9,7 @@ description: Nobody likes to wear helmets!
 image: helmet_ghva.910_n7tbak
 image_source: Mashable
 image_source_url: 'https://mashable.com'
-category: blog
+category: tech-research
 tags:
   - Bangalure
   - AC Helmet
