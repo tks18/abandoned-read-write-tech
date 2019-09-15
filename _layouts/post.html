@@ -3,8 +3,7 @@
     {% include head.html %}
     <body class="has-push-menu">
         <!-- Google Tag Manager (noscript) -->
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K5SJ86V"
-        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        {% include gtag-body.html %}
         <!-- End Google Tag Manager (noscript) -->
         {% include minutes-to-read.html %}
         {% include svg-icons.html %}
@@ -30,7 +29,7 @@
                 <p class="post-subtitle">{{ page.subtitle }}</p>
 
                 {% if page.image and paginator.activated == nil %}
-                    <img src="https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_1080,w_1920/{{ page.image }}.webp" alt="Featured image" class="post-cover">
+                    <img src="https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_1080,w_1920/{{ page.image }}.png" alt="Featured image" class="post-cover">
                     {% if page.image_source %}
                        <figcaption>Image Credits: <a href="{{ page.image_source_url }}"> {{ page.image_source }} </a></figcaption>
                     {% endif %}
@@ -55,7 +54,7 @@
                             <li>
                                 <a href="{{ post.url | prepend: site.baseurl }}">
                                     {% if post.image %}
-                                      <img src=" https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_520,w_988/{{ post.image }}.webp">
+                                      <img src=" https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_520,w_988/{{ post.image }}.png">
                                     {% else %}
                                       <img src="/assets/img/off.jpg">
                                     {% endif %}
@@ -119,7 +118,7 @@
             "name": "{{ page.title }}",
             "headline": "{{ page.subtitle }}",
             "description": "{{ page.description }}",
-            "image": "https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_1080,w_1920/{{ page.image }}.webp",
+            "image": "https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_1080,w_1920/{{ page.image }}.png",
             "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
             "articleBody": "{{ content | strip_html | xml_escape | textilize }}",
             "wordcount": "{{ content | number_of_words }}",
