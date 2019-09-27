@@ -1,18 +1,17 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/35a5c60d-fc05-41ef-8946-0df5d0296f9f/deploy-status)](https://app.netlify.com/sites/read-write-tech/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/52535034-b1a8-46f8-9899-8cec4b1e002a/deploy-status)](https://app.netlify.com/sites/readwritetech/deploys)
 
-# Jekflix Template
+###### Currently Abandoned
+_**Currently Project is Abandoned, But the Site is Available for General Public for Viewing. May Start Developing in the Future.**_
 
-Version 2.0 is [here](https://github.com/thiagorossener/jekflix-template#v200)! 🎉🎊
+# Read Write Tech - Feel the Magic of Technology
 
-![Jekflix Template Cover Image](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1505354182/jekflix-logo_mfngps.png)
+![Logo](https://readwritetech.netlify.com/assets/img/blog-image.png)
 
-See the [demo here](https://jekflix.rossener.com/).
+See the [Website Here](https://readwritetech.netlify.com/).
 
 ## What is it?
 
-A template for Jekyll inspired by Netflix panel for who loves movies and series and would like to have a blog with this cool appearance.
-
-![Jekflix Screenshot Image](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1566390829/jekflix-screenshot-2_zfiog2.jpg)
+Read Write Tech.©️ is a Personal Tech Blog / News Website that Gets You Updated with Latest Techno News.
 
 ## Features
 
@@ -88,16 +87,6 @@ You can create posts manually using the [Front Matter properties](https://github
 
 File a [GitHub issue](https://github.com/thiagorossener/jekflix-template/issues/new) please.
 
-## Donation
-
-Did you like my work? Buy me a beer 😁🍺
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SAKL66RSDGH48&source=url)
-
-## Author
-
-[Thiago Rossener](https://rossener.com/)
-
 ## License
 
-*Jekflix Template* is available under the MIT license. See the [LICENSE](https://github.com/thiagorossener/jekflix-template/blob/master/LICENSE) file for more info.
+*Read Write Tech* is available under the GNU license. See the [LICENSE](https://readwritetech.netlify.com/license/) file for more info.

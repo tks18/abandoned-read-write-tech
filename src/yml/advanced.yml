@@ -1,4 +1,4 @@
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://readwritetech.tk" # the base hostname & protocol for your site
-google_analytics: "UA-135428914-5"
+url: "https://readwritetech.netlify.com" # the base hostname & protocol for your site
+google_analytics: ""
 language: "en"
