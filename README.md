@@ -1,13 +1,12 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/52535034-b1a8-46f8-9899-8cec4b1e002a/deploy-status)](https://app.netlify.com/sites/readwritetech/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e9026d1f-b64a-416d-a1b1-257d71896f84/deploy-status)](https://app.netlify.com/sites/readwritetech/deploys)
 
-###### Currently Abandoned
-_**Currently Project is Abandoned, But the Site is Available for General Public for Viewing. May Start Developing in the Future.**_
+###### Site is Back in Development
 
 # Read Write Tech - Feel the Magic of Technology
 
-![Logo](https://readwritetech.netlify.com/assets/img/blog-image.png)
+![Logo](https://readwritetech.tk/assets/img/blog-image.png)
 
-See the [Website Here](https://readwritetech.netlify.com/).
+See the [Website Here](https://readwritetech.tk/).
 
 ## What is it?
 
@@ -89,4 +88,4 @@ File a [GitHub issue](https://github.com/thiagorossener/jekflix-template/issues/
 
 ## License
 
-*Read Write Tech* is available under the GNU license. See the [LICENSE](https://readwritetech.netlify.com/license/) file for more info.
+*Read Write Tech* is available under the GNU license. See the [LICENSE](https://readwritetech.tk/license/) file for more info.
