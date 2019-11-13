@@ -32,12 +32,19 @@ Layout: compress
                             <article class="box-item">
                                 <div class="box-body">
                                     {% if post.image %}
-                                        <div class="cover"> 
+                                        <div class="cover">
+                                            {% include new-post-tag.html date=post.date %} 
                                             <a href="{{ post.url | prepend: site.baseurl }}" {%if isnewpost %}class="new-post"{% endif %}>
                                                 {% if post.image %}
                                                     <img src="/assets/img/placeholder.png" width="100%" data-url="https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_520,w_988/{{ post.image }}.png" class="preload">
+                                                    <noscript>
+                                                        <img src="https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_520,w_988/{{ post.image }}.png" width="100%" >
+                                                    </noscript>
                                                 {% else %}
                                                     <img src="/assets/img/placeholder.png" width="100%" data-url="/assets/img/off.jpg" class="preload">
+                                                    <noscript>
+                                                        <img src="/assets/img/off.jpg" width="100%" class="preload">
+                                                    </noscript>
                                                 {% endif %}
                                             </a>
                                         </div>
@@ -72,5 +79,6 @@ Layout: compress
         {% include footer.html %}
     </body>
 </html>
+
 
 

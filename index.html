@@ -1,6 +1,5 @@
 ---
 layout: main
-published: true
 ---
 
 {% if site.paginate %}
@@ -9,14 +8,14 @@ published: true
     {% assign posts = site.posts | where_exp:"post","post.is_generated != true" %}
 {% endif %}
 
-{% if site.show_hero %}
+{% if site.show_hero and paginator == nil or paginator.page == 1 %}
     {% assign offset = 1 %}
 {% else %}
     {% assign offset = 0 %}
 {% endif %}
 
-<main class="home {% if site.show_hero %}no-padding{% endif %}" role="main">
-    {% if site.show_hero %}
+<main class="home {% if site.show_hero and paginator == nil or paginator.page == 1 %}no-padding{% endif %}" role="main">
+    {% if site.show_hero and paginator == nil or paginator.page == 1 %}
         <!-- Hero -->
         {% assign featured = posts.first %}
         <section class="hero" style="background-image: url(	http://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_1080,w_1920/{{ featured.image }}.png)">
@@ -25,6 +24,7 @@ published: true
             <div class="content">
                 <time datetime="{{ featured.date | date_to_xmlschema }}" class="date">{{ featured.date | date: "%m.%d.%Y" }}</time>
                 <h1 class="title">{{ featured.title }}</h1>
+                <p class="description">{{ featured.subtitle }}</p>
                 <div class="buttons">
                     <a href="{{ featured.url }}" role="button" class="button">
                         <img src="/assets/img/icons/read.svg">
@@ -39,17 +39,24 @@ published: true
         {% for post in posts offset: offset %}
             <article class="box-item">
                 <span class="category">
-                    <a href="{{ site.url }}{{ site.baseurl }}/category/{{ post.category }}">
+                    <a href="{{ site.baseurl }}/category/{{ post.category }}">
                         <span>{{ post.category }}</span>
                     </a>
                 </span>
                 <div class="box-body">
                     <div class="cover">
+                        {% include new-post-tag.html date=post.date %}
                         <a href="{{ post.url | prepend: site.baseurl }}" {%if isnewpost %}class="new-post"{% endif %}>
                             {% if post.image %}
-                                <img src="https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_520,w_988/{{ post.image }}.png" class="preload">
+                                <img src="/assets/img/placeholder.png" width="100%" data-url="https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_520,w_988/{{ post.image }}.png" class="preload">
+                                <noscript>
+                                    <img src="https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_520,w_988/{{ post.image }}.png" width="100%" >
+                                </noscript>
                             {% else %}
-                                <img src="/assets/img/off.jpg" class="preload">
+                                <img src="/assets/img/placeholder.png" width="100%" data-url="/assets/img/off.jpg" class="preload">
+                                <noscript>
+                                    <img src="/assets/img/off.jpg" class="preload">
+                                </noscript>
                             {% endif %}
                         </a>
                     </div>
