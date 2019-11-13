@@ -1,5 +1,4 @@
 ---
-position: 0
 layout: author
 photo: "/assets/img/uploads/profile.gif"
 original_photo: "/assets/img/uploads/original.jpg"

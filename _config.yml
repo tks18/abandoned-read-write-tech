@@ -1,10 +1,85 @@
----
-title: Read Write Tech
-timezone: Asia/Kolkata
+# Site Settings
+name: Read Write Tech.©️
+title: Read Write Tech.©️ | Feel the Magic of Technology.
+description: >-
+  Read Write Tech.©️ is a Personal Tech Blog / News Website that Gets You
+  Updated with Latest Techno News.
+seotags:
+  - Technology
+  - Tech news
+  - Gadget News
+  - Tech Blog
+  - Gadget Reviews
+  - Creators News
+show_hero: true
+email: tksudharshan@gmail.com
+disqus_username: read-write-tech
+paginate: 13
+
+# Social Settings
+github_username: tks18
+twitter_username: shantk18
+instagram_username: shantk18
+medium_username: tksudharshan
+
+# Theme Settings
+themeColor: '#8c52ff'
+primaryDark: '#141414'
+accentDark: '#ffffff'
+lightGray: '#f2f2f2'
+texts: '#333333'
+
+#Advanced Settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://readwritetech.tk" # the base hostname & protocol for your site
+google_analytics: ""
+language: "en"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
 collections:
-  posts:
-    title: Posts
+  authors:
     output: true
-  uploads:
-    title: Uploads
+  category:
     output: true
+paginate_path: "/page/:num/"
+
+# Content paginator
+paginate_content:
+  enabled: true
+  debug: false
+  collections:
+    - posts
+  auto: false
+  separator: "--page-break--"
+  permalink: "/:num/"
+  seo_canonical: true
+  properties:
+    part:
+      is_generated: true
+    last:
+      is_generated: true
+    single:
+      is_generated: true
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-paginate-content
+
+# Exclude my node related stuff
+exclude: [
+  'package.json',
+  'package-lock.json',
+  'src',
+  'node_modules',
+  'initpost.sh',
+  'Gemfile',
+  'Gemfile.lock',
+  'gulpfile.js',
+  'README.md'
+]
+
+timezone: Asia/Kolkata
