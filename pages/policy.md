@@ -9,9 +9,9 @@ description: Privacy Policy of Read Write Tech ©️.
 ---
 
 # Privacy Policy
-#### Last Updated September 07,2019
+#### Last Updated November 14,2019
 
-Thank You for Choosing to be a Part of  our Community at Read Write Tech©️ ("<b>Company</b>", "<b>We</b>", "<b>us</b>" or "<b>our</b>"). We are Committed to Protecting your Personal Information and Your Right to Privacy. If you have any questions or concerns about our policy, or our Practices with regards to your personal information, please contact us at [tksudharshan@gmail.com](mailto:tksudharshan@gmail.com).
+Thank You for Choosing to be a Part of  our Community at Read Write Tech©️ ("<b>Company</b>", "<b>We</b>", "<b>us</b>" or "<b>our</b>"). We are Committed to Protecting your Personal Information and Your Right to Privacy. If you have any questions or concerns about our policy, or our Practices with regards to your personal information, please contact us at [tksudharshan@readwritetech.tk](mailto:tksudharshan@readwritetech.tk).
 
 When You Visit Our Website [https://readwritetech.tk](https://readwritetech.tk), and use our services, you trust us with your personal information. We take your privacy very seriously. In this Privacy Policy, We Describe our Privacy Policy. We seek to Explain to you in the clearest wau possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read throught it carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, Please discontinue use of our Sites and our Services.
 
@@ -118,7 +118,7 @@ _When we have no ongoing legitimate business need to process your personal infor
 
 _**In Short**: We do not Knowingly Collect data from or market to children under 18 years of age._
 
-_We do not Knowingly solicit data from or market to children under 18 years of age. By using the Services, You represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent's use of the services. If we Learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If You become aware of any data we have collected from children under age 18, Please Contact us at [tksudharshan@gmail.com](mailto:tksudharshan@gmail.com)._
+_We do not Knowingly solicit data from or market to children under 18 years of age. By using the Services, You represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent's use of the services. If we Learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If You become aware of any data we have collected from children under age 18, Please Contact us at [tksudharshan@readwritetech.tk](mailto:tksudharshan@readwritetech.tk)._
 
 ### 9. What Are Your Privacy Rights?
 
@@ -149,7 +149,7 @@ _We may update this Privacy Policy from time to time. The Updated Version will b
 
 ### 13. How can You Contact us About this Policy?
 
-_If You Have Questions or Comments about this policy, You may email us at [tksudharshan@gmail.com](mailto:tksudharshan@gmail.com) or by post to:_
+_If You Have Questions or Comments about this policy, You may email us at [tksudharshan@readwritetech.tk](mailto:tksudharshan@readwritetech.tk) or by post to:_
 
 **Read Write Tech.©️ <br/>
 Author: Sudharshan TK <br/>

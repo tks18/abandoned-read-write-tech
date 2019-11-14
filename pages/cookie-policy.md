@@ -146,12 +146,10 @@ _We may update this Cookie Policy from time to time in order to reflect, for exa
 ### Where can I get further information?
 
 _If you have any questions about our use of cookies or other technologies, please email us at
- tksudharshan@gmail.com or by post to:
-_
+ tksudharshan@readwritetech.tk or by post to:_
 
 **Read Write Tech.**\
 **No:15/27, Sunkuwar Street,**\
 ** Triplicane,**\
 **Chennai, Tamil Nadu 600005**\
 **India**\
-**Phone: [+917358528452](tel:+917358528452)**
