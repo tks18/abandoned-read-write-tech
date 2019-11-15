@@ -44,20 +44,6 @@ Read Write Tech.©️ is a Personal Tech Blog / News Website that Gets You Updat
 - Sitemap.xml
 - Social Media ready
 
-## Setup
-
-- [Environment](https://github.com/thiagorossener/jekflix-template/wiki/setup#environment)
-- [Installing template](https://github.com/thiagorossener/jekflix-template/wiki/setup#installing-template)
-- [Running local](https://github.com/thiagorossener/jekflix-template/wiki/setup#running-local)
-
-## Customization
-
-See the [settings documentation](https://github.com/thiagorossener/jekflix-template/wiki/settings) to customize your theme colors, layout, titles and more.
-
-## Posts
-
-You can create posts manually using the [Front Matter properties](https://github.com/thiagorossener/jekflix-template/wiki/post#front-matter-properties) or automatically using the available [script](https://github.com/thiagorossener/jekflix-template/wiki/post#creating-a-post).
-
 ## Release notes
 
 ### v2.0.0
