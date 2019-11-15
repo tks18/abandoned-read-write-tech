@@ -9,26 +9,26 @@
         
         {% include svg-icons.html %}
         {% include header.html %}
-        <section class="content"> 
-            <section class="categoryhero" style="background-image: url( /assets/img/blog-image.png)">
-                <div class="pixels"></div>
-                <div class="gradient"></div>
-                <div class="content">
-                    <h1 class="title">{{ page.title }}</h1>
-                        <em>
-                            {{ page.content }}
-                        </em>
-                        <div class="buttons">
-                            <a href="#post" role="button" class="button">
-                            <img src="/assets/img/icons/read.svg">
-                            <span>Click Here to See Relevant Posts</span>
-                        </a>
+        <main class="home {% if site.show_hero and paginator == nil or paginator.page == 1 %}no-padding{% endif %}" role="main">
+            <section class="content"> 
+                <section class="categoryhero" style="background-image: url( /assets/img/blog-image.png)">
+                    <div class="pixels"></div>
+                    <div class="gradient"></div>
+                    <div class="content">
+                        <h1 class="title">{{ page.title }}</h1>
+                            <em>
+                                {{ page.content }}
+                            </em>
+                            <div class="buttons">
+                                <a href="#latest" role="button" class="button">
+                                <img src="/assets/img/icons/read.svg">
+                                <span>Click Here to See Relevant Posts</span>
+                            </a>
+                        </div>
                     </div>
-                </div>
-            </section>
-            <main class="home" id="post" role="main">
+                </section>
                 <p class="title-category" id="latest"> Latest Articles From {{ page.title }} </p>
-                <div id="grid" class="row flex-grid">
+                <section id="grid" class="row flex-grid">
                     {% assign posts = site.posts | where_exp:"post","post.is_generated != true" %}
                     {% for post in posts %}
                         {% if post.category == page.slug %}
@@ -75,7 +75,7 @@
                             </article>
                         {% endif %}
                     {% endfor %}
-                </div>
+                </section>
             </main>
         </section>
         {% include footer.html %}
