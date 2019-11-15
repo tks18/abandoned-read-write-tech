@@ -14,15 +14,21 @@ Layout: compress
         {% include svg-icons.html %}
         {% include header.html %}
         <section class="content"> 
-            <div class="post">
-                <article class="category-content fullwidth">
-                    <h1 class="category-title">{{ page.title }}</h1>
-                    <p class="category-subtitle">You can find the latest Updates about {{ page.title }} by Scrolling Down or Click <a href="#post"> Here </a></p>
-                    <hr>
-                    {{ content }}
-                    <hr>
-                </article>
-            </div>
+            <section class="hero" style="background-image: url( /assets/img/blog-image.png)">
+                <div class="pixels"></div>
+                <div class="gradient"></div>
+                <div class="content">
+                    <time datetime="{{ featured.date | date_to_xmlschema }}" class="date">Summa</time>
+                    <h1 class="title">summa</h1>
+                    <p class="description">Summa</p>
+                    <div class="buttons">
+                        <a href="https://Summa.com" role="button" class="button">
+                            <img src="/assets/img/icons/read.svg">
+                            <span>Read Now</span>
+                        </a>
+                    </div>
+                </div>
+            </section>
             <main class="home" id="post" role="main">
                 <p class="title-category" id="latest"> Latest Articles From {{ page.title }} </p>
                 <div id="grid" class="row flex-grid">
