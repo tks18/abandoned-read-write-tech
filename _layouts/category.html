@@ -20,14 +20,16 @@
                                 {{ page.content }}
                             </em>
                             <div class="buttons">
-                                <a href="#latest" role="button" class="button">
+                                <a href="#latest-post" role="button" class="button">
                                 <img src="/assets/img/icons/read.svg">
                                 <span>Click Here to See Relevant Posts</span>
                             </a>
                         </div>
                     </div>
                 </section>
-                <p class="title-category" id="latest"> Latest Articles From {{ page.title }} </p>
+                <span id="latest-post">
+                    <p class="title-category" id="latest"> Latest Articles From {{ page.title }} </p>
+                </span>
                 <section id="grid" class="row flex-grid">
                     {% assign posts = site.posts | where_exp:"post","post.is_generated != true" %}
                     {% for post in posts %}
