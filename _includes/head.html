@@ -15,9 +15,9 @@
     {% if page.layout == 'author' %}
         {% assign title = page.display_name %}
     {% elsif page.title %}
-        {% assign title = page.title | append: " | " | append: site.name %}
+        {% assign title = page.title | append: " | " | append: site.title %}
     {% else %}
-        {% assign title = site.title %}
+        {% assign title = site.title | append: " | " | append: site.tagline %}
     {% endif %}
 
     {% assign image = '' %}
@@ -63,7 +63,7 @@
     <meta property="og:title" content="{{ title }}">
     <meta property="og:image" content="{{ image }}">
     <meta property="og:description" content="{{ description }}">
-    <meta property="og:site_name" content="{{ site.title }}">
+    <meta property="og:site_name" content="{{ site.title }} | {{ site.tagline }}">
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico" type="image/x-icon" />
@@ -84,7 +84,7 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/icons/apple-icon-180x180.png">
 
     <!-- Windows 8 Tile Icons -->
-    <meta name="application-name" content="{{ site.name }}">
+    <meta name="application-name" content="{{ site.title }}">
     <meta name="msapplication-TileColor" content="{{ site.themeColor }}">
     <meta name="msapplication-TileImage" content="/assets/img/icons/ms-icon-70x70.png">
     <meta name="msapplication-TileImage" content="/assets/img/icons/ms-icon-144x144.png">
@@ -100,7 +100,7 @@
 
     <link rel="stylesheet" href="{{ '/assets/css/styles.min.css' | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ url }}">
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} | {{ site.tagline }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}" />
 
     <!-- JavaScript enabled/disabled -->
     <script>
