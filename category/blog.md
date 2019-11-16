@@ -1,8 +1,7 @@
 ---
 title: Blog
-layout: category
+layout: categorytest
 slug: blog
-description: A category for general blog posts.
+description: >-
+	Collection of Some General Posts
 ---
-
-<p>Collection of Some General Posts</p>

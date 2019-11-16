@@ -1,6 +1,6 @@
 ---
 title: Google
-layout: category
+layout: categorytest
 slug: google
 description: Posts About Google Phones
 ---

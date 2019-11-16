@@ -1,6 +1,6 @@
 ---
 title: India Tech
-layout: category
+layout: categorytest
 slug: india-tech
 description: Updates about tech in India
 ---
