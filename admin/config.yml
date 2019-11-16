@@ -38,9 +38,11 @@ collections:
         hint: "Separate with commas. These will also be used as keywords for search engines."
         widget: "list"
         required: false
-      - label: "Body"
-        name: "body"
-        widget: "markdown"
+      - label: "Featured Image"
+        name: "image"
+        widget: "string"
+        allow_multiple: false
+        required: false
   - label: "Posts"
     name: "posts"
     folder: "_posts"
