@@ -10,6 +10,6 @@ description: >-
   Releases Various Products Such as Macintosh, iPod, iPhone, iPad, Apple Watch,
   Apple TV, Homepod and Softwares for their Products Such as MacOS, iOS, WatchOS
   and tvOS.
-image: s3rxaz3ueqdx4gye2jlj
+image: ryzwxo0w0kqhz0thooj1
 ---
 
