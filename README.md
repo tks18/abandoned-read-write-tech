@@ -4,7 +4,7 @@
 
 # Dope-T-Rope - Feel the Magic of Technology
 
-![Logo](https://readwritetech.tk/assets/img/blog-image.png)
+![Logo](https://dopetrope.tk/assets/img/blog-image.png)
 
 See the [Website Here](https://readwritetech.tk/).
 
