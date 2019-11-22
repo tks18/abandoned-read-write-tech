@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: "/assets/img/uploads/profile.gif"
+photo: "https://s.gravatar.com/avatar/c0ec2e063895760baa493c36d2d28387?s=400"
 original_photo: "/assets/img/uploads/original.jpg"
 name: Sudharshan TK
 display_name: Sudharshan TK
