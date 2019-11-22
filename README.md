@@ -46,7 +46,8 @@ Read Write Tech.©️ is a Personal Tech Blog / News Website that Gets You Updat
 
 ## Release notes
 
-### v2.0.0
+### v1.0.0
+- Completely Published as a npm Package
 - Added optional [sidebar](https://github.com/thiagorossener/jekflix-template/wiki/Features#posts-sidebar)
 - Added optional [Featured post](https://github.com/thiagorossener/jekflix-template/wiki/features#featured-post)
 - Added optional ["Before you go" modal](https://github.com/thiagorossener/jekflix-template/wiki/features#before-you-go-modal)
@@ -61,11 +62,11 @@ Read Write Tech.©️ is a Personal Tech Blog / News Website that Gets You Updat
 - Improved customization settings
 - Minor design updates
 
-### v1.0.1
+### v0.1.0
 - Fixed bugs
 - Upgraded to Gulp 4
 
-### v1.0.0
+### v0.0.1
 - Initial release
 
 ## Questions?
