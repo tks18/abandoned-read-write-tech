@@ -1,12 +1,12 @@
 {
-  "name": "jekflix-template",
-  "version": "2.0.0",
-  "description": "A Jekyll theme inspired by Netflix",
+  "name": "Dope-T-Rope",
+  "version": "1.02.00",
+  "description": "Dope-T-Rope is a ambitious Project Found For Sharing Tech News and Updates from various Tech Sources and Blogs",
   "main": "gulpfile.js",
-  "homepage": "https://github.com/thiagorossener/jekflix-template.git#readme",
+  "homepage": "https://github.com/tks18/dope-t-rope.git#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thiagorossener/jekflix-template.git"
+    "url": "https://github.com/tks18/dope-t-rope.git"
   },
   "keywords": [
     "jekyll",
@@ -15,10 +15,10 @@
     "blog",
     "netlify"
   ],
-  "author": "Thiago Rossener",
-  "license": "MIT",
+  "author": "Sudharshan TK",
+  "license": "GPL",
   "bugs": {
-    "url": "https://github.com/thiagorossener/jekflix-template/issues"
+    "url": "https://github.com/tks18/dope-t-rope/issues"
   },
   "devDependencies": {
     "autoprefixer-stylus": "^0.14.0",
