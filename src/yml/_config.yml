@@ -60,7 +60,8 @@ exclude: [
   'gulpfile.js',
   'README.md',
   'personal-token.txt',
-  '.npmrc'
+  '.npmrc',
+  'LICENSE'
 ]
 
 timezone: Asia/Kolkata

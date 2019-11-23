@@ -1,6 +1,6 @@
 # Site Settings
 title: Dope-T-Rope
-tagline: Absolutely No Spam Fillers
+tagline: Technically Dope
 description: >-
   Dope-T-Rope is a ambitious Project Found For Sharing Tech News and Updates from various Tech Sources and Blogs.The latest tech news about the world's best (and sometimes worst) hardware, apps, and much more. 
   From top companies like Google and Apple to tiny startups vying for your attention, R/W Tech has the latest in what matters in technology daily.
@@ -12,15 +12,18 @@ seotags:
   - Gadget Reviews
   - Creators News
 show_hero: true
-email: tksudharshan@gmail.com
+email: tksudharshan@readwritetech.tk
 disqus_username: read-write-tech
-paginate: 13
+paginate: 21
 
-# Social Settings
+
+# Social Media Settings
+# Remove the item if you don't need it
 github_username: tks18
 twitter_username: shantk18
 instagram_username: shantk18
 medium_username: tksudharshan
+
 
 # Theme Settings
 themeColor: '#00f2bb'
@@ -29,11 +32,20 @@ accentDark: '#ffffff'
 lightGray: '#f2f2f2'
 texts: '#333333'
 
-#Advanced Settings
+
+# Posts Settings
+show_time_bar: true
+show_modal_on_exit: true
+show_modal_on_finish_post: true
+two_columns_layout: true
+
+
+# Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://readwritetech.tk" # the base hostname & protocol for your site
-google_analytics: ""
+url: "https://dopetrope.tk" # the base hostname & protocol for your site
+google_analytics: "UA-135428914-6"
 language: "en"
+
 
 # Build settings
 markdown: kramdown
@@ -81,7 +93,8 @@ exclude: [
   'gulpfile.js',
   'README.md',
   'personal-token.txt',
-  '.npmrc'
+  '.npmrc',
+  'LICENSE'
 ]
 
 timezone: Asia/Kolkata
