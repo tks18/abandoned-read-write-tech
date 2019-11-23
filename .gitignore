@@ -9,3 +9,4 @@ _drafts
 !*/_config.yml
 /_config.yml
 personal-token.txt
+.npmrc
