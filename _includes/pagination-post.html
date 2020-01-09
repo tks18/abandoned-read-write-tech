@@ -3,9 +3,6 @@
     {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" | where_exp:"post","post.date <= page.date" %}
     <div class="pagination pagination-post {{ include.extra_classes }}">
         {% if paginator.is_last == true %}
-            <a href="{{ paginator.next_page_path }}">
-                <span class="text">Next Page </span>
-            </a>
       		<a href="{{ paginator.previous_page_path }}">
                 <span class="text">Previous Post </span>
             </a>
