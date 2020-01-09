@@ -10,20 +10,18 @@
                 <span class="text">Previous Post </span>
             </a>
       	{% endif %}
-      	{% if paginator.is_last !=true %}
-      		{% if paginator.is_first !=true %}
+      	{% if paginator.is_last !=true & paginator.is_first != true %}
       			<a href="{{ paginator.next_page_path }}">
       				<span class="text">Next Page </span>
       			</a>
       			<a href="{{ paginator.previous_page_path }}">
       				<span class="text">Previous Post </span>
       			</a>
-      		{% endif %}
-      		{% if paginator.is_first ==true %}
-      			<a href="{{ paginator.next_page_path }}">
-      				<span class="text">Next Page </span>
-      			</a>
-      		{% endif %}
+      	{% endif %}
+      	{% if paginator.is_first ==true %}
+      		<a href="{{ paginator.next_page_path }}">
+      			<span class="text">Next Page </span>
+      		</a>
       	{% endif %}
     </div>
 {% endif %}
