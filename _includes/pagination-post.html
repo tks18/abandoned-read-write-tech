@@ -7,13 +7,18 @@
                 <span class="text">Next Page </span>
             </a>
         {% else if paginator.is_first !=true %}
-            <a href="{{ paginator.next_page_path }}">
-                <span class="text">Next Page </span>
-            </a>
-            <br />
+      		<a href="{{ paginator.next_page_path }}">
+      			<span class="text">Next Page </span>
+        	</a>
+      		<br />
             <a href="{{ paginator.previous_page_path }}">
                 <span class="text">Previous Post </span>
             </a>
+      		{% if paginator.is_last %}
+      			<a href="{{ paginator.previous_page_path }}">
+                	<span class="text">Previous Post </span>
+            	</a>
+      		{% endif %}
         {% endif %}
     </div>
 {% endif %}
