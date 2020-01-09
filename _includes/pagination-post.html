@@ -4,14 +4,14 @@
     <div class="pagination pagination-post {{ include.extra_classes }}">
         {% if paginator.is_last != true %}
             <a href="{{ paginator.next_page_path }}">
-                <span class="text">Next Page <svg><use xlink:href="#icon-arrow-right"></use></svg></span>
+                <span class="text">Next Page </span>
             </a>
         {% else if paginator.is_first !=true %}
             <a href="{{ paginator.next_page_path }}">
-                <span class="text">Next Page <svg><use xlink:href="#icon-arrow-right"></use></svg></span>
+                <span class="text">Next Page </span>
             </a>
             <a href="{{ paginator.previous_page_path }}">
-                <span class="text">Previous Post <svg><use xlink:href="#icon-arrow-left"></use></svg></span>
+                <span class="text">Previous Post </span>
             </a>
         {% endif %}
     </div>
