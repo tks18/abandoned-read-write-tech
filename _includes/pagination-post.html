@@ -8,11 +8,11 @@
             </a>
         {% else if paginator.is_first !=true %}
             <a href="{{ paginator.next_page_path }}">
-                <span class="text">Next Page </span>
+                <span class="text-right">Next Page </span>
             </a>
             <br />
             <a href="{{ paginator.previous_page_path }}">
-                <span class="text">Previous Post </span>
+                <span class="text-left">Previous Post </span>
             </a>
         {% endif %}
     </div>
