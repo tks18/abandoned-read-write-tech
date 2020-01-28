@@ -1,9 +1,9 @@
 ---
 date: '2019-09-23 15:28:00'
 layout: post
-title: YouTube Music begins rolling out ‘Discover Mix’ playlist
-subtitle: The latest that’s beginning to roll out is called the “Discover Mix".
-description: The latest that’s beginning to roll out is called the “Discover Mix".
+title: YouTube Music begins rolling out Discover Mix playlist
+subtitle: The latest that’s beginning to roll out is called the Discover Mix.
+description: The latest that’s beginning to roll out is called the Discover Mix.
 image: youtube_music_2_vxvywr
 image_source: 9 to 5 Google
 image_source_url: 'https://9to5google.com'
