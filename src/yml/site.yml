@@ -15,3 +15,12 @@ show_hero: true
 email: tksudharshan@readwritetech.tk
 disqus_username: read-write-tech
 paginate: 21
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+  - title: Feed
+    url: /feed.xml
