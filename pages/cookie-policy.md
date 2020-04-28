@@ -5,7 +5,7 @@ footer: false
 date: '2019-09-09 13:30:01'
 title: Cookie Policy
 permalink: /cookiepolicy/
-description: Cookie Policy of Read Write Tech.
+description: Cookie Policy of Gadgets by Dopetrope.
 tags:
   - cookie policy
   - readwritetech
@@ -15,7 +15,7 @@ tags:
 
 #### last Updated September 08,2019
 
-_This Cookie Policy explains how Read Write Tech. ("**Company**", "**We**", "**Us**", and "**our**") Uses Cookies and similar technologies to recognize you when you visit our websites at <https://readwritetech.tk>, ("**Websites**"). It Explains what these Technologies are and why we use them, as well as your rights to control our use of them._
+_This Cookie Policy explains how Gadgets by Dopetrope. ("**Company**", "**We**", "**Us**", and "**our**") Uses Cookies and similar technologies to recognize you when you visit our websites at <https://gadgets.dopetrope.tk>, ("**Websites**"). It Explains what these Technologies are and why we use them, as well as your rights to control our use of them._
 
 _In Some cases we may use cookies to collect personal information, or that becomes personal information if we combine with other Information._
 
@@ -23,7 +23,7 @@ _In Some cases we may use cookies to collect personal information, or that becom
 
 _Cookies are small data files that are placed on your computer or mobile device when you visit a website. Cookies are widely used by website owners in order to make their websites work, or to work, or to work more efficiently, as well as to provide reporting Information._
 
-_Cookies set by the Website owner (in this case, Read Write Tech.) are called "**First party Cookies**". Cookies Set by parties other than the website owner are called "**third party cookies**". Third Party Cookies enable third party features or functionality to be provided on or thorough the website (e.g. like advertising, Interactive Content and analytics). The Parties that set up these third party cookies can recognize your computer both when it visits the website in question and also when it visits certain other websites._
+_Cookies set by the Website owner (in this case, Gadgets by Dopetrope.) are called "**First party Cookies**". Cookies Set by parties other than the website owner are called "**third party cookies**". Third Party Cookies enable third party features or functionality to be provided on or thorough the website (e.g. like advertising, Interactive Content and analytics). The Parties that set up these third party cookies can recognize your computer both when it visits the website in question and also when it visits certain other websites._
 
 ### Why Do We Use Cookies?
 
@@ -148,7 +148,7 @@ _We may update this Cookie Policy from time to time in order to reflect, for exa
 _If you have any questions about our use of cookies or other technologies, please email us at
  tksudharshan@readwritetech.tk or by post to:_
 
-**Read Write Tech.**\
+**Gadgets by Dopetrope.**\
 **No:15/27, Sunkuwar Street,**\
 ** Triplicane,**\
 **Chennai, Tamil Nadu 600005**\

@@ -1,3 +1,4 @@
+
 <div class="modal{% if include.showOnExit %} exit{% endif %}{% if include.closed %} closed{% endif %}">
     <div class="window">
         <svg class="close">
@@ -12,19 +13,18 @@
                 {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" %}
                 {% assign shuffled_array = next_posts | shuffle %}
                 {% for post in shuffled_array limit:2 %}
-                    <li>
-                        <a href="{{ post.url | prepend: site.baseurl }}">
-                            <figure>
-                                {% if post.image %}
-                                  <img src="https://res.cloudinary.com/read-write-tech/image/upload/c_scale,h_520,w_988/{{ post.image }}.png">
-                                {% else %}
-                                  <img src="/assets/img/off.jpg">
-                                {% endif %}
-                            </figure>
-                            <h3>{{ post.title }}</h3>
-                            <p>{{ post.description }}</p>
-                        </a>
-                    </li>
+                <!-- Image Assignments -->
+                {% include image-logics.html %}
+                <!--End of Image Assignments -->
+                <li>
+                    <a href="{{ post.url | prepend: site.baseurl }}">
+                        <figure>
+                            <img src="{{ modal_image }}" alt="Featured image" class="post-cover">
+                        </figure>
+                        <h3>{{ post.title }}</h3>
+                        <p>{{ post.description }}</p>
+                    </a>
+                </li>
                 {% endfor %}
             </ul>
         </div>

@@ -11,6 +11,10 @@
 # Posts Settings
 #=include posts.yml
 
+
+# Image Quality and CDN Settings
+#=include image_config.yml
+
 # Advanced Settings
 #=include advanced.yml
 

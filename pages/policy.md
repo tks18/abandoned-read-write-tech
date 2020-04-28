@@ -5,17 +5,17 @@ footer: false
 date: '2019-09-07 00:00:00'
 title: Privacy Policy
 permalink: /privacypolicy/
-description: Privacy Policy of Read Write Tech ©️.
+description: Privacy Policy of Gadgets by Dopetrope ©️.
 ---
 
 # Privacy Policy
 #### Last Updated November 14,2019
 
-Thank You for Choosing to be a Part of  our Community at Read Write Tech©️ ("<b>Company</b>", "<b>We</b>", "<b>us</b>" or "<b>our</b>"). We are Committed to Protecting your Personal Information and Your Right to Privacy. If you have any questions or concerns about our policy, or our Practices with regards to your personal information, please contact us at [tksudharshan@readwritetech.tk](mailto:tksudharshan@readwritetech.tk).
+Thank You for Choosing to be a Part of  our Community at Gadgets by Dopetrope©️ ("<b>Company</b>", "<b>We</b>", "<b>us</b>" or "<b>our</b>"). We are Committed to Protecting your Personal Information and Your Right to Privacy. If you have any questions or concerns about our policy, or our Practices with regards to your personal information, please contact us at [tksudharshan@infozy.tk](mailto:tksudharshan@infozy.tk).
 
-When You Visit Our Website [https://readwritetech.tk](https://readwritetech.tk), and use our services, you trust us with your personal information. We take your privacy very seriously. In this Privacy Policy, We Describe our Privacy Policy. We seek to Explain to you in the clearest wau possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read throught it carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, Please discontinue use of our Sites and our Services.
+When You Visit Our Website [https://gadgets.dopetrope.tk](https://gadgets.dopetrope.tk), and use our services, you trust us with your personal information. We take your privacy very seriously. In this Privacy Policy, We Describe our Privacy Policy. We seek to Explain to you in the clearest wau possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read throught it carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, Please discontinue use of our Sites and our Services.
 
-This Privacy Policy applies to all information collected through our Website (Such as [https://readwritetech.tk](https://readwritetech.tk)), and/or any related services, sales, marketing or events (We refer to them collectively in this privacy policy as the "**Services**").
+This Privacy Policy applies to all information collected through our Website (Such as [https://gadgets.dopetrope.tk](https://gadgets.dopetrope.tk)), and/or any related services, sales, marketing or events (We refer to them collectively in this privacy policy as the "**Services**").
 
 **Please Read this privacy policy carefully as it will help you make informed decisions about sharing your personal information with us.**
 
@@ -54,7 +54,7 @@ _**In Short**: Some Information - Such as IP Adress and/or Browser and Device Ch
 
 _We Automatically collect certain information when you visit, use or navigate the Services. This Information Does Not Reveal Your  Specific identity (like Your Name or Contact Information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, Country, Location, Information about how and when you use our Services and other Technical Information. This Information is Primarily Needed to Maintain the Security and Operation of Our Services, and for our internal Analytics and Reporting Purposes._
 
-_Like Many Businesses, We also Collect Information Through Cookies and Similar Technologies. You can Find out more about this in our [Cookies Policy](https://readwritetech.tk/cookiepolicy/)._
+_Like Many Businesses, We also Collect Information Through Cookies and Similar Technologies. You can Find out more about this in our [Cookies Policy](https://gadgets.dopetrope.tk/cookiepolicy/)._
 
 ### 2. How Do we Use Your Information?
 
@@ -84,13 +84,13 @@ _More Specifically, we may need to prcess your data or share your personal infor
 
 - _**Vendors, consultants and other Third-party Service Providers**. We may share your data with third party vendors, service providers, contractors or agents who perform services for us or on behalf and require access to such information to do that work. Examples include: data analysiss, email delivery, hosting services, customer service and marketing efforts. We may allow selected third parties to use tracking technology on the services, which will enable them to collect data about how you interact with the services over time. This information may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand online activity. Unless Described in this policy, We do no Share, sell, rent or trade any of your information with the third parties for their promotional purposes._
 - _**Business Transfers**. We may share ot transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company._
-- _**Third-Party Advertisers**. We may use third-party advertising companies to serve ads when you visit the services. These Companies may use information about your visits to our website(s) and other websites that contained in web about cookies and other tracking technologies in order to provide advertisements about goods and services of interest to you. See our [cookie Policy](https://readwritetech.tk/cookiepolicy/) for further information._
+- _**Third-Party Advertisers**. We may use third-party advertising companies to serve ads when you visit the services. These Companies may use information about your visits to our website(s) and other websites that contained in web about cookies and other tracking technologies in order to provide advertisements about goods and services of interest to you. See our [cookie Policy](https://gadgets.dopetrope.tk/cookiepolicy/) for further information._
 
 ### 4. Do We Use Cookies and Other Tracking Technologies?
 
 _**In Short**: We may Use Cookies and other tracking technologies to collect and store your Information._
 
-_We May use cookies and similar tracking technologies (like web Beacons and pixels) to access ot store information. specific information about how we use such technologies and how you can refuse certain cookies is set out in our [cookie policy](https://readwritetech.tk/cookiepolicy/) for Further Information._
+_We May use cookies and similar tracking technologies (like web Beacons and pixels) to access ot store information. specific information about how we use such technologies and how you can refuse certain cookies is set out in our [cookie policy](https://gadgets.dopetrope.tk/cookiepolicy/) for Further Information._
 
 ### 5. Do we use Google Maps?
 
@@ -118,7 +118,7 @@ _When we have no ongoing legitimate business need to process your personal infor
 
 _**In Short**: We do not Knowingly Collect data from or market to children under 18 years of age._
 
-_We do not Knowingly solicit data from or market to children under 18 years of age. By using the Services, You represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent's use of the services. If we Learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If You become aware of any data we have collected from children under age 18, Please Contact us at [tksudharshan@readwritetech.tk](mailto:tksudharshan@readwritetech.tk)._
+_We do not Knowingly solicit data from or market to children under 18 years of age. By using the Services, You represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent's use of the services. If we Learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If You become aware of any data we have collected from children under age 18, Please Contact us at [tksudharshan@infozy.tk](mailto:tksudharshan@infozy.tk)._
 
 ### 9. What Are Your Privacy Rights?
 
@@ -127,7 +127,7 @@ _**In Short**: You May review, change, or terminate your account at any time._
 _If You are Resident in the European Economic Area and you beleive we are unlawfully processing your personal information, You also have the right to complain to your local data protection supervisory authority. You can find their contact details [here](https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080)._
 
 _**Cookies and Similar Technologies**: Most Web Browsers are set to accept cookies by default. if you prefer, you can usually choose to set your browser to remove cookies and to reject cookies. If You Choose to remove cookies or reject cookies, this could affect certain features or services of our services. To Opt-out of Interest-Based Advertising by advertisers on our Services Visit [AboutAds](https://www.aboutads.info/choices/).
-For Further Information, Please see our Cookie Policy [Here](https://readwritetech.tk/cookiepolicy/)._
+For Further Information, Please see our Cookie Policy [Here](https://gadgets.dopetrope.tk/cookiepolicy/)._
 
 ### 10. Controls for DO-NOT-TRACK Features
 
@@ -149,9 +149,9 @@ _We may update this Privacy Policy from time to time. The Updated Version will b
 
 ### 13. How can You Contact us About this Policy?
 
-_If You Have Questions or Comments about this policy, You may email us at [tksudharshan@readwritetech.tk](mailto:tksudharshan@readwritetech.tk) or by post to:_
+_If You Have Questions or Comments about this policy, You may email us at [tksudharshan@gadgets.infozy.tk](mailto:tksudharshan@infozy.tk) or by post to:_
 
-**Read Write Tech.©️ <br/>
+**Gadgets by Dopetrope.©️ <br/>
 Author: Sudharshan TK <br/>
 No: 15/27, <br/>
 Sunkuwar Street, Triplicane, <br/>

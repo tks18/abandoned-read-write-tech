@@ -2,15 +2,15 @@
 layout: page
 menu: true
 footer: true
-date: '2019-08-31 00:00:00'
+date: '2020-04-26 05:30:53'
 title: About
 permalink: /about/
 description: >-
-  Read Write Tech is a ambitious Project Found For Sharing Tech News and Updates
-  from various Tech Sources and Blogs.
+  Gadget by Dope-T-Rope is a Spin-off from Dopetrope project.
 tags:
-  - Read Write Tech
-  - About R/W Tech
+  - dopetrope
+  - gadget-news
+  - About dope Tech
   - Technology Blog
   - Blog
 ---
@@ -18,10 +18,10 @@ tags:
 
 <img src="/assets/img/about.png" alt="About Read Write Tech">
 
-# About - Read Write Tech
-_**Read Write Tech** is a ambitious Project Found For Sharing Tech News and Updates from various Tech Sources and Blogs._
+# About - Gadgets by Dopetrope
+_**Gadgets by Dopetrope** is a ambitious Project Found For Sharing Tech News and Updates from various Tech Sources and Blogs._
 
-_**Read Write Tech** Posts Various News From Popular Sources and it is constantly improving in terms of Technical Competence and also in terms of Content Quality. Currently R/W Tech is Posting various News from various Sources. It is Also Constantly Improving in terms of Providing Original Content_
+_**Gadgets by Dopetrope** Posts Various News From Popular Sources and it is constantly improving in terms of Technical Competence and also in terms of Content Quality. Currently dopetrope is Posting various News from various Sources. It is Also Constantly Improving in terms of Providing Original Content_
 
 _The latest tech news about the world's best (and sometimes worst) hardware, apps, and much more. From top companies like Google and Apple to tiny startups vying for your attention, R/W Tech has the latest in what matters in technology daily._
 

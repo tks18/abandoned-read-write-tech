@@ -5,7 +5,7 @@ footer: false
 date: '2019-09-07 00:00:00'
 title: License
 permalink: /license/
-description: License of Read Write Tech ©️.
+description: License of Gadgets by Gadgets byDopetrope ©️.
 tags:
   - License
   - Readwritetech
@@ -628,7 +628,7 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-   Read Write Tech.©️ is a Personal Tech Blog / News Website that Gets You
+   Gadgets by Dopetrope.©️ is a Personal Tech Blog / News Website that Gets You
    Updated with Latest Techno News
    Copyright (C) 2019  Sudharshan TK
 

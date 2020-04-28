@@ -1,34 +1,33 @@
 <section class="share">
     <h3>Share it Socially !!</h3>
-    <a aria-label="Share on Twitter" href="https://twitter.com/intent/tweet?text=&quot;{{ page.description }}&quot;%20{{ site.url }}{{ page.url }}%20via%20&#64;{{ site.twitter_username }}&hashtags={% for tag in page.tags %}{{tag}},{% endfor %}"
-    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" title="Share on Twitter">
+    <a aria-label="Share on Twitter" href="https://twitter.com/intent/tweet?text=&quot;{{ page.description }}&quot;%20{{ site.url }}{{ page.url }}%20via%20&#64;{{ site.twitter_username }}&hashtags={% for tag in page.tags %}{{tag}},{% endfor %}" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" title="Share on Twitter">
         <img alt="Tweet" src="/assets/icons/Twitter.svg" width="40px" />
     </a>
     <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}&quote={{ page.description }}." title="Share on Facebook" target="_blank">
-  	  <img alt="Share on Facebook" src="/assets/icons/Facebook.svg" width="40px" />
+        <img alt="Share on Facebook" src="/assets/icons/Facebook.svg" width="40px" />
     </a>
     <a href="http://www.tumblr.com/share?v=3&u={{ site.url }}{{ page.url }}&quote={{ page.description }}&s=" target="_blank" title="Post to Tumblr">
-  	  <img alt="Post to Tumblr" src="/assets/icons/Tumblr.svg" width="40px" />
+        <img alt="Post to Tumblr" src="/assets/icons/Tumblr.svg" width="40px" />
     </a>
     <a href="http://pinterest.com/pin/create/button/?url={{ site.url }}{{ page.url }}&media=https://readwritetech.tk/assets/img/blog-image.png&description={{ page.description }}" target="_blank" title="Pin it">
-  	  <img alt="Pin it" src="/assets/icons/Pinterest.svg" width="40px" />
+        <img alt="Pin it" src="/assets/icons/Pinterest.svg" width="40px" />
     </a>
     <a href="https://getpocket.com/save?url={{ site.url }}{{ page.url }}&title={{ page.title }}" target="_blank" title="Add to Pocket">
-  	  <img alt="Add to Pocket" src="/assets/icons/Pocket.svg" width="40px" />
+        <img alt="Add to Pocket" src="/assets/icons/Pocket.svg" width="40px" />
     </a>
     <a href="http://www.reddit.com/submit?url={{ site.url }}{{ page.url }}&title={{ page.title }}" target="_blank" title="Submit to Reddit">
-  	  <img alt="Submit to Reddit" src="/assets/icons/Reddit.svg" width="40px" />
+        <img alt="Submit to Reddit" src="/assets/icons/Reddit.svg" width="40px" />
     </a>
     <a href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title }}&summary={{ page.description }}&source={{ site.url }}" target="_blank" title="Share on LinkedIn">
-  	  <img alt="Share on LinkedIn" src="/assets/icons/LinkedIn.svg" width="40px" />
+        <img alt="Share on LinkedIn" src="/assets/icons/LinkedIn.svg" width="40px" />
     </a>
     <a href="http://wordpress.com/press-this.php?u={{ site.url }}{{ page.url }}&quote={{ page.title }}&s={{ page.description }}&i=https://readwritetech.tk/assets/img/blog-image.png" target="_blank" title="Publish on WordPress">
-  	  <img alt="Publish on WordPress" src="/assets/icons/Wordpress.svg" width="40px" />
+        <img alt="Publish on WordPress" src="/assets/icons/Wordpress.svg" width="40px" />
     </a>
     <a href="https://pinboard.in/popup_login/?url={{ site.url }}{{ page.url }}&title={{ page.title }}&description={{ page.description }}" target="_blank" title="Save to Pinboard">
-      <img alt="Save to Pinboard" src="/assets/icons/Pinboard.svg" width="40px" />
+        <img alt="Save to Pinboard" src="/assets/icons/Pinboard.svg" width="40px" />
     </a>
     <a href="mailto:?subject={{ page.title }}&body={{ page.description }}.:%20{{ site.url }}" target="_blank" title="Send email">
-  	  <img alt="Send email" src="/assets/icons/Email.svg" width="40px" />
+        <img alt="Send email" src="/assets/icons/Email.svg" width="40px" />
     </a>
 </section>

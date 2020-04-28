@@ -1,0 +1,266 @@
+
+{% assign author_photo = '' %}
+{% if site.auto_webp_conversion %}
+    {% if author.photo %}
+        {% if author.photo contains "https://" %}
+            {% assign author_photo = author.photo | remove: "https://" | prepend: site.cdn %}
+        {% else %}
+            {% assign author_photo = author.photo | remove: "gadgets.dopetrope.tk/assets/img/" | prepend: site.image | prepend: site.cdn %}
+        {% endif %}
+    {% else %}
+        {% assign author_photo = "user.jpg" | prepend: site.image | prepend: site.cdn %}
+    {% endif %}
+{% endif %}
+
+{% assign page_photo = '' %}
+{% if site.auto_webp_conversion %}
+    {% if page.photo %}
+        {% if page.photo contains "https://" %}
+            {% assign page_photo = page.photo | remove: "https://" | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail %}
+        {% else %}
+            {% assign page_photo = page.photo | remove: "gadgets.dopetrope.tk/assets/img/" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail %}
+        {% endif %}
+    {% else %}
+        {% assign page_photo = "user.jpg" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width | append: "&h=" | append: site.height %}
+    {% endif %}
+{% else %}
+    {% if page.photo %}
+        {% if page.photo contains "https://" %}
+            {% assign page_photo = page.photo | remove: "https://" | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail %}
+        {% else %}
+            {% assign page_photo = page.photo | remove: "gadgets.dopetrope.tk/assets/img/" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.widt_thumbnail | append: "&h=" | append: site.height_thumbnail %}
+        {% endif %}
+    {% else %}
+        {% assign page_photo = "user.jpg" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail %}
+    {% endif %}
+{% endif %}
+
+{% assign head_image = '' %}
+{% if site.auto_webp_conversion %}
+    {% if page.image %}
+        {% if page.image contains "https://" %}
+            {% assign head_image = page.image | remove: "https://" | prepend: site.cdn | append: "?w=" | append: site.width_post | append: "&h=" | append: site.height_post | append: "&f=auto" %}
+        {% else %}
+            {% assign head_image = page.image | remove: "gadgets.dopetrope.tk/assets/img/" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_post | append: "&h=" | append: site.height_post | append: "&f=auto" %}
+        {% endif %}
+    {% else %}
+        {% assign head_image = "blog-image.png" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_post | append: "&h=" | append: site.height_post | append: "&f=auto" %}
+    {% endif %}
+{% else %}
+    {% if page.image %}
+        {% if page.image contains "https://" %}
+            {% assign head_image = page.image | remove: "https://" | prepend: site.cdn | append: "?w=" | append: site.width_post | append: "&h=" | append: site.height_post %}
+        {% else %}
+            {% assign head_image = page.image | remove: "gadgets.dopetrope.tk/assets/img/" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_post | append: "&h=" | append: site.height_post %}
+        {% endif %}
+    {% else %}
+        {% assign head_image = "blog-image.png" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_post | append: "&h=" | append: site.height_post %}
+    {% endif %}
+{% endif %}
+
+{% assign modal_image = '' %}
+{% if site.auto_webp_conversion %}
+    {% if post.image %}
+        {% if post.image contains "https://" %}
+            {% assign modal_image = post.image | remove: "https://" | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail | append: "&f=auto" %}
+        {% else %}
+            {% assign modal_image = post.image | remove: "gadgets.dopetrope.tk/assets/img/" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail | append: "&f=auto" %}
+        {% endif %}
+    {% else %}
+        {% assign modal_image = "off.jpg" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width | append: "&h=" | append: site.height | append: "&f=auto" %}
+    {% endif %}
+{% else %}
+    {% if post.image %}
+        {% if post.image contains "https://" %}
+            {% assign modal_image = post.image | remove: "https://" | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail %}
+        {% else %}
+            {% assign modal_image = post.image | remove: "gadgets.dopetrope.tk/assets/img/" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.widt_thumbnail | append: "&h=" | append: site.height_thumbnail %}
+        {% endif %}
+    {% else %}
+        {% assign modal_image = "off.jpg" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail %}
+    {% endif %}
+{% endif %}
+
+{% assign recommendation_image = '' %}
+{% if site.auto_webp_conversion %}
+    {% if recommendation.image %}
+        {% if recommendation.image contains "https://" %}
+            {% assign recommendation_image = recommendation.image | remove: "https://" | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail | append: "&f=auto" %}
+        {% else %}
+            {% assign recommendation_image = recommendation.image | remove: "gadgets.dopetrope.tk/assets/img/" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail | append: "&f=auto" %}
+        {% endif %}
+    {% else %}
+        {% assign recommendation_image = "off.jpg" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail | append: "&f=auto" %}
+    {% endif %}
+{% else %}
+    {% if recommendation.image %}
+        {% if recommendation.image contains "https://" %}
+            {% assign recommendation_image = recommendation.image | remove: "https://" | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail %}
+        {% else %}
+            {% assign recommendation_image = recommendation.image | remove: "gadgets.dopetrope.tk/assets/img/" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail %}
+        {% endif %}
+    {% else %}
+        {% assign recommendation_image = "off.jpg" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail %}
+    {% endif %}
+{% endif %}
+
+{% assign categoryhero_image = '' %}
+{% if site.auto_webp_conversion %}
+    {% if page.image %}
+        {% if page.image contains "https://" %}
+            {% assign categoryhero_image = page.image | remove: "https://" | prepend: site.cdn | append: "?w=" | append: site.width_post | append: "&h=" | append: site.height_post | append: "&f=auto" %}
+        {% else %}
+            {% assign categoryhero_image = page.image | remove: "gadgets.dopetrope.tk/assets/img/" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_post | append: "&h=" | append: site.height_post | append: "&f=auto" %}
+        {% endif %}
+    {% else %}
+        {% assign categoryhero_image = "blog-image.png" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_post | append: "&h=" | append: site.height_post | append: "&f=auto" %}
+    {% endif %}
+{% else %}
+    {% if page.image %}
+        {% if page.image contains "https://" %}
+            {% assign categoryhero_image = page.image | remove: "https://" | prepend: site.cdn | append: "?w=" | append: site.width_post | append: "&h=" | append: site.height_post %}
+        {% else %}
+            {% assign categoryhero_image = page.image | remove: "gadgets.dopetrope.tk/assets/img/" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_post | append: "&h=" | append: site.height_post %}
+        {% endif %}
+    {% else %}
+        {% assign categoryhero_image = "blog-image.png" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_post | append: "&h=" | append: site.height_post %}
+    {% endif %}
+{% endif %}
+
+{% assign category_post_image = '' %}
+{% if site.auto_webp_conversion %}
+    {% if post.image %}
+        {% if post.image contains "https://" %}
+            {% assign category_post_image = post.image | remove: "https://" | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail | append: "&f=auto" %}
+        {% else %}
+            {% assign category_post_image = post.image | remove: "gadgets.dopetrope.tk/assets/img/" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail | append: "&f=auto" %}
+        {% endif %}
+    {% else %}
+        {% assign category_post_image = "off.jpg" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail | append: "&f=auto" %}
+    {% endif %}
+{% else %}
+    {% if post.image %}
+        {% if post.image contains "https://" %}
+            {% assign category_post_image = post.image | remove: "https://" | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail %}
+        {% else %}
+            {% assign category_post_image = post.image | remove: "gadgets.dopetrope.tk/assets/img/" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail %}
+        {% endif %}
+    {% else %}
+        {% assign category_post_image = "off.jpg" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail %}
+    {% endif %}
+{% endif %}
+
+{% assign postmain_image = '' %}
+{% if site.auto_webp_conversion %}
+    {% if page.image %}
+        {% if page.image contains "https://" %}
+            {% assign postmain_image = page.image | remove: "https://" | prepend: site.cdn | append: "?w=" | append: site.width_post | append: "&h=" | append: site.height_post | append: "&f=auto" %}
+        {% else %}
+            {% assign postmain_image = page.image | remove: "gadgets.dopetrope.tk/assets/img/" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_post | append: "&h=" | append: site.height_post %}
+        {% endif %}
+    {% else %}
+        {% assign postmain_image = "blog-image.png" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_post | append: "&h=" | append: site.height_post %}
+    {% endif %}
+{% else %}
+    {% if page.image %}
+        {% if page.image contains "https://" %}
+            {% assign postmain_image = page.image | remove: "https://" | prepend: site.cdn | append: "?w=" | append: site.width_post | append: "&h=" | append: site.height_post %}
+        {% else %}
+            {% assign postmain_image = page.image | remove: "gadgets.dopetrope.tk/assets/img/" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_post | append: "&h=" | append: site.height_post %}
+        {% endif %}
+    {% else %}
+        {% assign postmain_image = "blog-image.png" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_post | append: "&h=" | append: site.height_post %}
+    {% endif %}
+{% endif %}
+
+{% assign postfeatured_image = '' %}
+{% if site.auto_webp_conversion %}
+    {% if page.image %}
+        {% if page.image contains "https://" %}
+            {% assign postfeatured_image = page.image | remove: "https://" | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail| append: "&h=" | append: site.height_thumbnail | append: "&f=auto" %}
+        {% else %}
+            {% assign postfeatured_image = page.image | remove: "gadgets.dopetrope.tk/assets/img/" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail | append: "&f=auto" %}
+        {% endif %}
+    {% else %}
+        {% assign postfeatured_image = "blog-image.png" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail | append: "&f=auto" %}
+    {% endif %}
+{% else %}
+    {% if page.image %}
+        {% if page.image contains "https://" %}
+            {% assign postfeatured_image = page.image | remove: "https://" | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail %}
+        {% else %}
+            {% assign postfeatured_image = page.image | remove: "gadgets.dopetrope.tk/assets/img/" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail %}
+        {% endif %}
+    {% else %}
+        {% assign postfeatured_image = "blog-image.png" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail %}
+    {% endif %}
+{% endif %}
+
+{% assign rss_item_image = '' %}
+{% if site.auto_webp_conversion %}
+    {% if post.image %}
+        {% if post.image contains "https://" %}
+            {% assign rss_item_image = post.image | remove: "https://" | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail | append: "&f=auto" %}
+        {% else %}
+            {% assign rss_item_image = post.image | remove: "gadgets.dopetrope.tk/assets/img/" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail | append: "&f=auto" %}
+        {% endif %}
+    {% else %}
+        {% assign rss_item_image = "off.jpg" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail | append: "&f=auto" %}
+    {% endif %}
+{% else %}
+    {% if post.image %}
+        {% if post.image contains "https://" %}
+            {% assign rss_item_image = post.image | remove: "https://" | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail %}
+        {% else %}
+            {% assign rss_item_image = post.image | remove: "gadgets.dopetrope.tk/assets/img/" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.widt_thumbnail | append: "&h=" | append: site.height_thumbnail %}
+        {% endif %}
+    {% else %}
+        {% assign rss_item_image = "off.jpg" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail %}
+    {% endif %}
+{% endif %}
+
+{% assign featured_image = '' %}
+{% if site.auto_webp_conversion %}
+    {% if featured.image %}
+        {% if featured.image contains "https://" %}
+            {% assign featured_image = featured.image| remove: "https://" | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail | append: "&f=auto" %}
+        {% else %}
+            {% assign featured_image = featured.image | remove: "gadgets.dopetrope.tk/assets/img/" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail | append: "&f=auto" %}
+        {% endif %}
+    {% else %}
+        {% assign featured_image = "off.jpg" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail | append: "&f=auto" %}
+    {% endif %}
+{% else %}
+    {% if featured.image %}
+        {% if featured.image contains "https://" %}
+            {% assign featured_image = featured.image | remove: "https://" | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail %}
+        {% else %}
+            {% assign featured_image = featured.image | remove: "gadgets.dopetrope.tk/assets/img/" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.widt_thumbnail | append: "&h=" | append: site.height_thumbnail %}
+        {% endif %}
+    {% else %}
+        {% assign featured_image = "off.jpg" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail %}
+    {% endif %}
+{% endif %}
+
+{% assign home_post_image = '' %}
+{% if site.auto_webp_conversion %}
+    {% if post.image %}
+        {% if post.image contains "https://" %}
+            {% assign home_post_image = post.image | remove: "https://" | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail | append: "&f=auto" %}
+        {% else %}
+            {% assign home_post_image = post.image | remove: "gadgets.dopetrope.tk/assets/img/" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail | append: "&f=auto" %}
+        {% endif %}
+    {% else %}
+        {% assign home_post_image = "off.jpg" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail | append: "&f=auto" %}
+    {% endif %}
+{% else %}
+    {% if post.image %}
+        {% if post.image contains "https://" %}
+            {% assign home_post_image = post.image | remove: "https://" | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail %}
+        {% else %}
+            {% assign home_post_image = post.image | remove: "gadgets.dopetrope.tk/assets/img/" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.widt_thumbnail | append: "&h=" | append: site.height_thumbnail %}
+        {% endif %}
+    {% else %}
+        {% assign home_post_image = "off.jpg" | prepend: site.image | prepend: site.cdn | append: "?w=" | append: site.width_thumbnail | append: "&h=" | append: site.height_thumbnail %}
+    {% endif %}
+{% endif %}

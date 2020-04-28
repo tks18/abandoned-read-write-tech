@@ -1,11 +1,8 @@
 backend:
   name: git-gateway
   branch: master
-media_library:
-  name: cloudinary
-  config:
-    cloud_name: read-write-tech
-    api_key: 823346759728641
+media_folder: "assets/img/posts"
+logo_url: https://gadgets.dopetrope.tk/assets/img/blog-image.png
 publish_mode: editorial_workflow
 collections:
   - label: "Category"
@@ -42,7 +39,8 @@ collections:
         name: "image"
         widget: "string"
         allow_multiple: false
-        required: false
+        required: true
+        hint: Give Source Image Url or Upload the Image with the above Media Gallery
   - label: "Posts"
     name: "posts"
     folder: "_posts"
@@ -75,6 +73,7 @@ collections:
         widget: "string"
         allow_multiple: false
         required: false
+        hint: Give Source Image Url or Upload the Image with the above Media Gallery 
       - label: "Image Credits"
         name: "image_source"
         hint: "Image Source name"
@@ -178,7 +177,7 @@ collections:
       - label: "Photo"
         name: "photo"
         widget: "image"
-        required: false
+        required: true
         hint: "Use a square picture"
       - label: "Short Name"
         name: "name"
@@ -296,23 +295,18 @@ collections:
           - label: "Theme Color"
             name: "themeColor"
             widget: "color"
-            default: "#ff0a16"
           - label: "Primary Dark Color"
             name: "primaryDark"
             widget: "color"
-            default: "#141414"
           - label: "Accent Dark Color"
             name: "accentDark"
-            default: "#ffffff"
             widget: "color"
           - label: "Light Gray Color"
             name: "lightGray"
             widget: "color"
-            default: "#f2f2f2"
           - label: "Texts Color"
             name: "texts"
             widget: "color"
-            default: "#333333"
       - label: "Posts"
         name: "posts"
         file: "src/yml/posts.yml"

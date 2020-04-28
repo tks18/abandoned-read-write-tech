@@ -1,21 +1,23 @@
 <header class="bar-header">
     <a id="menu" role="button">
-        <svg id="open" class="icon-menu"><use xlink:href="#icon-menu"></use></svg>
+        <svg id="open" class="icon-menu">
+            <use xlink:href="#icon-menu"></use>
+        </svg>
     </a>
     <h1 class="logo">
         <a href="{{ site.baseurl }}/">
-          {{ site.title }}
+            {{ site.title }} <span class="version">by Dopetrope</span>
         </a>
     </h1>
     <a id="search" class="dosearch" role="button">
-        <svg class="icon-search"><use xlink:href="#icon-search"></use></svg>
+        <svg class="icon-search">
+            <use xlink:href="#icon-search"></use>
+        </svg>
     </a>
     <a href="/admin/" class="get-theme" role="button">
         Admin Panel!!
     </a>
 </header>
-
 <div id="mask" class="overlay"></div>
-
 {% include menu.html %}
 {% include search.html %}

@@ -1,0 +1,8 @@
+# CDN and Image Settings
+cdn: https://cdn.statically.io/img/
+image: gadgets.dopetrope.tk/assets/img/
+height_thumbnail: 580
+width_thumbnail: 920
+height_post: 1080
+width_post: 1920
+auto_webp_conversion: true
