@@ -3,7 +3,9 @@ backend:
   branch: master
 media_folder: "assets/img/posts"
 logo_url: https://dopetrope.tk/assets/img/blog-image.png
-publish_mode: editorial_workflow
+site_url: https://dopetrope.tk
+display_url: https://dopetrope.tk
+publish_mode: editorial_workflow  
 collections:
   - label: "Category"
     name: "category"
