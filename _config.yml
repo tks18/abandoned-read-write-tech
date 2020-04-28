@@ -1,9 +1,10 @@
 # Site Settings
 title: Dope-T-Rope
+name: Dope-T-Rope
 tagline: Technically Dope
 description: >-
   Dope-T-Rope is a ambitious Project Found For Sharing Tech News and Updates from various Tech Sources and Blogs.The latest tech news about the world's best (and sometimes worst) hardware, apps, and much more. 
-  From top companies like Google and Apple to tiny startups vying for your attention, Dopetrope has the latest in what matters in technology daily. Dopetrope is Now a Part of Infozy Group.
+  From top companies like Google and Apple to tiny startups vying for your attention, Dopetrope Tech has the latest in what matters in technology daily.
 seotags:
   - Technology
   - Tech news
@@ -15,7 +16,7 @@ show_hero: true
 email: tksudharshan@infozy.tk
 disqus_username: read-write-tech
 paginate: 21
-
+maintainer: Sudharshan TK
 
 # Social Media Settings
 # Remove the item if you don't need it
@@ -38,6 +39,18 @@ show_time_bar: true
 show_modal_on_exit: true
 show_modal_on_finish_post: true
 two_columns_layout: true
+
+
+
+# Image Quality and CDN Settings
+# CDN and Image Settings
+cdn: https://cdn.statically.io/img/
+image: dopetrope.tk/assets/img/
+height_thumbnail: 580
+width_thumbnail: 920
+height_post: 1080
+width_post: 1920
+auto_webp_conversion: true
 
 
 # Advanced Settings
