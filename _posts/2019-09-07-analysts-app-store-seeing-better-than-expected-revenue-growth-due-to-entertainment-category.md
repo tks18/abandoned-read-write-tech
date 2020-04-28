@@ -10,7 +10,7 @@ layout: post
 subtitle: 'Morgan Stanley now says the App Store could show better-than-expected revenue '
 description: 'Morgan Stanley now says the App Store could show better-than-expected
   revenue '
-image: Apple-App-Store-antitrust-case_wksu6r
+image: blog-image.png
 image_source: 9 to 5 Mac
 image_source_url: 'https://9to5mac.com'
 author: Sudharshan TK

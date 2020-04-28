@@ -1,10 +1,10 @@
 # Site Settings
-title: Dope-T-Rope
-name: Dope-T-Rope
+# Site Settings
+title: Gadgets
 tagline: Technically Dope
 description: >-
-  Dope-T-Rope is a ambitious Project Found For Sharing Tech News and Updates from various Tech Sources and Blogs.The latest tech news about the world's best (and sometimes worst) hardware, apps, and much more. 
-  From top companies like Google and Apple to tiny startups vying for your attention, Dopetrope Tech has the latest in what matters in technology daily.
+  Gadget by Dope-T-Rope is a Spin-off from Dopetrope project particularly focusing on Gadget Reviews and its News.Dopetrope is a Project Found For Sharing Tech News and Updates from various Tech Sources and Blogs.The latest tech news about the world's best (and sometimes worst) hardware, apps, and much more. 
+  From top companies like Google and Apple to tiny startups vying for your attention, Dopetrope has the latest in what matters in technology daily.
 seotags:
   - Technology
   - Tech news
@@ -18,8 +18,8 @@ disqus_username: read-write-tech
 paginate: 21
 maintainer: Sudharshan TK
 
+
 # Social Media Settings
-# Remove the item if you don't need it
 github_username: tks18
 twitter_username: shantk18
 instagram_username: shantk18
@@ -27,10 +27,10 @@ medium_username: tksudharshan
 
 
 # Theme Settings
-themeColor: '#00f2bb'
+themeColor: '#fa163f'
 primaryDark: '#141414'
 accentDark: '#ffffff'
-lightGray: '#f2f2f2'
+lightGray: '#d8d8d8'
 texts: '#333333'
 
 
@@ -41,23 +41,22 @@ show_modal_on_finish_post: true
 two_columns_layout: true
 
 
+# Advanced Settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://gadgets.dopetrope.tk" # the base hostname & protocol for your site
+google_analytics: "UA-156929545-1"
+language: "en"
+
 
 # Image Quality and CDN Settings
 # CDN and Image Settings
 cdn: https://cdn.statically.io/img/
-image: dopetrope.tk/assets/img/
+image: gadgets.dopetrope.tk/assets/img/
 height_thumbnail: 580
 width_thumbnail: 920
 height_post: 1080
 width_post: 1920
 auto_webp_conversion: true
-
-
-# Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dopetrope.tk" # the base hostname & protocol for your site
-google_analytics: "UA-156929545-1"
-language: "en"
 
 
 # Build settings
