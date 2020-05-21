@@ -1,8 +1,7 @@
 ---
 date: 2020-05-21 18:19:07 +0530
 layout: post
-title: Microsoft releases Terminal 1.0 and Windows Package Manager, announces
-  Linux GUI app support and GPU acceleration for WSL 2
+title: Microsoft releases Terminal 1.0 and Windows Package Manager
 subtitle: Microsoft had announced Windows Terminal.
 description: Microsoft had announced Windows Terminal.
 image: https://www.xda-developers.com/files/2020/05/Windows-Terminal-810x298_c.jpg
