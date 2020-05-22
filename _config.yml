@@ -1,0 +1,111 @@
+# Site Settings
+title: Dope-T-Rope
+name: Dope-T-Rope
+tagline: Technically Dope
+description: >-
+  Dope-T-Rope is a ambitious Project Found For Sharing Tech News and Updates from various Tech Sources and Blogs.The latest tech news about the world's best (and sometimes worst) hardware, apps, and much more. 
+  From top companies like Google and Apple to tiny startups vying for your attention, Dopetrope Tech has the latest in what matters in technology daily.
+seotags:
+  - Technology
+  - Tech news
+  - Gadget News
+  - Tech Blog
+  - Gadget Reviews
+  - Creators News
+show_hero: true
+email: tksudharshan@infozy.tk
+disqus_username: read-write-tech
+paginate: 21
+maintainer: Sudharshan TK
+
+# Social Media Settings
+# Remove the item if you don't need it
+github_username: tks18
+twitter_username: shantk18
+instagram_username: shantk18
+medium_username: tksudharshan
+
+
+# Theme Settings
+themeColor: '#00f2bb'
+primaryDark: '#141414'
+accentDark: '#ffffff'
+lightGray: '#f2f2f2'
+texts: '#333333'
+
+
+# Posts Settings
+show_time_bar: true
+show_modal_on_exit: true
+show_modal_on_finish_post: true
+two_columns_layout: true
+
+# CDN and Image Settings
+cdn: https://cdn.statically.io/img/
+image: dopetrope.tk/assets/img/
+height_thumbnail: 580
+width_thumbnail: 920
+height_post: 1080
+width_post: 1920
+auto_webp_conversion: true
+
+
+# Advanced Settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://dopetrope.tk" # the base hostname & protocol for your site
+google_analytics: "UA-156929545-1"
+language: "en"
+
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+collections:
+  authors:
+    output: true
+  category:
+    output: true
+paginate_path: "/page/:num/"
+
+# Content paginator
+paginate_content:
+  enabled: true
+  debug: false
+  collections:
+    - posts
+  auto: false
+  separator: "--page-break--"
+  permalink: "/:num/"
+  seo_canonical: true
+  properties:
+    part:
+      is_generated: true
+    last:
+      is_generated: true
+    single:
+      is_generated: true
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-paginate-content
+
+# Exclude my node related stuff
+exclude: [
+  'package.json',
+  'package-lock.json',
+  'src',
+  'node_modules',
+  'initpost.sh',
+  'Gemfile',
+  'Gemfile.lock',
+  'gulpfile.js',
+  'README.md',
+  'personal-token.txt',
+  '.npmrc',
+  'LICENSE',
+  '.travis.yml'
+]
+
+timezone: Asia/Kolkata
