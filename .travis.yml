@@ -1,0 +1,20 @@
+language: node_js
+node_js:
+  - "stable"
+cache:
+  directories:
+  - node_modules
+script:
+  - gulp build
+
+deploy:
+  provider: pages
+  local-dir: ./_site
+  target-branch: master
+  email: deploy@travis-ci.org
+  name: Deployment Bot
+  skip-cleanup: true
+  github-token: $github-token
+  keep-history: true
+  on:
+    branch: gh-pages
