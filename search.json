@@ -1,14 +1,452 @@
----
----
 [
-  {% assign posts = site.posts | where_exp:"post","post.is_generated != true" %}
-  {% for post in posts %}
+  
+  
     {
-      "title"    : "{{ post.title | escape }}",
-      "tags"     : "{{ post.tags | array_to_sentence_string }}",
-      "categories" : "{{ post.category }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date | date: '%m/%d/%Y'}}"
-    } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
+      "title"    : "Instagram makes it easier to see when you’re broadcasting music you can’t use",
+      "tags"     : "Instagram and Copyright",
+      "categories" : "facebook",
+      "url"      : "/instagram-makes-it-easier-to-see-when-you-re-broadcasting-music-you-can-t-use/",
+      "date"     : "05/22/2020"
+    } ,
+  
+    {
+      "title"    : "Twitter brings its new quote tweet view to Android and the web",
+      "tags"     : "Twitter and new View",
+      "categories" : "tech-knowledge",
+      "url"      : "/twitter-brings-its-new-quote-tweet-view-to-android-and-the-web/",
+      "date"     : "05/22/2020"
+    } ,
+  
+    {
+      "title"    : "Netflix is making it easier for people to cancel their subscriptions",
+      "tags"     : "Netflix Membership and subscription",
+      "categories" : "tech-knowledge",
+      "url"      : "/netflix-is-making-it-easier-for-people-to-cancel-their-subscriptions/",
+      "date"     : "05/22/2020"
+    } ,
+  
+    {
+      "title"    : "MICROSOFT’S NEW FLUID OFFICE DOCUMENT IS GOOGLE DOCS ON STEROIDS",
+      "tags"     : "Microsoft, Fluid, and ",
+      "categories" : "tech-knowledge",
+      "url"      : "/microsoft-s-new-fluid-office-document-is-google-docs-on-steroids/",
+      "date"     : "05/22/2020"
+    } ,
+  
+    {
+      "title"    : "Google Play Movies adds its first Dolby Vision HDR titles",
+      "tags"     : "HDR, Dolby, and Google Play Movies",
+      "categories" : "google",
+      "url"      : "/google-play-movies-adds-its-first-dolby-vision-hdr-titles/",
+      "date"     : "05/22/2020"
+    } ,
+  
+    {
+      "title"    : "Google releases Assistant-powered Action Blocks",
+      "tags"     : "Google Assistant and Action Block",
+      "categories" : "google",
+      "url"      : "/google-releases-assistant-powered-action-blocks/",
+      "date"     : "05/22/2020"
+    } ,
+  
+    {
+      "title"    : "Microsoft releases Terminal 1.0 and Windows Package Manager",
+      "tags"     : "Windows Terminal, linux gui, and wsl 2",
+      "categories" : "tech-knowledge",
+      "url"      : "/microsoft-releases-terminal-1-0-and-windows-package-manager-announces-linux-gui-app-support-and-gpu-acceleration-for-wsl-2/",
+      "date"     : "05/21/2020"
+    } ,
+  
+    {
+      "title"    : "Digital Wellbeing prepares to track your sleep, let you take Night Notes, and more",
+      "tags"     : "android and digital-wellBeing",
+      "categories" : "android",
+      "url"      : "/digital-wellbeing-prepares-to-track-your-sleep-let-you-take-night-notes-and-more/",
+      "date"     : "05/21/2020"
+    } ,
+  
+    {
+      "title"    : "YouTube Music player page adds a “Related” tab for recommended songs and playlists",
+      "tags"     : "Youtube, music, and recommendation",
+      "categories" : "youtube",
+      "url"      : "/youtube-music-player-page-adds-a-related-tab-for-recommended-songs-and-playlists/",
+      "date"     : "05/21/2020"
+    } ,
+  
+    {
+      "title"    : "Blog is Live After Months of Rebuilding",
+      "tags"     : "live, dopetrope, and technology",
+      "categories" : "blog",
+      "url"      : "/blog-is-live-after-months-of-rebuilding/",
+      "date"     : "05/21/2020"
+    } ,
+  
+    {
+      "title"    : "Welcome to Read Write Tech V2.0 (Now Dope-T-Rope)",
+      "tags"     : "V2.0, dynamic, and Cool",
+      "categories" : "blog",
+      "url"      : "/Welcome-v2/",
+      "date"     : "11/23/2019"
+    } ,
+  
+    {
+      "title"    : "Interactive ‘dynamic email’ rolling out to Gmail for Android and iOS",
+      "tags"     : "Gmail, dynamic, and android",
+      "categories" : "android",
+      "url"      : "/interactive-dynamic-email-rolling-out-to-gmail-for-android-and-ios/",
+      "date"     : "11/22/2019"
+    } ,
+  
+    {
+      "title"    : "Motorola revives the Razr as an Android Foldable, $1,500 Verizon exclusive",
+      "tags"     : "Moto, Motorola Razr, and Foldable Phones",
+      "categories" : "motorola",
+      "url"      : "/motorola-revives-the-razr-as-an-android-foldable-1-500-verizon-exclusive/",
+      "date"     : "11/14/2019"
+    } ,
+  
+    {
+      "title"    : "Apple Music ‘Replay’ feature lets you see most played songs, albums, much more",
+      "tags"     : "Apple, Apple Music, and Replay",
+      "categories" : "apple",
+      "url"      : "/apple-music-replay-feature-lets-you-see-most-played-songs-albums-much-more/",
+      "date"     : "11/14/2019"
+    } ,
+  
+    {
+      "title"    : "YouTube Music begins rolling out Discover Mix playlist",
+      "tags"     : "Youtube Music and ",
+      "categories" : "google",
+      "url"      : "/youtube-music-begins-rolling-out-discover-mix-playlist/",
+      "date"     : "09/23/2019"
+    } ,
+  
+    {
+      "title"    : "Google launches YouTube Music Charts in India",
+      "tags"     : "Google, Youtube Music, and Top Charts",
+      "categories" : "youtube",
+      "url"      : "/google-launches-youtube-music-charts-in-india/",
+      "date"     : "09/16/2019"
+    } ,
+  
+    {
+      "title"    : "Google Photos Introduces New Instagram-Like Stories Feature",
+      "tags"     : "Google Photos, Memories, and Stories",
+      "categories" : "google",
+      "url"      : "/google-photos-introduces-new-instagram-like-stories-feature/",
+      "date"     : "09/16/2019"
+    } ,
+  
+    {
+      "title"    : "Google app 10.61 Insight",
+      "tags"     : "Google Assistant, Google App, and Google Lens",
+      "categories" : "app-insights",
+      "url"      : "/google-app-10-61-insight/",
+      "date"     : "09/15/2019"
+    } ,
+  
+    {
+      "title"    : "Google Assistant testing denser suggestions UI on Android",
+      "tags"     : "Google Assistant, UI Changes, and Android",
+      "categories" : "apps-updates",
+      "url"      : "/google-assistant-testing-denser-suggestions-ui-on-android/",
+      "date"     : "09/15/2019"
+    } ,
+  
+    {
+      "title"    : "Here are a bunch of other Pixel 4 pictures that corroborate previous leaks",
+      "tags"     : "Pixel 4 and Google",
+      "categories" : "google",
+      "url"      : "/here-are-a-bunch-of-other-pixel-4-pictures-that-corroborate-previous-leaks/",
+      "date"     : "09/15/2019"
+    } ,
+  
+    {
+      "title"    : "Google app and Assistant dark theme start rolling out",
+      "tags"     : "Google Assistant, Google App, and Dark Theme",
+      "categories" : "apps-updates",
+      "url"      : "/google-app-and-assistant-dark-theme-start-rolling-out/",
+      "date"     : "09/13/2019"
+    } ,
+  
+    {
+      "title"    : "This Bengaluru Techie Has Designed An Air-Conditioned Helmet To Keep You Cool While Riding",
+      "tags"     : "Bangalure, AC Helmet, and AC",
+      "categories" : "tech-research",
+      "url"      : "/this-bengaluru-techie-has-designed-an-air-conditioned-helmet-to-keep-you-cool-while-riding/",
+      "date"     : "09/13/2019"
+    } ,
+  
+    {
+      "title"    : "Gmail for Android dark theme begins rolling out [Gallery]",
+      "tags"     : "Gmail and Dark Theme",
+      "categories" : "apps-updates",
+      "url"      : "/gmail-for-android-dark-theme-begins-rolling-out-gallery/",
+      "date"     : "09/12/2019"
+    } ,
+  
+    {
+      "title"    : "Google Search will now highlight and elevate original reporting",
+      "tags"     : "Google Search and Google",
+      "categories" : "google",
+      "url"      : "/google-search-will-now-highlight-and-elevate-original-reporting/",
+      "date"     : "09/12/2019"
+    } ,
+  
+    {
+      "title"    : "Here’s everything Apple didn’t announce at its September iPhone 11 event",
+      "tags"     : "Apple, Iphone, and Ipad",
+      "categories" : "apple",
+      "url"      : "/here-s-everything-apple-didn-t-announce-at-its-september-iphone-11-event/",
+      "date"     : "09/12/2019"
+    } ,
+  
+    {
+      "title"    : "Google Translate 6.2",
+      "tags"     : "Google Translate and Continous conversation",
+      "categories" : "app-insights",
+      "url"      : "/google-translate-6-2/",
+      "date"     : "09/12/2019"
+    } ,
+  
+    {
+      "title"    : "Chrome 77 for Android rolling out",
+      "tags"     : "Chrome 77 and Downloads Page",
+      "categories" : "app-insights",
+      "url"      : "/chrome-77-for-android-rolling-out/",
+      "date"     : "09/12/2019"
+    } ,
+  
+    {
+      "title"    : "Here’s what the Google Play Store’s in-app review system will look like",
+      "tags"     : "Play Store and reviews",
+      "categories" : "app-insights",
+      "url"      : "/here-s-what-the-google-play-store-s-in-app-review-system-will-look-like/",
+      "date"     : "09/12/2019"
+    } ,
+  
+    {
+      "title"    : "Here’s everything Apple announced during its iPhone 11 keynote today",
+      "tags"     : "Iphone 11, Watch 5, and Apple",
+      "categories" : "apple",
+      "url"      : "/here-s-everything-apple-announced-during-its-iphone-11-keynote-today/",
+      "date"     : "09/11/2019"
+    } ,
+  
+    {
+      "title"    : "Hands-on with the iPhone 11, iPhone 11 Pro, and Apple Watch Series 5 [Videos]",
+      "tags"     : "Iphone 11, Iphone 11 Pro, and Iphone 11 Pro Max",
+      "categories" : "apple",
+      "url"      : "/hands-on-with-the-iphone-11-iphone-11-pro-and-apple-watch-series-5-videos/",
+      "date"     : "09/11/2019"
+    } ,
+  
+    {
+      "title"    : "Private Instagram posts and stories can be shared publicly using just a web browser",
+      "tags"     : "Instagram Flaw and Private Accounts",
+      "categories" : "blog",
+      "url"      : "/private-instagram-posts-and-stories-can-be-shared-publicly-using-just-a-web-browser/",
+      "date"     : "09/10/2019"
+    } ,
+  
+    {
+      "title"    : "Google removes 24 more malware-filled apps that amassed 500,000 downloads",
+      "tags"     : "Malware-filled and Play store",
+      "categories" : "apps-updates",
+      "url"      : "/google-removes-24-more-malware-filled-apps-that-amassed-500-000-downloads/",
+      "date"     : "09/10/2019"
+    } ,
+  
+    {
+      "title"    : "Pixel 4 will bring some major moves for Google software",
+      "tags"     : "Pixel4 and Google Assistant",
+      "categories" : "google",
+      "url"      : "/pixel-4-will-bring-some-major-moves-for-google-software/",
+      "date"     : "09/10/2019"
+    } ,
+  
+    {
+      "title"    : "Google teases ‘Play Pass’ subscription service, launch ‘coming soon’",
+      "tags"     : "Google Play Pass, Play Subscription, and Google",
+      "categories" : "apps-updates",
+      "url"      : "/google-teases-play-pass-subscription-service-launch-coming-soon/",
+      "date"     : "09/10/2019"
+    } ,
+  
+    {
+      "title"    : "Google Docs gaining always-visible word count box on the web",
+      "tags"     : "Google Docs and Word Counter",
+      "categories" : "apps-updates",
+      "url"      : "/google-docs-gaining-always-visible-word-count-box-on-the-web/",
+      "date"     : "09/10/2019"
+    } ,
+  
+    {
+      "title"    : "Tesla officially launches in Iceland",
+      "tags"     : "Tesla, model 3, and iceland",
+      "categories" : "Tesla",
+      "url"      : "/tesla-officially-launches-in-iceland/",
+      "date"     : "09/09/2019"
+    } ,
+  
+    {
+      "title"    : "Official-looking Pixel 4 promo video confirms gestures, Astrophotography mode, more",
+      "tags"     : "Pixel 4, Google, and Promo",
+      "categories" : "google",
+      "url"      : "/official-looking-pixel-4-promo-video-confirms-gestures-astrophotography-mode-more/",
+      "date"     : "09/09/2019"
+    } ,
+  
+    {
+      "title"    : "Xiaomi Mi Band 4 with a colored AMOLED display  Launching in India on September 17",
+      "tags"     : "Mi band 4 and September 17",
+      "categories" : "mi",
+      "url"      : "/xiaomi-mi-band-4-with-a-colored-amoled-display-launching-in-india-on-september-17/",
+      "date"     : "09/09/2019"
+    } ,
+  
+    {
+      "title"    : "Xiaomi Mi 9 Pro 5G to come with new 30W wireless fast charging technology",
+      "tags"     : "MI, 30watts, and mi9",
+      "categories" : "mi",
+      "url"      : "/xiaomi-mi-9-pro-5g-to-come-with-new-30w-wireless-fast-charging-technology/",
+      "date"     : "09/09/2019"
+    } ,
+  
+    {
+      "title"    : "Xiaomi is adding a one-click button to turn off all ads in MIUI system apps",
+      "tags"     : "MIUI Ads and MIUI",
+      "categories" : "mi",
+      "url"      : "/xiaomi-is-adding-a-one-click-button-to-turn-off-all-ads-in-miui-system-apps/",
+      "date"     : "09/09/2019"
+    } ,
+  
+    {
+      "title"    : "Sur Ron electric motorcycle win 1st place racing against gas motorcycles [Video]",
+      "tags"     : "Sur Ron, Offroad, and Electric Bikes",
+      "categories" : "electric-bikes",
+      "url"      : "/sur-ron-electric-motorcycle-win-1st-place-racing-against-gas-motorcycles-video/",
+      "date"     : "09/09/2019"
+    } ,
+  
+    {
+      "title"    : "Swiggy Launches Pick Up And Drop Off Service That Will Deliver Just About Anything",
+      "tags"     : "swiggy and perishable delivery",
+      "categories" : "blog",
+      "url"      : "/swiggy-launches-pick-up-and-drop-off-service-that-will-deliver-just-about-anything/",
+      "date"     : "09/09/2019"
+    } ,
+  
+    {
+      "title"    : "How to edit Facebook’s list of your presumed interests",
+      "tags"     : "Facebook and privacy-ad",
+      "categories" : "facebook",
+      "url"      : "/how-to-edit-facebook-s-list-of-your-presumed-interests/",
+      "date"     : "09/09/2019"
+    } ,
+  
+    {
+      "title"    : "Hands-on with the new and improved Samsung Galaxy Fold ",
+      "tags"     : "Samsung, S-Fold, and Galaxy-fold",
+      "categories" : "samsung",
+      "url"      : "/hands-on-with-the-new-and-improved-samsung-galaxy-fold/",
+      "date"     : "09/09/2019"
+    } ,
+  
+    {
+      "title"    : "Google app 10.57 Insight",
+      "tags"     : "Assistant Dark Theme and Google App",
+      "categories" : "app-insights",
+      "url"      : "/google-app-10-57-insight/",
+      "date"     : "09/08/2019"
+    } ,
+  
+    {
+      "title"    : "Tesla goes all-in with new solar rental product, now removes system at no cost",
+      "tags"     : "Tesla, Solar Panel, and Low-Cost",
+      "categories" : "Tesla",
+      "url"      : "/tesla-goes-all-in-with-new-solar-rental-product-now-removes-system-at-no-cost/",
+      "date"     : "09/08/2019"
+    } ,
+  
+    {
+      "title"    : "Google Pixel 4 colors leak, including brand new coral-like hue",
+      "tags"     : "Pixel 4, Google, and colors",
+      "categories" : "google",
+      "url"      : "/google-pixel-4-colors-leak-including-brand-new-coral-like-hue/",
+      "date"     : "09/07/2019"
+    } ,
+  
+    {
+      "title"    : "Tesla is developing new futuristic-looking electromagnetic wipers",
+      "tags"     : "Tesla and Futuristic",
+      "categories" : "tech-research",
+      "url"      : "/tesla-is-developing-new-futuristic-looking-electromagnetic-wipers/",
+      "date"     : "09/07/2019"
+    } ,
+  
+    {
+      "title"    : "Analysts: App Store seeing better-than-expected revenue growth due to entertainment category",
+      "tags"     : "Apple and App Store",
+      "categories" : "apple",
+      "url"      : "/analysts-app-store-seeing-better-than-expected-revenue-growth-due-to-entertainment-category/",
+      "date"     : "09/07/2019"
+    } ,
+  
+    {
+      "title"    : "Alibaba’s UCWeb to launch an e-commerce service in India",
+      "tags"     : "Alibaba, Ucweb, and Ecommerce",
+      "categories" : "india-tech",
+      "url"      : "/alibaba-s-ucweb-to-launch-an-e-commerce-service-in-india/",
+      "date"     : "09/07/2019"
+    } ,
+  
+    {
+      "title"    : "APIs are the next big SaaS wave",
+      "tags"     : "Saas and Api",
+      "categories" : "tech-knowledge",
+      "url"      : "/apis-are-the-next-big-saas-wave/",
+      "date"     : "09/07/2019"
+    } ,
+  
+    {
+      "title"    : "The Apple Card can double as an extremely sneaky knife",
+      "tags"     : "Apple Card, Funny, and Knife-Apple",
+      "categories" : "apple",
+      "url"      : "/the-apple-card-can-double-as-an-extremely-sneaky-knife/",
+      "date"     : "09/07/2019"
+    } ,
+  
+    {
+      "title"    : "Everything to expect from Apple’s iPhone event",
+      "tags"     : "Apple Iphone and Apple Watch",
+      "categories" : "apple",
+      "url"      : "/everything-to-expect-from-apple-s-iphone-event/",
+      "date"     : "09/07/2019"
+    } ,
+  
+    {
+      "title"    : "Exclusive: New Pixel 4 camera features include ‘Motion Mode’ and improved Night Sight",
+      "tags"     : "Pixel 4, Motion Mode, Night Sight, and Google",
+      "categories" : "google",
+      "url"      : "/exclusive-new-pixel-4-camera-features-include-motion-mode-and-improved-night-sight/",
+      "date"     : "09/07/2019"
+    } ,
+  
+    {
+      "title"    : "Source: Google Assistant on Pixel 4 can take over calls while you’re on hold",
+      "tags"     : "App Insights, Pixel 4, and Google Assistant",
+      "categories" : "android",
+      "url"      : "/source-google-assistant-on-pixel-4-can-take-over-calls-while-you-re-on-hold/",
+      "date"     : "09/07/2019"
+    } ,
+  
+    {
+      "title"    : "Welcome to the Read Write Tech.©️",
+      "tags"     : "welcome and blog",
+      "categories" : "blog",
+      "url"      : "/welcome-to-readwritetech/",
+      "date"     : "08/30/2019"
+    } 
+  
 ]
