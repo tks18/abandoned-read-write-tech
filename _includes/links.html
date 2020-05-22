@@ -1,0 +1,32 @@
+<ul>
+    <li>
+        <a href="{{ site.url }}{{site.baseurl}}/">Home</a>
+    </li>
+    <li>
+        <a href="{{ site.url }}{{site.baseurl}}/category/">Category Cloud</a>
+    </li>
+    {% for page in site.pages %}
+    {% if page.menu %}
+    <li>
+        <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
+    </li>
+    {% endif %}
+    {% endfor %}
+    {% if site.email %}
+    <li>
+        <a href="{{ site.url }}{{site.baseurl}}/contact/">Contact</a>
+    </li>
+    {% endif %}
+    <li>
+        <a href="{{ site.url }}{{site.baseurl}}/admin/">Admin Panel</a>
+    </li>
+    <li>
+        <a href="{{ site.url }}{{site.baseurl}}/sitemap.xml">SiteMap</a>
+    </li>
+    <li>
+        <a class="feed" href="{{ site.url }}{{site.baseurl}}/feed.xml" title="Atom/RSS feed">RSS Feed</a>
+    </li>
+    <li>
+        <a class="feed" href="{{ site.url }}{{site.baseurl}}/feed.json" title="application/json">JSON Feed</a>
+    </li>
+</ul>
