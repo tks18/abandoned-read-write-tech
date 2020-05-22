@@ -5,4 +5,6 @@ height_thumbnail: 580
 width_thumbnail: 920
 height_post: 1080
 width_post: 1920
+width_home_featured_thumbnail: 810
+height_home_featured_thumbnail: 300
 auto_webp_conversion: true
