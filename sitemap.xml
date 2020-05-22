@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    
+        <url>
+            <loc>/404.html</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/about/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/category/android.html</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/category/app-insights.html</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/category/apple.html</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/category/apps-updates.html</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/category/blog.html</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/category/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/contact/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/cookiepolicy/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/category/electric-bikes.html</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/category/electric-cars.html</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/category/facebook.html</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/feed.json</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/feed.xml</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/category/google.html</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/</loc>
+            
+                <changefreq>weekly</changefreq>
+                <priority>1</priority>
+                <lastmod>2020-05-22</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>/category/india-tech.html</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/license/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/category/mi.html</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/category/motorola.html</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/contact/message-sent/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/privacypolicy/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/src/img/icons/preloader.svg</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/assets/img/icons/preloader.svg</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/src/img/icons/read.svg</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/assets/img/icons/read.svg</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/category/samsung.html</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/search.json</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/sitemap.xml</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/staff/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/tags/</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/category/tech-knowledge.html</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/category/tech-research.html</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/category/tesla.html</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+        <url>
+            <loc>/category/youtube.html</loc>
+            
+                <changefreq>monthly</changefreq>
+                <priority>0.5</priority>
+            
+        </url>
+    
+    
+        <url>
+            <loc>/facebook/2020/05/22/instagram-makes-it-easier-to-see-when-you-re-broadcasting-music-you-can-t-use.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-22</lastmod>
+        </url>
+    
+        <url>
+            <loc>/tech-knowledge/2020/05/22/twitter-brings-its-new-quote-tweet-view-to-android-and-the-web.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-22</lastmod>
+        </url>
+    
+        <url>
+            <loc>/tech-knowledge/2020/05/22/netflix-is-making-it-easier-for-people-to-cancel-their-subscriptions.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-22</lastmod>
+        </url>
+    
+        <url>
+            <loc>/tech-knowledge/2020/05/22/microsoft-s-new-fluid-office-document-is-google-docs-on-steroids.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-22</lastmod>
+        </url>
+    
+        <url>
+            <loc>/google/2020/05/22/google-play-movies-adds-its-first-dolby-vision-hdr-titles.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-22</lastmod>
+        </url>
+    
+        <url>
+            <loc>/google/2020/05/22/google-releases-assistant-powered-action-blocks.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-22</lastmod>
+        </url>
+    
+        <url>
+            <loc>/tech-knowledge/2020/05/21/microsoft-releases-terminal-1-0-and-windows-package-manager-announces-linux-gui-app-support-and-gpu-acceleration-for-wsl-2.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-21</lastmod>
+        </url>
+    
+        <url>
+            <loc>/android/2020/05/21/digital-wellbeing-prepares-to-track-your-sleep-let-you-take-night-notes-and-more.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-21</lastmod>
+        </url>
+    
+        <url>
+            <loc>/youtube/2020/05/21/youtube-music-player-page-adds-a-related-tab-for-recommended-songs-and-playlists.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-21</lastmod>
+        </url>
+    
+        <url>
+            <loc>/blog/2020/05/21/blog-is-live-after-months-of-rebuilding.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-21</lastmod>
+        </url>
+    
+        <url>
+            <loc>/blog/2019/11/23/Welcome-v2.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-11-23</lastmod>
+        </url>
+    
+        <url>
+            <loc>/android/2019/11/22/interactive-dynamic-email-rolling-out-to-gmail-for-android-and-ios.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-11-22</lastmod>
+        </url>
+    
+        <url>
+            <loc>/motorola/2019/11/14/motorola-revives-the-razr-as-an-android-foldable-1-500-verizon-exclusive.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-11-14</lastmod>
+        </url>
+    
+        <url>
+            <loc>/apple/2019/11/14/apple-music-replay-feature-lets-you-see-most-played-songs-albums-much-more.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-11-14</lastmod>
+        </url>
+    
+        <url>
+            <loc>/google/2019/09/23/youtube-music-begins-rolling-out-discover-mix-playlist.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-23</lastmod>
+        </url>
+    
+        <url>
+            <loc>/youtube/2019/09/16/google-launches-youtube-music-charts-in-india.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-16</lastmod>
+        </url>
+    
+        <url>
+            <loc>/google/2019/09/16/google-photos-introduces-new-instagram-like-stories-feature.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-16</lastmod>
+        </url>
+    
+        <url>
+            <loc>/app-insights/2019/09/15/google-app-10-61-insight.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-15</lastmod>
+        </url>
+    
+        <url>
+            <loc>/apps-updates/2019/09/15/google-assistant-testing-denser-suggestions-ui-on-android.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-15</lastmod>
+        </url>
+    
+        <url>
+            <loc>/google/2019/09/15/here-are-a-bunch-of-other-pixel-4-pictures-that-corroborate-previous-leaks.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-15</lastmod>
+        </url>
+    
+        <url>
+            <loc>/apps-updates/2019/09/13/google-app-and-assistant-dark-theme-start-rolling-out.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-13</lastmod>
+        </url>
+    
+        <url>
+            <loc>/tech-research/2019/09/13/this-bengaluru-techie-has-designed-an-air-conditioned-helmet-to-keep-you-cool-while-riding.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-13</lastmod>
+        </url>
+    
+        <url>
+            <loc>/apps-updates/2019/09/12/gmail-for-android-dark-theme-begins-rolling-out-gallery.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-12</lastmod>
+        </url>
+    
+        <url>
+            <loc>/google/2019/09/12/google-search-will-now-highlight-and-elevate-original-reporting.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-12</lastmod>
+        </url>
+    
+        <url>
+            <loc>/apple/2019/09/12/here-s-everything-apple-didn-t-announce-at-its-september-iphone-11-event.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-12</lastmod>
+        </url>
+    
+        <url>
+            <loc>/app-insights/2019/09/12/google-translate-6-2.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-12</lastmod>
+        </url>
+    
+        <url>
+            <loc>/app-insights/2019/09/12/chrome-77-for-android-rolling-out.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-12</lastmod>
+        </url>
+    
+        <url>
+            <loc>/app-insights/2019/09/12/here-s-what-the-google-play-store-s-in-app-review-system-will-look-like.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-12</lastmod>
+        </url>
+    
+        <url>
+            <loc>/apple/2019/09/11/here-s-everything-apple-announced-during-its-iphone-11-keynote-today.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-11</lastmod>
+        </url>
+    
+        <url>
+            <loc>/apple/2019/09/11/hands-on-with-the-iphone-11-iphone-11-pro-and-apple-watch-series-5-videos.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-11</lastmod>
+        </url>
+    
+        <url>
+            <loc>/blog/2019/09/10/private-instagram-posts-and-stories-can-be-shared-publicly-using-just-a-web-browser.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-10</lastmod>
+        </url>
+    
+        <url>
+            <loc>/apps-updates/2019/09/10/google-removes-24-more-malware-filled-apps-that-amassed-500-000-downloads.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-10</lastmod>
+        </url>
+    
+        <url>
+            <loc>/google/2019/09/10/pixel-4-will-bring-some-major-moves-for-google-software.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-10</lastmod>
+        </url>
+    
+        <url>
+            <loc>/apps-updates/2019/09/10/google-teases-play-pass-subscription-service-launch-coming-soon.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-10</lastmod>
+        </url>
+    
+        <url>
+            <loc>/apps-updates/2019/09/10/google-docs-gaining-always-visible-word-count-box-on-the-web.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-10</lastmod>
+        </url>
+    
+        <url>
+            <loc>/tesla/2019/09/09/tesla-officially-launches-in-iceland.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-09</lastmod>
+        </url>
+    
+        <url>
+            <loc>/google/2019/09/09/official-looking-pixel-4-promo-video-confirms-gestures-astrophotography-mode-more.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-09</lastmod>
+        </url>
+    
+        <url>
+            <loc>/mi/2019/09/09/xiaomi-mi-band-4-with-a-colored-amoled-display-launching-in-india-on-september-17.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-09</lastmod>
+        </url>
+    
+        <url>
+            <loc>/mi/2019/09/09/xiaomi-mi-9-pro-5g-to-come-with-new-30w-wireless-fast-charging-technology.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-09</lastmod>
+        </url>
+    
+        <url>
+            <loc>/mi/2019/09/09/xiaomi-is-adding-a-one-click-button-to-turn-off-all-ads-in-miui-system-apps.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-09</lastmod>
+        </url>
+    
+        <url>
+            <loc>/electric-bikes/2019/09/09/sur-ron-electric-motorcycle-win-1st-place-racing-against-gas-motorcycles-video.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-09</lastmod>
+        </url>
+    
+        <url>
+            <loc>/blog/2019/09/09/swiggy-launches-pick-up-and-drop-off-service-that-will-deliver-just-about-anything.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-09</lastmod>
+        </url>
+    
+        <url>
+            <loc>/facebook/2019/09/09/how-to-edit-facebook-s-list-of-your-presumed-interests.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-09</lastmod>
+        </url>
+    
+        <url>
+            <loc>/samsung/2019/09/09/hands-on-with-the-new-and-improved-samsung-galaxy-fold.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-09</lastmod>
+        </url>
+    
+        <url>
+            <loc>/app-insights/2019/09/08/google-app-10-57-insight.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-08</lastmod>
+        </url>
+    
+        <url>
+            <loc>/tesla/2019/09/08/tesla-goes-all-in-with-new-solar-rental-product-now-removes-system-at-no-cost.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-08</lastmod>
+        </url>
+    
+        <url>
+            <loc>/google/2019/09/07/google-pixel-4-colors-leak-including-brand-new-coral-like-hue.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-07</lastmod>
+        </url>
+    
+        <url>
+            <loc>/tech-research/2019/09/07/tesla-is-developing-new-futuristic-looking-electromagnetic-wipers.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-07</lastmod>
+        </url>
+    
+        <url>
+            <loc>/apple/2019/09/07/analysts-app-store-seeing-better-than-expected-revenue-growth-due-to-entertainment-category.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-07</lastmod>
+        </url>
+    
+        <url>
+            <loc>/india-tech/2019/09/07/alibaba-s-ucweb-to-launch-an-e-commerce-service-in-india.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-07</lastmod>
+        </url>
+    
+        <url>
+            <loc>/tech-knowledge/2019/09/07/apis-are-the-next-big-saas-wave.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-07</lastmod>
+        </url>
+    
+        <url>
+            <loc>/apple/2019/09/07/the-apple-card-can-double-as-an-extremely-sneaky-knife.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-07</lastmod>
+        </url>
+    
+        <url>
+            <loc>/apple/2019/09/07/everything-to-expect-from-apple-s-iphone-event.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-07</lastmod>
+        </url>
+    
+        <url>
+            <loc>/google/2019/09/07/exclusive-new-pixel-4-camera-features-include-motion-mode-and-improved-night-sight.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-07</lastmod>
+        </url>
+    
+        <url>
+            <loc>/android/2019/09/07/source-google-assistant-on-pixel-4-can-take-over-calls-while-you-re-on-hold.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-09-07</lastmod>
+        </url>
+    
+        <url>
+            <loc>/blog/2019/08/30/welcome-to-readwritetech.html</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2019-08-30</lastmod>
+        </url>
+    
+    
+</urlset>

@@ -1,0 +1,48 @@
+{
+  "name": "@tks18/dope-t-rope",
+  "version": "1.0.6",
+  "description": "Dope-T-Rope is a ambitious Project Found For Sharing Tech News and Updates from various Tech Sources and Blogs",
+  "main": "gulpfile.js",
+  "homepage": "https://github.com/tks18/dope-t-rope.git#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tks18/dope-t-rope.git"
+  },
+  "keywords": [
+    "jekyll",
+    "template",
+    "theme",
+    "blog",
+    "netlify"
+  ],
+  "author": "Sudharshan TK",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/tks18/dope-t-rope/issues"
+  },
+  "devDependencies": {
+    "autoprefixer-stylus": "^0.14.0",
+    "browser-sync": "^2.26.7",
+    "child_process": "^1.0.2",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.1.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^6.2.0",
+    "gulp-include": "^2.4.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-stylus": "^2.6.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-yaml": "^2.0.4",
+    "jeet": "^7.1.0",
+    "kouto-swiss": "^1.1.0",
+    "lodash": "^4.17.13",
+    "lodash.merge": "^4.6.2",
+    "rupture": "^0.6.2"
+  }
+}
