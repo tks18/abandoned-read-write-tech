@@ -40,17 +40,16 @@ collections:
       - label: "Featured Image"
         name: "image"
         widget: "object"
+        collapsed: true
         fields:
           - label: "Give Image Source URL"
             name: "image"
             widget: "string"
             hint: "Give the Image Source Url or Scroll down to Upload Image"
-            collapsed: true
           - label: "Upload Image"
             name: "image"
             widget: "image"
             hint: "Upload Image"
-            collapsed: true
         required: true
         hint: "Give Source Image Url or Upload the Image !Important - Select only One Option"
   - label: "Posts"
@@ -82,10 +81,19 @@ collections:
         widget: "string"
       - label: "Featured Image"
         name: "image"
-        widget: "string"
-        allow_multiple: false
-        required: false
-        hint: Give Source Image Url or Upload the Image with the above Media Gallery 
+        widget: "object"
+        collapsed: true        
+        fields:
+          - label: "Give Image Source URL"
+            name: "image"
+            widget: "string"
+            hint: "Give the Image Source Url or Scroll down to Upload Image"
+          - label: "Upload Image"
+            name: "image"
+            widget: "image"
+            hint: "Upload Image"
+        required: true
+        hint: "Give Source Image Url or Upload the Image !Important - Select only One Option"
       - label: "Image Credits"
         name: "image_source"
         hint: "Image Source name"
