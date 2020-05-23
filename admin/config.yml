@@ -50,7 +50,7 @@ collections:
             name: "image"
             widget: "image"
             hint: "Upload Image"
-        required: true
+        required: false
         hint: "Give Source Image Url or Upload the Image !Important - Select only One Option"
   - label: "Posts"
     name: "posts"
@@ -92,7 +92,7 @@ collections:
             name: "image"
             widget: "image"
             hint: "Upload Image"
-        required: true
+        required: false
         hint: "Give Source Image Url or Upload the Image !Important - Select only One Option"
       - label: "Image Credits"
         name: "image_source"
