@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   branch: master
-media_folder: "assets/img/posts"
+media_folder: "assets/img/posts/"
 logo_url: https://dopetrope.tk/assets/img/blog-image.png
 site_url: https://dopetrope.tk
 display_url: https://dopetrope.tk
@@ -39,10 +39,20 @@ collections:
         required: false
       - label: "Featured Image"
         name: "image"
-        widget: "string"
-        allow_multiple: false
+        widget: "object"
+        fields:
+          - label: "Give Image Source URL"
+            name: "image"
+            widget: "string"
+            hint: "Give the Image Source Url or Scroll down to Upload Image"
+            collapsed: true
+          - label: "Upload Image"
+            name: "image"
+            widget: "image"
+            hint: "Upload Image"
+            collapsed: true
         required: true
-        hint: Give Source Image Url or Upload the Image with the above Media Gallery
+        hint: "Give Source Image Url or Upload the Image !Important - Select only One Option"
   - label: "Posts"
     name: "posts"
     folder: "_posts"
@@ -309,6 +319,38 @@ collections:
           - label: "Texts Color"
             name: "texts"
             widget: "color"
+      - label: "Image Preferences"
+        name: "image_config"
+        file: "src/yml/image_config.yml"
+        fields:
+          - label: "Thumbnail Height"
+            name: "height_thumbnail"
+            widget: "string"
+            hint: "in px"
+          - label: "Thumbnail Width"
+            name: "width_thumbnail"
+            widget: "string"
+            hint: "in px"
+          - label: "Post - Image Height"
+            name: "height_post"
+            widget: "string"
+            hint: "in px"
+          - label: "Post - Image Width"
+            name: "width_post"
+            widget: "string"
+            hint: "in px"
+          - label: "Home -HeroImage Height"
+            name: "width_home_featured_thumbnail"
+            widget: "string"
+            hint: "in px"
+          - label: "Home -HeroImage Width"
+            name: "height_home_featured_thumbnail"
+            widget: "string"
+            hint: "in px"
+          - label: "Turn on Auto Webp Conversion"
+            name: "auto_webp_conversion"
+            widget: "boolean"
+            hint: "Either True or False"
       - label: "Posts"
         name: "posts"
         file: "src/yml/posts.yml"
