@@ -11,11 +11,11 @@ cache:
   bundler: true
   node_modules: true
 install:
-- npm install
 - gem update --system
 - gem install jekyll -v 3.8.5
 - gem install bundler -v 2.1.4 --user-install
 - bundle install
+- npm install
 
 script:
   - gulp build
