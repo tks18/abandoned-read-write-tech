@@ -5,6 +5,7 @@ branches:
   - master
 before_install:
    - export TZ=Asia/Kolkata
+   - npm install
    - rvm install 2.6.5
 cache: bundler
 install:
@@ -14,7 +15,7 @@ install:
 - bundle install
 
 script:
-  - JEKYLL_ENV=production bundle exec jekyll build
+  - gulp build
 
 deploy:
   provider: pages
