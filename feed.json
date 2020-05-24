@@ -14,6 +14,16 @@
    "items": [
    	
     {
+      "id": "24201727",
+      "url": "https://dopetrope.tk/discord-for-android-rolls-out-noise-suppression/",
+      "title": "Discord for Android rolls out noise suppression",
+      "content_html": "<p>Since its debut back in 2015, Discord has evolved quite a bit and it’s now one of the most popular instant messengers for gamers and professionals alike. One of the main reasons behind Discord’s popularity is the sheer number of features it offers, both for text-based communication and VoIP calls. To provide users the best calling experience on the platform, Discord introduced a new noise suppression feature powered by Krisp for the desktop client earlier this year in April. The feature makes use of machine learning to remove background noise and, after using it for the last few weeks, I can attest that it’s actually quite fantastic. Which is why I’m excited to try it out on my phone, now that it’s rolling out to some users on the Discord app for Android.</p>\n\n<p>The noise suppression feature is already available for some users on Discord for Android version 24-alpha 1. XDA Senior Member Some_Random_Username has the feature in his app and has shared the following screenshots. As you can see, the noise suppression feature appears as a new icon in the top right corner of the app when you’re in a channel. You can tap on the icon to enable noise suppression, which will instantly drown out any background noise. Alternatively, you can toggle noise suppression for all calls from within the app’s settings and you can also enable it from within the three-dot menu on any channel.</p>\n\n<p><img src=\"https://www.xda-developers.com/files/2020/05/Discord_for_Android_24-alpha_1_Krisp_Noise_Suppression_2-512x1024.jpg\" alt=\"https://www.xda-developers.com/files/2020/05/Discord_for_Android_24-alpha_1_Krisp_Noise_Suppression_2-512x1024.jpg\" /></p>\n\n<p>Our Editor-in-Chief, Mishaal Rahman, downloaded the latest Discord release on his Pixel 4 but he didn’t find the option to enable Krisp noise suppression. I also installed the APK on my Realme 6 Pro and got the same result.</p>\n",
+      "summary": "powered by Krisp",
+      "tags":  [ "Discord","Noise Suppression","Krysp" ],
+      "date_published": "2020-05-24T17:27:00+05:30"
+    },
+
+    {
       "id": "24201721",
       "url": "https://dopetrope.tk/google-chrome-supports-windows-hello-authentication/",
       "title": "Google Chrome supports “Windows Hello” Authentication",
@@ -151,16 +161,6 @@
       "summary": "The Motorola Razr is likely the most iconic flip phone ever released.",
       "tags":  [ "Moto","Motorola Razr","Foldable Phones" ],
       "date_published": "2020-11-14T21:34:00+05:30"
-    },
-
-    {
-      "id": "14191940",
-      "url": "https://dopetrope.tk/apple-music-replay-feature-lets-you-see-most-played-songs-albums-much-more/",
-      "title": "Apple Music ‘Replay’ feature lets you see most played songs, albums, much more",
-      "content_html": "<p>Apple is taking a page out of Spotify’s book and adding a new year-in-review feature to Apple Music. Starting today, you can access your Apple Music “Replay” playlist through Apple Music on the web and in the Music apps on iOS, iPadOS, and Mac.</p>\n\n<p>As first reported by TechCrunch, the new Replay feature provides users a playlist of their most listened to songs from 2019, as well as prior years dating all the way back to 2015.</p>\n\n<p>You can also see interesting insights into your most popular artists, albums, and more. For the Apple Music Replay playlists, you can share them with others just like a normal playlist and download them for offline listening.</p>\n\n<p>What differentiates Apple Music Replay from Spotify Wrapped, however, is that Replay will be continuously updated and can be accessed year-round. Spotify Wrapped is specifically for year-in-review purposes, but Replay will be continuously updated as you listen to Apple Music throughout the year.</p>\n\n<p>For instance, in January of 2020, you’ll already be able to see your Replay 2020 playlist – but it will be blank and ready for you to start filling up. The playlist will update on a weekly basis throughout the year, giving you a live look at your listening trends.</p>\n\n<blockquote>\n  <p>But while Spotify’s Wrapped is more of an annual retrospective, Apple Music Replay will continue to be updated all year long, evolving as your musical tastes and interests do throughout the year. The playlist and its associated data insights will be updated on Sundays to reflect subscribers’ latest listening activity, says Apple.</p>\n</blockquote>\n\n<p>Last year, various third-party tools popped up that generated year-in-review breakdowns for Apple Music. It’s nice to see Apple add native functionality to Apple Music this year, especially since it is retroactive and includes listening data for every year you’ve been an Apple Music subscriber.</p>\n\n<p>You can try Replay now at replay.music.apple.com. It should come to the Music app soon on iOS, iPadOS, and Mac. Show us your Replay screenshots in the comments below!</p>\n\n<p><img src=\"https://res.cloudinary.com/read-write-tech/image/upload/v1573748084/fwfxjpji5ogbypfe4c9j.png\" alt=\"Apple Music\" title=\"Apple Music Replay\" /></p>\n",
-      "summary": "As first reported by TechCrunch, the new Replay feature provides users a playlist of their most listened to songs from 2019, as well as prior years dating all the way back to 2015.",
-      "tags":  [ "Apple","Apple Music","Replay" ],
-      "date_published": "2020-11-14T19:40:00+05:30"
     }
 
   ]

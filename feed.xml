@@ -5,9 +5,20 @@
         <description>Dope-T-Rope is a ambitious Project Found For Sharing Tech News and Upda ...</description>
         <link>https://dopetrope.tk/</link>
         <atom:link href="https://dopetrope.tk/feed.xml" rel="self" type="application/rss+xml" />
-        <pubDate>Sun, 24 May 2020 17:29:45 +0530</pubDate>
-        <lastBuildDate>Sun, 24 May 2020 17:29:45 +0530</lastBuildDate>
+        <pubDate>Sun, 24 May 2020 17:32:29 +0530</pubDate>
+        <lastBuildDate>Sun, 24 May 2020 17:32:29 +0530</lastBuildDate>
         <generator>Jekyll v3.8.7</generator>
+        
+        <item>
+            <title>Discord for Android rolls out noise suppression</title>
+            <description>powered by Krisp</description>
+            <content:encoded>&lt;p&gt;Since its debut back in 2015, Discord has evolved quite a bit and it’s now one of the most popular instant messengers for gamers and professionals alike. One of the main reasons behind Discord’s popularity is the sheer number of features it offers, both for text-based communication and VoIP calls. To provide users the best calling experience on the platform, Discord introduced a new noise suppression feature powered by Krisp for the desktop client earlier this year in April. The feature makes use of machine learning to remove background noise and, after using it for the last few weeks, I...</content:encoded>
+            <pubDate>Sun, 24 May 2020 17:27:52 +0530</pubDate>
+            <link>https://dopetrope.tk/discord-for-android-rolls-out-noise-suppression/</link>
+            <dc:creator>Sudharshan TK</dc:creator>
+            <guid isPermaLink="true">https://dopetrope.tk/discord-for-android-rolls-out-noise-suppression/</guid>
+            <category>apps-updates</category>
+        </item>
         
         <item>
             <title>Google Chrome supports “Windows Hello” Authentication</title>
@@ -326,17 +337,6 @@
             <dc:creator>Sudharshan TK</dc:creator>
             <guid isPermaLink="true">https://dopetrope.tk/here-s-what-the-google-play-store-s-in-app-review-system-will-look-like/</guid>
             <category>app-insights</category>
-        </item>
-        
-        <item>
-            <title>Here’s everything Apple announced during its iPhone 11 keynote today</title>
-            <description>The event included new iPhone announcements, details on future Services, and much more.</description>
-            <content:encoded>&lt;p&gt;After months of speculation, Apple today officially held its “By innovation only” iPhone 11 and Apple Watch Series 5 event at Steve Jobs Theater. The event included new iPhone announcements, details on future Services, and much more.&lt;/p&gt; &lt;p&gt;Read on as we recap everything Apple announced today.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Apple Arcade and Apple TV+&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Apple kicked things off today by offering an update on two of its upcoming Services: Apple Arcade and Apple TV+. First off, Apple Arcade is Apple’s upcoming game subscription service offered on iOS, macOS, and tvOS.&lt;/p&gt; &lt;p&gt;Apple confirmed today that is launching Apple Arcade on September 19, and that...</content:encoded>
-            <pubDate>Wed, 11 Sep 2019 12:46:22 +0530</pubDate>
-            <link>https://dopetrope.tk/here-s-everything-apple-announced-during-its-iphone-11-keynote-today/</link>
-            <dc:creator>Sudharshan TK</dc:creator>
-            <guid isPermaLink="true">https://dopetrope.tk/here-s-everything-apple-announced-during-its-iphone-11-keynote-today/</guid>
-            <category>apple</category>
         </item>
         
     </channel>
