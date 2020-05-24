@@ -14,6 +14,16 @@
    "items": [
    	
     {
+      "id": "24201751",
+      "url": "https://dopetrope.tk/google-messages-prepares-end-to-end-encryption-for-rcs/",
+      "title": "Google Messages prepares end-to-end encryption for RCS",
+      "content_html": "<p>Earlier today, our friends at AndroidPolice got their hands on Google Messages 6.2.031 and uploaded it to APKMirror. Our friend Quinny899 notified us that this APK is actually a dogfood build, meaning it was not supposed to be released to the public. Sometimes, these dogfood builds have a lot of interesting code for features that are in development, and Messages 6.2.031 is definitely one of those cases. This dogfood build hints that Google is preparing end-to-end encryption for RCS messages, Google Fi account integration to sync calls, texts, and voicemails, and manual cloud restores of backups.</p>\n\n<h4 id=\"endtoend-encryption-for-rcs\">End-to-End Encryption for RCS</h4>\n\n<p>RCS is widely seen as the successor to SMS. With RCS, users can exchange media files in high quality, see read receipts, see typing indicators, start group chats, and do more over mobile data and even Wi-Fi. Rather than wait for carriers to adopt the RCS protocol on their own, Google started to roll out RCS support in the Google Messages app for everyone in the UK and France. They later rolled out RCS support in the Messages app for people in the US, Spain, Italy, Singapore, Portugal, Argentina, Pakistan, Poland, and Turkey.</p>\n\n<p>One feature that popular messaging apps like WhatsApp and Telegram support but RCS hasn’t is end-to-end encryption, but it looks like Google is preparing to add support for that on their own end. The biggest new feature that is in the works in Google Messages 6.2.031 is “End-to-End Encrypted Rich Communication Service message[s].” According to the strings, you’ll have the option to send messages with end-to-end encryption or, if your data connection is poor, without encryption by falling back to SMS/MMS.</p>\n\n<h4 id=\"google-fi-integration\">Google Fi integration</h4>\n\n<p>Another new feature that many users are looking forward to is Google Fi integration. Although Google Hangouts is on its way out, it’s still recommended to users who want to see and respond to their calls, texts, and voicemails on multiple devices. That could change soon, however, as Google Messages is preparing to pick up the slack.</p>\n\n<p>When you sign in to your Google Fi account in Google Messages, you’ll have the option to transfer conversation history from Hangouts to Messages. Unfortunately, you won’t be able to sync messages or voice calls to a computer if you enable RCS in Message. If you disable multi-device sync in settings, you’ll also be unable to access calls and voicemails on the web but you’ll continue to be able to text from the web.</p>\n\n<h4 id=\"backup-restore\">Backup &amp; Restore</h4>\n\n<p>Finally, two layout files were added hinting at a new settings page to restore messages backed up on the cloud: restore_activity_layout.xml and restore_fragment_layout.xml. The backup service in Google Play Services, as well as the backup service in Google One, can backup and restore your messages when you initially sign into a new device. It seems that Google Messages will let you choose to manually restore a previous backup of your conversations.</p>\n\n<p>You can download the latest version of the Google Messages app from the Google Play Store link below. Note, however, that the dogfood build version 6.2.031 won’t be available through Google Play and can only be downloaded through APKMirror.</p>\n",
+      "summary": "End-to-End Encryption for RCS",
+      "tags":  [ "Google Messages","RCS","EndtoEnd" ],
+      "date_published": "2020-05-24T17:51:00+05:30"
+    },
+
+    {
       "id": "24201747",
       "url": "https://dopetrope.tk/whatsapp-beta-v2-20-171-brings-support-for-profile-qr-codes/",
       "title": "WhatsApp Beta v2.20.171 brings support for profile QR codes",
@@ -151,16 +161,6 @@
       "summary": "Website's Upgraded with Nice Cool New Features",
       "tags":  [ "V2.0","dynamic","Cool" ],
       "date_published": "2020-11-23T03:40:00+05:30"
-    },
-
-    {
-      "id": "22191610",
-      "url": "https://dopetrope.tk/interactive-dynamic-email-rolling-out-to-gmail-for-android-and-ios/",
-      "title": "Interactive ‘dynamic email’ rolling out to Gmail for Android and iOS",
-      "content_html": "<p>Google wants the future of email to be less static and more interactive. Its solution based on Accelerated Mobile Pages has found industry support, and “dynamic email” is now coming to Gmail for Android and iOS.</p>\n\n<p>Instead of clicking links that open in a browser, dynamic emails let you interact with calendar invites, respond to questionnaires, and browse catalogs right from a message. One particularly interesting use case is commenting in a Google Docs thread right from the email notification already in your inbox.</p>\n\n<p>This saves you from having to open the full app and lets you quickly return to triaging messages instead of getting distracted. Another part of dynamic email is making messages more current. For example, you could have up-to-date order statuses or the latest job listings every time you check.</p>\n\n<p>After rolling out in July to Gmail on the web, Google is adding support to the Android and iOS apps. Starting today, it will begin rolling out to free consumer accounts and G Suite customers. It will be widely available over the next two weeks.</p>\n\n<p><img src=\"https://res.cloudinary.com/read-write-tech/image/upload/v1574419610/hamonnxjboljcep0zlhm.gif\" alt=\"Dynamic Email Gif\" title=\"Dynamic Email Gif\" /></p>\n\n<p>Yahoo Mail, Outlook.com, and Mail.Ru have also announced support. Besides Google Docs, other senders that support the interactive format include Booking.com, Despegar, Doodle, Ecwid, Freshworks, Nexxt, OYO Rooms, Pinterest, and redBus. Google reviews who can send dynamic emails through a registration program.</p>\n\n<p>It first rolled out to Gmail on the web in March and came to G Suite accounts in July. End-users will have the option to disable in settings and stick with static email.</p>\n",
-      "summary": "Google wants the future of email to be less static and more interactive",
-      "tags":  [ "Gmail","dynamic","android" ],
-      "date_published": "2020-11-22T16:10:00+05:30"
     }
 
   ]

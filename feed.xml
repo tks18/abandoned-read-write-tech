@@ -5,9 +5,20 @@
         <description>Dope-T-Rope is a ambitious Project Found For Sharing Tech News and Upda ...</description>
         <link>https://dopetrope.tk/</link>
         <atom:link href="https://dopetrope.tk/feed.xml" rel="self" type="application/rss+xml" />
-        <pubDate>Sun, 24 May 2020 17:53:32 +0530</pubDate>
-        <lastBuildDate>Sun, 24 May 2020 17:53:32 +0530</lastBuildDate>
+        <pubDate>Sun, 24 May 2020 18:11:48 +0530</pubDate>
+        <lastBuildDate>Sun, 24 May 2020 18:11:48 +0530</lastBuildDate>
         <generator>Jekyll v3.8.7</generator>
+        
+        <item>
+            <title>Google Messages prepares end-to-end encryption for RCS</title>
+            <description>End-to-End Encryption for RCS</description>
+            <content:encoded>&lt;p&gt;Earlier today, our friends at AndroidPolice got their hands on Google Messages 6.2.031 and uploaded it to APKMirror. Our friend Quinny899 notified us that this APK is actually a dogfood build, meaning it was not supposed to be released to the public. Sometimes, these dogfood builds have a lot of interesting code for features that are in development, and Messages 6.2.031 is definitely one of those cases. This dogfood build hints that Google is preparing end-to-end encryption for RCS messages, Google Fi account integration to sync calls, texts, and voicemails, and manual cloud restores of backups.&lt;/p&gt; &lt;h4 id=&quot;endtoend-encryption-for-rcs&quot;&gt;End-to-End Encryption for...</content:encoded>
+            <pubDate>Sun, 24 May 2020 17:51:40 +0530</pubDate>
+            <link>https://dopetrope.tk/google-messages-prepares-end-to-end-encryption-for-rcs/</link>
+            <dc:creator>Sudharshan TK</dc:creator>
+            <guid isPermaLink="true">https://dopetrope.tk/google-messages-prepares-end-to-end-encryption-for-rcs/</guid>
+            <category>app-insights</category>
+        </item>
         
         <item>
             <title>WhatsApp Beta v2.20.171 brings support for profile QR codes</title>
@@ -325,17 +336,6 @@
             <link>https://dopetrope.tk/google-translate-6-2/</link>
             <dc:creator>Sudharshan TK</dc:creator>
             <guid isPermaLink="true">https://dopetrope.tk/google-translate-6-2/</guid>
-            <category>app-insights</category>
-        </item>
-        
-        <item>
-            <title>Chrome 77 for Android rolling out</title>
-            <description>New Downloads page, ‘Send this page’ sharing</description>
-            <content:encoded>&lt;p&gt;Following the Mac, Windows, and Linux release, Chrome 77 for Android is now rolling out. There are tweaks to the Downloads page and wider availability of “Send this page” sharing.&lt;/p&gt; &lt;p&gt;Chrome already allows you to check what tabs are open on devices signed in with your Google Account. Version 77 is adding a direct “Send this page” feature that can be accessed from the system share sheet. While the “Send to your devices” target with the Chrome icon might appear when using Chrome Custom Tabs, sending only works in the browser.&lt;/p&gt; &lt;p&gt;Tapping slides up a “Send to” list of all...</content:encoded>
-            <pubDate>Thu, 12 Sep 2019 10:54:40 +0530</pubDate>
-            <link>https://dopetrope.tk/chrome-77-for-android-rolling-out/</link>
-            <dc:creator>Sudharshan TK</dc:creator>
-            <guid isPermaLink="true">https://dopetrope.tk/chrome-77-for-android-rolling-out/</guid>
             <category>app-insights</category>
         </item>
         
