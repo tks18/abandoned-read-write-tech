@@ -5,9 +5,20 @@
         <description>Dope-T-Rope is a ambitious Project Found For Sharing Tech News and Upda ...</description>
         <link>https://dopetrope.tk/</link>
         <atom:link href="https://dopetrope.tk/feed.xml" rel="self" type="application/rss+xml" />
-        <pubDate>Sun, 24 May 2020 17:49:48 +0530</pubDate>
-        <lastBuildDate>Sun, 24 May 2020 17:49:48 +0530</lastBuildDate>
+        <pubDate>Sun, 24 May 2020 17:53:32 +0530</pubDate>
+        <lastBuildDate>Sun, 24 May 2020 17:53:32 +0530</lastBuildDate>
         <generator>Jekyll v3.8.7</generator>
+        
+        <item>
+            <title>WhatsApp Beta v2.20.171 brings support for profile QR codes</title>
+            <description>Users get their own personal QR Code which they can share </description>
+            <content:encoded>&lt;p&gt;WhatsApp for Android operates in two public branches: stable and beta. While the stable branch is where you want to be as the average user, the beta branch gives us the opportunity to witness the features that are in development for this popular instant messaging app. Past WhatsApp Betas have shown off hints for upcoming features such as multi-device support, expiring messages, Facebook story sharing, animated stickers, and even the famed dark theme. A previous beta had also spotted hints for QR code support for profiles, and now, the latest beta brings over support for the same.&lt;/p&gt; &lt;p&gt;As reported by...</content:encoded>
+            <pubDate>Sun, 24 May 2020 17:47:57 +0530</pubDate>
+            <link>https://dopetrope.tk/whatsapp-beta-v2-20-171-brings-support-for-profile-qr-codes/</link>
+            <dc:creator>Sudharshan TK</dc:creator>
+            <guid isPermaLink="true">https://dopetrope.tk/whatsapp-beta-v2-20-171-brings-support-for-profile-qr-codes/</guid>
+            <category>app-insights</category>
+        </item>
         
         <item>
             <title>Discord for Android rolls out noise suppression</title>
@@ -325,17 +336,6 @@
             <link>https://dopetrope.tk/chrome-77-for-android-rolling-out/</link>
             <dc:creator>Sudharshan TK</dc:creator>
             <guid isPermaLink="true">https://dopetrope.tk/chrome-77-for-android-rolling-out/</guid>
-            <category>app-insights</category>
-        </item>
-        
-        <item>
-            <title>Here’s what the Google Play Store’s in-app review system will look like</title>
-            <description>Google Play Store could soon be providing a way for app developers to get reviews from their users</description>
-            <content:encoded>&lt;p&gt;Back in July, XDA-Developers discovered that the Google Play Store could soon be providing a way for app developers to get reviews from their users without ever needing to leave the app. Today, we’ve uncovered a demo showing exactly how this in-app review process will work for Play Store apps.&lt;/p&gt; &lt;p&gt;About APK Insight: In this ‘APK Insight’ post, we’ve decompiled the latest version of an application that Google uploaded to the Play Store. When we decompile these files (called APKs, in the case of Android apps), we’re able to see various lines of code within that hint at possible future...</content:encoded>
-            <pubDate>Thu, 12 Sep 2019 10:31:46 +0530</pubDate>
-            <link>https://dopetrope.tk/here-s-what-the-google-play-store-s-in-app-review-system-will-look-like/</link>
-            <dc:creator>Sudharshan TK</dc:creator>
-            <guid isPermaLink="true">https://dopetrope.tk/here-s-what-the-google-play-store-s-in-app-review-system-will-look-like/</guid>
             <category>app-insights</category>
         </item>
         

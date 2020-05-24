@@ -14,6 +14,16 @@
    "items": [
    	
     {
+      "id": "24201747",
+      "url": "https://dopetrope.tk/whatsapp-beta-v2-20-171-brings-support-for-profile-qr-codes/",
+      "title": "WhatsApp Beta v2.20.171 brings support for profile QR codes",
+      "content_html": "<p>WhatsApp for Android operates in two public branches: stable and beta. While the stable branch is where you want to be as the average user, the beta branch gives us the opportunity to witness the features that are in development for this popular instant messaging app. Past WhatsApp Betas have shown off hints for upcoming features such as multi-device support, expiring messages, Facebook story sharing, animated stickers, and even the famed dark theme. A previous beta had also spotted hints for QR code support for profiles, and now, the latest beta brings over support for the same.</p>\n\n<p>As reported by WABetaInfo, WhatsApp for Android Beta v2.20.171 brings in support for QR codes for user profiles. This change is actually a server-side update, but you do need to be on this version to receive the feature. As one can expect, users get their own personal QR Code which they can share with other users, who can simply scan the code and add the phone number of the sharing user to their contact book. Since WhatsApp is tied to phone numbers, adding a contact number is enough to add a contact to your WhatsApp contact list.</p>\n\n<p><img src=\"https://www.xda-developers.com/files/2020/05/QR_CODE_MAIN_ANDROID-768x1536-1-e1590133845250-560x1024.jpg\" alt=\"https://www.xda-developers.com/files/2020/05/QR_CODE_MAIN_ANDROID-768x1536-1-e1590133845250-560x1024.jpg\" /></p>\n\n<p>To check out your personal QR code, you need to navigate to WhatsApp Settings and click on the QR code icon near your profile information. This opens up a new page within the app: on the first tab, you can view your own QR code, and on the second tab, you can scan QR codes from others. We also spot an image picker icon, indicating that you should also be able to scan a code from a pre-existing image in your gallery, for example, a screenshot. If needed, you can also revoke your QR code to prevent your number from being shared further.</p>\n\n<p>As mentioned, this feature is currently available in the latest release within the beta branch of WhatsApp for Android. There is no word on when the feature will be making its way to the stable branch. While QR codes are definitely handy for quickly adding a contact, you can always just share your phone number — so you aren’t losing out all that much either way.</p>\n",
+      "summary": "Users get their own personal QR Code which they can share ",
+      "tags":  [ "Whatsapp","QR","Profile" ],
+      "date_published": "2020-05-24T17:47:00+05:30"
+    },
+
+    {
       "id": "24201727",
       "url": "https://dopetrope.tk/discord-for-android-rolls-out-noise-suppression/",
       "title": "Discord for Android rolls out noise suppression",
@@ -151,16 +161,6 @@
       "summary": "Google wants the future of email to be less static and more interactive",
       "tags":  [ "Gmail","dynamic","android" ],
       "date_published": "2020-11-22T16:10:00+05:30"
-    },
-
-    {
-      "id": "14192134",
-      "url": "https://dopetrope.tk/motorola-revives-the-razr-as-an-android-foldable-1-500-verizon-exclusive/",
-      "title": "Motorola revives the Razr as an Android Foldable, $1,500 Verizon exclusive",
-      "content_html": "<p>The Motorola Razr is likely the most iconic flip phone ever released. In 2011, Motorola and Verizon tried to revive the brand with a series of thin — for their time — Android phones. The Lenovo-owned company is now bringing back the Razr as an Android Foldable.</p>\n\n<p>The 2019 Razr offers much more compelling hardware that harkens to its namesake. When closed, it keeps the original look of the flip phone, albeit wider. In clamshell mode, there is an outer 2.7-inch 800 x 600 “Quick View” screen that notes networking and battery status up top, followed by the time, date and weather. It’s primarily intended for managing and responding notifications, but there are shortcuts at the bottom for key tasks like music and messaging. The Google Assistant is also available.</p>\n\n<p>Opening will automatically move Quick View content into the main screen, like other Android Foldables. The Motorola Razr has a very tall 6.2-inch 2142 x 876 “Flex View” OLED that’s on the narrow side at 21:9. There is a notch that houses the 5MP front-facing camera and speaker grill.</p>\n\n<p>Underneath the outer display is a 16-megapixel camera with what Motorola touts as offering “Night Vision.” The great twist gesture is still available for quickly launching the viewfinder. Physical controls on the right edge include a volume rocker and texturized power button.</p>\n\n<p><img src=\"https://res.cloudinary.com/read-write-tech/image/upload/v1573747669/n87jghd9dpwogsqsvxzw.jpg\" alt=\"Motorola Razr\" title=\"Motorola Razr\" /></p>\n\n<p>One way the new Razr harkens to the original clamshell is the bottom bump that houses the fingerprint sensor and USB-C port. Elsewhere, the splash-proof phone has a gripped back and dimple for the ‘M’ batwing logo. Under-the-hood, it’s powered by an octa-core Snapdragon Qualcomm 710 with 6GB of RAM and 128GB of storage. The phone surprisingly still runs Android 9 Pie and features a 2510 mAh battery with 15W TurboPower charging.</p>\n\n<p>This Motorola Razr Android Foldable will be available for pre-order on December 26th for $1,500. It hits Verizon stores on January 9th.</p>\n\n<iframe width=\"960\" height=\"506\" src=\"https://www.youtube.com/embed/74KHL9UWqr8\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe>\n",
-      "summary": "The Motorola Razr is likely the most iconic flip phone ever released.",
-      "tags":  [ "Moto","Motorola Razr","Foldable Phones" ],
-      "date_published": "2020-11-14T21:34:00+05:30"
     }
 
   ]
