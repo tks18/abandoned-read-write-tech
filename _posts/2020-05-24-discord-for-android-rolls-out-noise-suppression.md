@@ -4,8 +4,7 @@ layout: post
 title: Discord for Android rolls out noise suppression
 subtitle: powered by Krisp
 description: powered by Krisp
-image:
-  image: https://www.xda-developers.com/files/2018/11/discord-logo-810x298_c.jpg
+image: https://www.xda-developers.com/files/2018/11/discord-logo-810x298_c.jpg
 image_source: XDA
 image_source_url: https://xda-developers.com
 category: apps-updates
