@@ -39,17 +39,7 @@ collections:
         required: false
       - label: "Featured Image"
         name: "image"
-        widget: "object"
-        collapsed: true
-        fields:
-          - label: "Give Image Source URL"
-            name: "image"
-            widget: "string"
-            hint: "Give the Image Source Url or Scroll down to Upload Image"
-          - label: "Upload Image"
-            name: "image"
-            widget: "image"
-            hint: "Upload Image"
+        widget: "string"
         required: false
         hint: "Give Source Image Url or Upload the Image !Important - Select only One Option"
   - label: "Posts"
@@ -81,17 +71,7 @@ collections:
         widget: "string"
       - label: "Featured Image"
         name: "image"
-        widget: "object"
-        collapsed: true        
-        fields:
-          - label: "Give Image Source URL"
-            name: "image"
-            widget: "string"
-            hint: "Give the Image Source Url or Scroll down to Upload Image"
-          - label: "Upload Image"
-            name: "image"
-            widget: "image"
-            hint: "Upload Image"
+        widget: "string"
         required: false
         hint: "Give Source Image Url or Upload the Image !Important - Select only One Option"
       - label: "Image Credits"
