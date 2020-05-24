@@ -134,7 +134,7 @@
             
                 <changefreq>weekly</changefreq>
                 <priority>1</priority>
-                <lastmod>2020-05-23</lastmod>
+                <lastmod>2020-05-24</lastmod>
             
         </url>
     
@@ -287,7 +287,7 @@
             
                 <changefreq>weekly</changefreq>
                 <priority>1</priority>
-                <lastmod>2020-05-23</lastmod>
+                <lastmod>2020-05-24</lastmod>
             
         </url>
     
@@ -296,10 +296,17 @@
             
                 <changefreq>weekly</changefreq>
                 <priority>1</priority>
-                <lastmod>2020-05-23</lastmod>
+                <lastmod>2020-05-24</lastmod>
             
         </url>
     
+    
+        <url>
+            <loc>https://dopetrope.tk/google-chrome-supports-windows-hello-authentication/</loc>
+            <changefreq>weekly</changefreq>
+            <priority>0.8</priority>
+            <lastmod>2020-05-24</lastmod>
+        </url>
     
         <url>
             <loc>https://dopetrope.tk/instagram-makes-it-easier-to-see-when-you-re-broadcasting-music-you-can-t-use/</loc>

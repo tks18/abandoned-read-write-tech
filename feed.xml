@@ -5,9 +5,20 @@
         <description>Dope-T-Rope is a ambitious Project Found For Sharing Tech News and Upda ...</description>
         <link>https://dopetrope.tk/</link>
         <atom:link href="https://dopetrope.tk/feed.xml" rel="self" type="application/rss+xml" />
-        <pubDate>Sat, 23 May 2020 20:00:59 +0530</pubDate>
-        <lastBuildDate>Sat, 23 May 2020 20:00:59 +0530</lastBuildDate>
+        <pubDate>Sun, 24 May 2020 17:29:45 +0530</pubDate>
+        <lastBuildDate>Sun, 24 May 2020 17:29:45 +0530</lastBuildDate>
         <generator>Jekyll v3.8.7</generator>
+        
+        <item>
+            <title>Google Chrome supports “Windows Hello” Authentication</title>
+            <description> Google is now rolling out support for Windows Hello biometric authentication</description>
+            <content:encoded>&lt;p&gt;In an attempt to streamline the payments process in Google Chrome on Windows 10, Google is now rolling out support for Windows Hello biometric authentication in the browser. The feature, which was recently spotted by a user on Twitter, will allow you to authenticate purchases on Google Chrome using Windows Hello’s fingerprint or face recognition.&lt;/p&gt; &lt;p&gt;In case you own a Windows Hello capable device, you can enable the feature in Google Chrome by heading over to the Settings page in the browser and selecting Payment Methods. Here, tap on the toggle next to the Windows Hello option to enable the...</content:encoded>
+            <pubDate>Sun, 24 May 2020 17:21:48 +0530</pubDate>
+            <link>https://dopetrope.tk/google-chrome-supports-windows-hello-authentication/</link>
+            <dc:creator>Sudharshan TK</dc:creator>
+            <guid isPermaLink="true">https://dopetrope.tk/google-chrome-supports-windows-hello-authentication/</guid>
+            <category>google</category>
+        </item>
         
         <item>
             <title>Instagram makes it easier to see when you’re broadcasting music you can’t use</title>
@@ -325,17 +336,6 @@
             <link>https://dopetrope.tk/here-s-everything-apple-announced-during-its-iphone-11-keynote-today/</link>
             <dc:creator>Sudharshan TK</dc:creator>
             <guid isPermaLink="true">https://dopetrope.tk/here-s-everything-apple-announced-during-its-iphone-11-keynote-today/</guid>
-            <category>apple</category>
-        </item>
-        
-        <item>
-            <title>Hands-on with the iPhone 11, iPhone 11 Pro, and Apple Watch Series 5 [Videos]</title>
-            <description>Head below for a roundup of early hands-on videos with the iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max, and Apple Watch Series 5.</description>
-            <content:encoded>&lt;p&gt;After Apple unveiled the iPhone 11, iPhone 11 Pro, and Apple Watch Series 5 at Steve Jobs Theater, members of the press were given time to go hands-on with the company’s latest products.&lt;/p&gt; &lt;p&gt;Head below for a roundup of early hands-on videos with the iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max, and Apple Watch Series 5.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Apple Watch Series 5&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The Apple Watch Series 5 is the first Apple Watch to feature an always-on display. The new always-on display works by intelligently dimming the screen when a user’s wrist is down and returns to full brightness with a...</content:encoded>
-            <pubDate>Wed, 11 Sep 2019 11:36:00 +0530</pubDate>
-            <link>https://dopetrope.tk/hands-on-with-the-iphone-11-iphone-11-pro-and-apple-watch-series-5-videos/</link>
-            <dc:creator>Sudharshan TK</dc:creator>
-            <guid isPermaLink="true">https://dopetrope.tk/hands-on-with-the-iphone-11-iphone-11-pro-and-apple-watch-series-5-videos/</guid>
             <category>apple</category>
         </item>
         
