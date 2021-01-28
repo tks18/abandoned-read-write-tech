@@ -4,8 +4,7 @@ layout: post
 title: Google Chrome supports “Windows Hello” Authentication
 subtitle: " Google is now rolling out support for Windows Hello biometric authentication"
 description: " Google is now rolling out support for Windows Hello biometric authentication"
-image:
-  image: https://www.xda-developers.com/files/2020/04/Google-Chrome-featured-2-810x298_c.jpg
+image: https://www.xda-developers.com/files/2020/04/Google-Chrome-featured-2-810x298_c.jpg
 image_source: XDA
 image_source_url: https://xda-developers.com
 category: google
