@@ -5,9 +5,20 @@
         <description>Dope-T-Rope is a ambitious Project Found For Sharing Tech News and Upda ...</description>
         <link>https://dopetrope.tk/</link>
         <atom:link href="https://dopetrope.tk/feed.xml" rel="self" type="application/rss+xml" />
-        <pubDate>Sun, 24 May 2020 18:11:48 +0530</pubDate>
-        <lastBuildDate>Sun, 24 May 2020 18:11:48 +0530</lastBuildDate>
-        <generator>Jekyll v3.8.7</generator>
+        <pubDate>Thu, 28 Jan 2021 22:24:47 +0530</pubDate>
+        <lastBuildDate>Thu, 28 Jan 2021 22:24:47 +0530</lastBuildDate>
+        <generator>Jekyll v3.9.0</generator>
+        
+        <item>
+            <title>Telegram 7.4 makes it easy to migrate your WhatsApp chat history</title>
+            <description>The update brings a new import feature that will help users migrate their chat history</description>
+            <content:encoded>&lt;p&gt;Telegram and Signal are reaping the benefits of the recent backlash against WhatsApp. The apps have gained several hundred thousand users over the last couple of weeks, and their growth doesn’t seem to be stopping any time soon. In a bid to attract even more WhatsApp users, these apps have been working on bringing new features to get at par with the Facebook-owned messenger. For instance, Signal recently added custom wallpaper and animated sticker support to the app to offer new users a more familiar experience. Now, Telegram is adding a new tool in version 7.4 that will help users...</content:encoded>
+            <pubDate>Thu, 28 Jan 2021 21:40:41 +0530</pubDate>
+            <link>https://dopetrope.tk/telegram-7-4-makes-it-easy-to-migrate-your-whatsapp-chat-history/</link>
+            <dc:creator>Sudharshan TK</dc:creator>
+            <guid isPermaLink="true">https://dopetrope.tk/telegram-7-4-makes-it-easy-to-migrate-your-whatsapp-chat-history/</guid>
+            <category>apps-updates</category>
+        </item>
         
         <item>
             <title>Google Messages prepares end-to-end encryption for RCS</title>
@@ -326,17 +337,6 @@
             <dc:creator>Sudharshan TK</dc:creator>
             <guid isPermaLink="true">https://dopetrope.tk/here-s-everything-apple-didn-t-announce-at-its-september-iphone-11-event/</guid>
             <category>apple</category>
-        </item>
-        
-        <item>
-            <title>Google Translate 6.2</title>
-            <description>Fixes ‘Tap to Translate’ on Android 10, preps ‘Continuous Translation’</description>
-            <content:encoded>&lt;p&gt;During the Android Q Betas, Google Translate’s “Tap to Translate” did not work. Following Android 10’s launch last week, a new version of the app fixes the feature and makes it more subtle. Meanwhile, version 6.2 hints at a continuously audio translation mode.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About APK Insight:&lt;/strong&gt; In this ‘APK Insight’ post, we’ve decompiled the latest version of an application that Google uploaded to the Play Store. When we decompile these files (called APKs, in the case of Android apps), we’re able to see various lines of code within that hint at possible future features. Keep in mind that Google may...</content:encoded>
-            <pubDate>Thu, 12 Sep 2019 11:18:07 +0530</pubDate>
-            <link>https://dopetrope.tk/google-translate-6-2/</link>
-            <dc:creator>Sudharshan TK</dc:creator>
-            <guid isPermaLink="true">https://dopetrope.tk/google-translate-6-2/</guid>
-            <category>app-insights</category>
         </item>
         
     </channel>
