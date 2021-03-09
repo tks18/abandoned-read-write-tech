@@ -5,21 +5,9 @@
         <description>Dope-T-Rope is a ambitious Project Found For Sharing Tech News and Upda ...</description>
         <link>https://dopetrope.tk/</link>
         <atom:link href="https://dopetrope.tk/feed.xml" rel="self" type="application/rss+xml" />
-        <pubDate>Tue, 09 Mar 2021 15:59:22 +0530</pubDate>
-        <lastBuildDate>Tue, 09 Mar 2021 15:59:22 +0530</lastBuildDate>
+        <pubDate>Tue, 09 Mar 2021 16:00:20 +0530</pubDate>
+        <lastBuildDate>Tue, 09 Mar 2021 16:00:20 +0530</lastBuildDate>
         <generator>Jekyll v3.9.0</generator>
-        
-        <item>
-            <title>Sample 1</title>
-            <description>Sample Subtitle</description>
-            <content:encoded>&lt;p&gt;Sample Content&lt;/p&gt;
-</content:encoded>
-            <pubDate>Tue, 09 Mar 2021 15:42:58 +0530</pubDate>
-            <link>https://dopetrope.tk/sample-1/</link>
-            <dc:creator>Sudharshan TK</dc:creator>
-            <guid isPermaLink="true">https://dopetrope.tk/sample-1/</guid>
-            <category>apple</category>
-        </item>
         
         <item>
             <title>Telegram 7.4 makes it easy to migrate your WhatsApp chat history</title>
@@ -338,6 +326,17 @@
             <dc:creator>Sudharshan TK</dc:creator>
             <guid isPermaLink="true">https://dopetrope.tk/google-search-will-now-highlight-and-elevate-original-reporting/</guid>
             <category>google</category>
+        </item>
+        
+        <item>
+            <title>Here’s everything Apple didn’t announce at its September iPhone 11 event</title>
+            <description>There are a number of product launches that Apple has decided to save for a potential October event</description>
+            <content:encoded>&lt;p&gt;Apple’s September event brought us the iPhone 11, iPhone 11 Pro, and iPhone 11 Pro Max, Apple Watch Series 5, launch details for Apple Arcade and Apple TV+, and even the new seventh-generation iPad with a larger 10.2-inch screen. However, there are a number of product launches that Apple has decided to save for a potential October event (or another time) and some that were possibly even scrapped from the September event at the last minute. Read on for a look at everything Apple didn’t announce at Steve Jobs Theater in September but could unveil soon.&lt;/p&gt; &lt;p&gt;Some of the upcoming...</content:encoded>
+            <pubDate>Thu, 12 Sep 2019 11:24:01 +0530</pubDate>
+            <link>https://dopetrope.tk/here-s-everything-apple-didn-t-announce-at-its-september-iphone-11-event/</link>
+            <dc:creator>Sudharshan TK</dc:creator>
+            <guid isPermaLink="true">https://dopetrope.tk/here-s-everything-apple-didn-t-announce-at-its-september-iphone-11-event/</guid>
+            <category>apple</category>
         </item>
         
     </channel>

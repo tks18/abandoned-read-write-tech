@@ -14,16 +14,6 @@
    "items": [
    	
     {
-      "id": "09211542",
-      "url": "https://dopetrope.tk/sample-1/",
-      "title": "Sample 1",
-      "content_html": "<p>Sample Content</p>\n",
-      "summary": "Sample Subtitle",
-      "tags":  [ "welcome message","dopetrope","gadgets" ],
-      "date_published": "2021-03-09T15:42:00+05:30"
-    },
-
-    {
       "id": "28212140",
       "url": "https://dopetrope.tk/telegram-7-4-makes-it-easy-to-migrate-your-whatsapp-chat-history/",
       "title": "Telegram 7.4 makes it easy to migrate your WhatsApp chat history",
@@ -161,6 +151,16 @@
       "summary": "Related tab lists down recommended songs and playlists based on whatever you’re currently listening to",
       "tags":  [ "Youtube","music","recommendation" ],
       "date_published": "2021-05-21T18:04:00+05:30"
+    },
+
+    {
+      "id": "21201745",
+      "url": "https://dopetrope.tk/blog-is-live-after-months-of-rebuilding/",
+      "title": "Blog is Live After Months of Rebuilding",
+      "content_html": "<h5 id=\"hey-there-this-is-shan-from-dopetrope\">Hey there, This is Shan from <em>Dopetrope</em>.</h5>\n\n<p>This Website has Been Upgraded with Massive Features in the Backend for Faster Loading of Website with Some Cool Asynchronous Programming.</p>\n\n<p>Now Has a Faster CDN for Images and Videos Posted Here.</p>\n\n<p>Everything in this Website has Been Completely Automated.\nOur Website now Has its Own API for Interaction with Multiple Web / Android Apps.</p>\n\n<p>Therefore in Future, You May be Able to use this as a Android App.\nEverything is Possible with the help of the API that is Constructed in the Backend.</p>\n\n<h4 id=\"enjoy-faster-content-posts\">Enjoy Faster Content / Posts</h4>\n<h5 id=\"from-shantksudharshan-tk\">from Shan.tk(Sudharshan TK)</h5>\n\n",
+      "summary": "Promise you to keep this Blog constantly Updated",
+      "tags":  [ "live","dopetrope","technology" ],
+      "date_published": "2021-05-21T17:45:00+05:30"
     }
 
   ]
