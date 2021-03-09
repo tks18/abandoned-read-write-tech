@@ -14,6 +14,16 @@
    "items": [
    	
     {
+      "id": "09211547",
+      "url": "https://dopetrope.tk/sample-2/",
+      "title": "Sample 2",
+      "content_html": "<p>Summa</p>\n",
+      "summary": "sample 2",
+      "tags":  [ "apple" ],
+      "date_published": "2021-03-09T15:47:00+05:30"
+    },
+
+    {
       "id": "09211542",
       "url": "https://dopetrope.tk/sample-1/",
       "title": "Sample 1",
@@ -151,16 +161,6 @@
       "summary": "New “Daily Device Usage” toggle in “Manage Your Data”",
       "tags":  [ "android","digital-wellBeing" ],
       "date_published": "2021-05-21T18:11:00+05:30"
-    },
-
-    {
-      "id": "21201804",
-      "url": "https://dopetrope.tk/youtube-music-player-page-adds-a-related-tab-for-recommended-songs-and-playlists/",
-      "title": "YouTube Music player page adds a “Related” tab for recommended songs and playlists",
-      "content_html": "<p>Earlier this year in March, Google rolled out a redesigned player page for YouTube Music on Android. The updated UI included a new tab for static lyrics at the bottom of the music player, alongside the Up Next tab which lists all songs in the current playlist. Now, according to a couple of recent posts on Reddit, YouTube Music is getting a new “Related” tab in the same position on the player page.</p>\n\n<p><img src=\"https://www.xda-developers.com/files/2020/05/YouTube-Music-Related-tab-975x1024.jpg\" alt=\"Youtube Music\" /></p>\n\n<p>As its name suggests, the Related tab lists down recommended songs and playlists based on whatever you’re currently listening to. As you can see in the screenshot above, the tab includes a section called You might also like, which lists similar songs, and a Recommended playlists section, which lists similar playlists. However, another screenshot of the Related tab suggests that it will also show similar artists and other songs from the artist that you’re currently listening to. This leads us to believe that Google hasn’t finalized the design yet and might make some further changes to the tab before it’s released to more users.</p>\n\n<p><img src=\"https://www.xda-developers.com/files/2020/05/YouTube-Music-Related-tab-2-576x1024.jpg\" alt=\"Music\" /></p>\n\n<p>At the moment, it isn’t clear whether the new Related tab has been added to the YouTube Music app as part of the latest update or if it has been enabled by a server-side switch. The feature is currently only available to a handful of users and we have no information from Google regarding a broader rollout. We’ll update this post as soon as we learn more from the company.</p>\n",
-      "summary": "Related tab lists down recommended songs and playlists based on whatever you’re currently listening to",
-      "tags":  [ "Youtube","music","recommendation" ],
-      "date_published": "2021-05-21T18:04:00+05:30"
     }
 
   ]

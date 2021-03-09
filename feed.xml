@@ -5,9 +5,21 @@
         <description>Dope-T-Rope is a ambitious Project Found For Sharing Tech News and Upda ...</description>
         <link>https://dopetrope.tk/</link>
         <atom:link href="https://dopetrope.tk/feed.xml" rel="self" type="application/rss+xml" />
-        <pubDate>Tue, 09 Mar 2021 15:45:43 +0530</pubDate>
-        <lastBuildDate>Tue, 09 Mar 2021 15:45:43 +0530</lastBuildDate>
+        <pubDate>Tue, 09 Mar 2021 15:50:04 +0530</pubDate>
+        <lastBuildDate>Tue, 09 Mar 2021 15:50:04 +0530</lastBuildDate>
         <generator>Jekyll v3.9.0</generator>
+        
+        <item>
+            <title>Sample 2</title>
+            <description>sample 2</description>
+            <content:encoded>&lt;p&gt;Summa&lt;/p&gt;
+</content:encoded>
+            <pubDate>Tue, 09 Mar 2021 15:47:02 +0530</pubDate>
+            <link>https://dopetrope.tk/sample-2/</link>
+            <dc:creator>Sudharshan TK</dc:creator>
+            <guid isPermaLink="true">https://dopetrope.tk/sample-2/</guid>
+            <category>apple</category>
+        </item>
         
         <item>
             <title>Sample 1</title>
@@ -327,17 +339,6 @@
             <dc:creator>Sudharshan TK</dc:creator>
             <guid isPermaLink="true">https://dopetrope.tk/gmail-for-android-dark-theme-begins-rolling-out-gallery/</guid>
             <category>apps-updates</category>
-        </item>
-        
-        <item>
-            <title>Google Search will now highlight and elevate original reporting</title>
-            <description>This will see articles that broke a story — instead of reblogs — be prominently featured to people searching and stay visible longer.</description>
-            <content:encoded>&lt;p&gt;Google’s latest news initiative has Search “elevating original reporting.” This will see articles that broke a story — instead of reblogs — be prominently featured to people searching and stay visible longer.&lt;/p&gt; &lt;p&gt;According to Google, this is meant to account for how “original reporting on a subject doesn’t always stay in the spotlight for long” in today’s “fast-paced world of news.”&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Many news articles, investigations, exclusive interviews, or other work can be so notable that they generate interest and follow-up coverage from other publications. And in other cases, many stories cover a single news development, with all of them...</content:encoded>
-            <pubDate>Thu, 12 Sep 2019 19:31:00 +0530</pubDate>
-            <link>https://dopetrope.tk/google-search-will-now-highlight-and-elevate-original-reporting/</link>
-            <dc:creator>Sudharshan TK</dc:creator>
-            <guid isPermaLink="true">https://dopetrope.tk/google-search-will-now-highlight-and-elevate-original-reporting/</guid>
-            <category>google</category>
         </item>
         
     </channel>
