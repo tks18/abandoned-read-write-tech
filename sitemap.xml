@@ -302,13 +302,6 @@
     
     
         <url>
-            <loc>https://dopetrope.tk/sample-2/</loc>
-            <changefreq>weekly</changefreq>
-            <priority>0.8</priority>
-            <lastmod>2021-03-09</lastmod>
-        </url>
-    
-        <url>
             <loc>https://dopetrope.tk/sample-1/</loc>
             <changefreq>weekly</changefreq>
             <priority>0.8</priority>

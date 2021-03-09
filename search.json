@@ -2,14 +2,6 @@
   
   
     {
-      "title"    : "Sample 2",
-      "tags"     : "apple",
-      "categories" : "apple",
-      "url"      : "/sample-2/",
-      "date"     : "03/09/2021"
-    } ,
-  
-    {
       "title"    : "Sample 1",
       "tags"     : "welcome message, dopetrope, and gadgets",
       "categories" : "apple",
